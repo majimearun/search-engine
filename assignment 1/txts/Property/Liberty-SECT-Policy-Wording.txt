@@ -1,0 +1,3858 @@
+COMMERCIAL PROPERTY POLICY
+GUIDE TO THIS POLICY
+
+INDEMNITY AGREEMENT
+
+This is your Commercial Property Policy, a legal
+document which sets out the insurance cover you have
+requested and which we have agreed to provide.
+
+Liberty Mutual Insurance Europe SE (hereinafter
+referred to as the Company) in consideration of the
+Insured having paid or agreed to pay the premium, will,
+subject to the terms, Exceptions, Conditions,
+Endorsements, and applicable Limits of Indemnity and
+Inner Limits of Indemnity (as shown in the Schedule) of
+this Policy, indemnify the Insured against all sums as
+stated in any operative Section of this Policy, which arises
+in connection with the Business.
+
+Like most commercial policies, the language of this
+Policy is quite formal. Please read it carefully, including
+the Schedule, and ensure you understand it fully. Please
+contact your insurance broker immediately if anything
+needs correcting, or if anything is not clear to you.
+The Policy has separate sections for the different types of
+cover you may have purchased. In each section is an
+insuring clause which, with any Extensions, set out the
+initial scope of cover. Then there are Exceptions, which
+exclude certain elements of that cover. Finally there are
+Conditions, which contain important provisions which
+you should comply with in order to avoid potential
+problems.
+The policy has a “private dictionary” – words with a
+special meaning are listed in alphabetical order in the
+definitions section, and those words always appear with a
+capital letter. Also, there are some extensions, exceptions
+and conditions that apply to more than one Section, and
+to enable you to find the relevant clauses there are
+signposts where necessary.
+
+CONTENTS
+
+Signed on behalf of the Company
+
+Philip Hobbs
+Deputy Managing Director
+Liberty Mutual Insurance Europe SE
+Liberty Mutual Insurance Europe SE
+Registered Office: 5-7 rue Léon Laval,
+L-3372 Leudelange, Grand Duchy of Luxembourg
+Registered in Luxembourg
+Registered Number: B232280
+
+CLAIMS MANAGER
+Page
+The Claims Manager for the purpose of the Claims
+Conditions is DMS, PO Box 2801, ST4 9DN.
+
+1.
+
+Indemnity Agreement
+
+2.
+
+Definitions
+
+8.
+
+Section 1 – Material Damage
+
+14.
+
+Section 2 – Business Interruption
+
+18.
+
+Section 3 – Terrorism
+
+19.
+
+Section 4 – Money
+
+All other communications with the Claims Manager shall
+be sent by email to:
+post.liberty@davies-group.com
+
+20.
+
+Section 5 – Computer Equipment All Risks
+
+or by post or by hand to DMS at the above address.
+
+23.
+
+Section 6 – Goods in Transit
+
+24.
+
+Exceptions
+
+31.
+
+Conditions
+
+40.
+
+Claims Conditions
+
+42.
+
+Complaints Procedure
+
+42.
+
+Data Protection Notice
+
+43.
+
+Company Information
+
+1
+
+43
+
+To notify a loss under Claims Condition 2, email:
+newclaims.liberty@davies-group.com
+
+The Claims Manager will also be available on:
+0344 8562 364.
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+DEFINITIONS
+
+Buildings shall mean:
+
+In this Policy, defined words have initial capitals
+
+(a) the buildings of the Premises including outbuildings,
+landlord’s fixtures and fittings, foundations, walls,
+gates, and fences around and pertaining to the
+Premises;
+
+Act of Terrorism shall mean acts of persons acting on
+behalf of or in connection with any organisation which
+carries out activities directed towards the overthrowing
+or influencing by force or violence of Her Majesty’s
+Government in the United Kingdom or any other
+government de jure or de facto.
+All Other Contents shall mean:
+(a) directors', Employees', and visitors' personal effects;
+(b) Employees' tools;
+(c) computer systems records but only for the value of
+the materials together with the cost of clerical labour
+time expended in reproducing such records
+excluding any expenses in connection with the
+production of information to be recorded therein;
+(d) patterns, models, moulds, plans, and designs;
+(e) documents, manuscripts, and business books but
+only for the value of the materials as stationery
+together with the cost of clerical labour expended in
+writing up.
+Ancillary Equipment shall mean air conditioning
+equipment, voltage regulating equipment, and generating
+equipment solely for use with Computer Equipment.
+Assault Injury shall mean injury:
+(a) which is sustained by the Insured Person during the
+Period of Insurance; and
+(b) caused by accidental, violent, external, and visible
+means which shall solely and independently of any
+other cause result in the death or disablement of an
+Insured Person within twenty-four calendar months
+from the date of the accident by which such injury
+was caused.
+
+(b) piping, ducting, cables, wires, and associated control
+gear, and accessories on the Premises extending to
+the public mains but only to the extent of the
+Insured’s responsibility;
+(c) yards, car parks, roads, and pavements which partly
+or wholly serve to supply the Premises.
+Business shall mean the business described in the
+Schedule.
+Business Interruption shall mean any loss covered
+under Section 2 of this Policy.
+Business Hours shall mean the Insured's usual office
+hours and the working hours, including overtime, during
+which the Insured, their principals, or Employees,
+entrusted with the Insured's Money are on the Premises
+or at sites of contract for the purpose of the Business.
+Claims Manager shall be as stated in the Policy.
+Computer Data shall mean data of any sort whatever,
+including without limitation tangible or intangible data,
+and any programs or software, bandwidth, cryptographic
+keys, databases, documents, domain names or network
+addresses or anything similar, files, interfaces, metadata,
+platforms, processing capability, storage media,
+transaction gateways, user credentials, websites, or any
+information whatever.
+Computer Equipment shall mean computers and all
+other equipment used for the storage and
+communication of electronically processed data including
+interconnecting wiring, fixed discs, and other data
+carrying Media, software and telecommunications but
+excluding any equipment used in the control of a
+manufacturing process.
+Computer Systems shall mean a computer or other
+equipment or component or system or item which
+processes stores transmits or receives Computer Data.
+Damage shall mean direct physical loss, destruction, or
+damage which is both sudden and accidental, and
+Damaged shall have the equivalent meaning.
+Data shall mean facts concepts and/or information
+converted to a form useable in the Insured’s computer
+operations owned leased or rented by the Insured or for
+which they are legally responsible.
+
+2
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+Debris Removal shall mean costs and expenses
+necessarily incurred by the Insured with the consent of
+the Company in:
+(a) debris removal;
+(b) dismantling and demolishing, shoring up or
+propping, and clearing of drains and sewers of the
+portion(s) of the Property Insured Damaged by any
+Defined Peril.
+The Company shall not pay for any costs or expenses:
+(a) incurred in removing debris except from the site of
+such property Damaged and the area immediately
+adjacent to such site;
+(b) arising from pollution or contamination of property
+not insured by this Section.
+Declared Value shall mean the Insured's assessment of
+the cost of Reinstatement of the Property Insured arrived
+at in accordance with the definition of Reinstatement at
+the inception of the Period of Insurance, ignoring
+inflationary factors, making the allowance for:
+(a) the additional cost of Reinstatement to comply with
+Public Authority requirements;
+(b) Professional Fees;
+(c) Debris Removal costs.
+Defined Peril shall mean fire, lightning, explosion,
+aircraft or other aerial devices or articles dropped
+therefrom, earthquake, riot, civil commotion, strikers,
+locked-out workers, persons taking part in labour
+disturbances, malicious persons other than thieves,
+storm, flood, escape of water from any tank, apparatus or
+pipe, impact by any road vehicle or animal, or accidental
+discharge or leak of water from any automatic sprinkler
+installation.
+Denial of Service Attack shall mean any actions or
+instructions constructed or generated with the ability to
+damage, interfere with or otherwise affect the availability
+or performance of networks, network services, network
+connectivity or Computer Systems. Denial of Service
+Attacks include, but are not limited to, the generation of
+excess traffic into network addresses, the exploitation of
+system or network weaknesses, the generation of excess
+or non-genuine traffic between and amongst networks
+and the procurement of such actions or instructions by
+other Computer Systems.
+
+3
+
+43
+
+Estimated Gross Profit shall mean the amount declared
+by the Insured to the Company as representing not less
+than the Gross Profit which it is anticipated will be
+earned by the Business during the financial year most
+nearly concurrent with the Period of Insurance, or a
+proportionately increased multiple thereof where the
+Maximum Indemnity Period exceeds twelve months.
+Geographical Limits shall mean for the purposes of
+Sections 1 and 2 and the definition of Transit: Great
+Britain, Northern Ireland, the Isle of Man, or the
+Channel Islands unless otherwise stated in the Schedule.
+Goods shall mean, for the purposes of Section 6,
+(a) property of every description belonging to the
+Insured, held in trust, or on commission, for which
+the Insured is responsible or has accepted
+responsibility;
+(b) securing chains, toggles, dunnage, sheets, tarpaulins,
+packing materials, and the like, including containers
+belonging to the Insured or for which the Insured is
+responsible, or wishes to accept responsibility, but
+cover for these shall not exceed GBP 2,500 in
+respect of any one claim.
+Gross Profit shall mean the amount by which the sum of
+the amount of the Turnover and the amounts of the
+closing Stock shall exceed the sum of the amounts of the
+opening Stock and the amount of the Specified Working
+Expenses.
+The amounts of the opening and closing Stock shall be
+arrived at in accordance with the Insured's normal
+accountancy methods due provision being made for
+depreciation.
+Hacking shall mean unauthorised access to any
+Computer System, whether the property of the Insured
+or not.
+Incident shall mean Damage to Property Insured, used
+by the Insured at the Premises for the purpose of the
+Business.
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+Indemnity Period shall mean:
+(a) for all purposes apart from in connection with the
+Infectious Diseases Extension to Section 2, the
+period beginning with the occurrence of an Incident;
+(b) for the purposes of the Infectious Diseases
+Extension to Section 2, the period beginning with
+the date from which the restrictions on the Premises
+are applied;
+
+Loss of Sight shall mean the total and irrecoverable loss
+of sight in one or both eyes.
+Machinery/Plant shall mean the machinery, plant,
+fixtures and fittings, tenants improvements, alterations
+and decorations, Computer Equipment and All Other
+Contents all belonging to the Insured or held by the
+Insured in trust, or on commission, for which they are
+responsible or wish to assume responsibility but
+excluding:
+
+and ending not later than the Maximum Indemnity
+Period thereafter during which the results of the Business
+are affected as a result of such Incident or restriction.
+
+(a) landlord’s fixtures and fittings;
+
+Insured shall mean the party stated as Insured in the
+Schedule.
+
+(c) Money;
+
+Insured Amount Per Week shall mean one-fiftieth part
+of the Research Establishment Expenditure incurred
+during the financial year immediately before the date of
+an Incident, to which such adjustment shall be made as
+may be necessary to provide for the trend of the Business
+and for variations in or special circumstances affecting
+the Business either before or after the Incident or which
+would have affected the Business had the Incident not
+occurred, so that the figures thus adjusted shall represent
+as nearly as may be reasonably practicable the result
+which but for the Incident would have been obtained
+during the relative period after the Incident.
+Insured Person shall mean:
+(a) the Insured or any principal, director, or Employee
+of the Insured; or,
+(b) any person acting on behalf of the Insured other
+than an employee of a security company or
+organisation;
+but excluding any person committing the robbery or
+attempted robbery.
+Limit of Indemnity shall mean the total liability of the
+Company for all amounts payable in accordance with the
+Insuring Clause for any loss or series of losses arising
+from any one occurrence as stated in the Schedule.
+For the avoidance of doubt, the Limit of Indemnity is
+inclusive of the relevant Deductible stated in the
+Schedule.
+Loss of a Limb shall mean loss by physical separation of
+a hand, at or above the wrist, or of a foot, at or above the
+ankle, and includes total and irrecoverable loss of use of
+hand, arm, foot, or leg.
+
+4
+
+43
+
+(b) Stock;
+
+(d) Computer Equipment otherwise insured.
+Maximum Indemnity Period shall be as stated in the
+Schedule.
+Media shall mean solely the materials on which Data
+and/or Programs are recorded.
+Money shall mean current coin, bank, and currency
+notes, cheques, travellers cheques, postal and money
+orders, current unused postage stamps, national savings
+stamps, and certificates, premium bonds, luncheon
+vouchers, credit card sales vouchers, unused franking
+machine units, trading stamps, gift tokens, customer
+redemption vouchers, holiday and pay stamps, banker’s
+drafts, promissory notes, savings bonds, securities, bills
+of exchange, dividend warrants, V.A.T. purchase
+invoices, consumer redemption vouchers, company sales
+vouchers or other negotiable instruments belonging to
+the Insured or for which the Insured is responsible.
+Notifiable Disease shall mean illness sustained by any
+person resulting from:
+(a) food or drink poisoning; or,
+(b) acute encephalitis
+acute infectious hepatitis
+acute meningitis
+acute poliomyelitis
+anthrax
+botulism
+brucellosis
+chicken pox
+cholera
+diphtheria
+dysentery
+haemolytic uraemic syndrome
+legionellosis
+legionnaires disease
+leprosy
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+leptospirosis
+malaria
+measles
+meningococcal infection
+mumps
+opthalmia neonatorum
+paratyphoid fever
+plague
+rabies
+rubella
+scarlet fever
+small pox
+streptococcal disease
+tetanus
+tuberculosis
+typhoid fever
+typhus
+viral hemorrhagic fever
+viral hepatitis
+whooping cough
+yellow fever.
+
+Outstanding Debit Balances shall mean the total
+amount outstanding in customers’ accounts as set out in
+the Insured’s accounts as at the end of the last calendar
+month, adjusted for:
+(a) bad debts;
+(b) amounts debited, or invoiced but not debited, and
+credited, including credit notes and cash not passed
+through the books at the time of the Incident, to
+customers' accounts in the period between the date
+to which said last statement relates and the date of
+the Incident; and,
+(c) any abnormal conditions of trade which had or
+could have had a material effect on the Business;
+so that the figure thus adjusted shall represent as nearly
+as reasonably practicable those which would have been
+obtained at the date of an Incident had the Incident not
+occurred.
+
+Nuclear Installation shall mean any installation of such
+class or description as may be prescribed by regulations
+made by the relevant Secretary of State by statutory
+instrument being an installation designed or adapted for:
+
+Permanent Total Disablement shall mean disablement
+for at least 104 (not necessarily consecutive) weeks from
+engaging in, or giving attention to, a profession or
+occupation of any kind.
+
+(a) the production or use of atomic energy;
+
+Phishing shall mean any access or attempted access to
+Computer Data or information made by means of
+misrepresentation or deception.
+
+(b) the carrying out of any process which is preparatory
+or ancillary to the production or use of atomic
+energy and which involves or is capable of causing
+the emission of ionising radiations;
+(c) the storage, processing or disposal of nuclear fuel, or
+of bulk quantities of other radioactive matter, being
+matter which has been produced or irradiated in the
+course of the production or use of nuclear fuel.
+Nuclear Reactor shall mean any plant (including any
+machinery, equipment or appliance, whether affixed to
+land or not) designed or adapted for the production of
+atomic energy by a fission process in which a controlled
+chain reaction can be maintained without an additional
+source of neutrons.
+
+Pollutants shall mean any solid, liquid, gaseous, or
+thermal irritants, smoke, vapour, soot, fumes, acids,
+alkalis, chemicals, waste, or other substances or
+contaminants, moulds or other fungi (including but not
+limited to mildew or mycotoxins or spores or any other
+substance or product produced or released by moulds or
+fungi); which actually or are alleged to adversely affect
+land, water, atmosphere, property, buildings, other
+structures, or people, animals, plants, and all other living
+organisms, or the general environment.
+Premises shall mean the Premises as stated in the
+Schedule.
+Professional Fees shall mean architects’, surveyors',
+consulting engineers', legal and other fees necessarily
+incurred in the reinstatement of the Property Insured as a
+result of its Damage, but not for preparing any claim.
+Programs shall mean a sequence of instructions given to
+a computer which are either purchased or written on a
+custom basis owned leased or rented by the Insured or
+for which they are legally responsible.
+Property Insured shall mean the items of property listed
+in the Schedule.
+
+5
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+Rate of Gross Profit shall mean the rate of Gross Profit
+earned on the Turnover during the financial year
+immediately before the date of the Incident;
+Reinstatement shall mean:
+
+Stock shall mean the stock and materials in trade,
+including work in progress, at the Premises, the property
+of the Insured, or held in trust by the Insured, or on
+commission, for which the Insured are responsible or
+wish to assume responsibility.
+
+(a) the rebuilding or replacement of property which,
+provided the liability of the Company is not
+increased, may be carried out:
+
+System Failure shall mean malfunction or non-function
+of any mechanical and/or electronic system (whether or
+not the property of the Insured) caused by:
+
+(i) in any manner suitable to the requirements of
+the Insured;
+
+(a) the response of a computer to any date or date
+change; or,
+
+(ii) upon another site.
+
+(b) the failure of a computer to respond to any date or
+date change; or,
+
+or,
+(b) the repair or restoration of the property Damaged;
+
+(c) any loss of, damage to, change or corruption in, data
+or software on a computer system; or,
+
+in either case to a condition equivalent to or substantially
+the same as but not better or more extensive than its
+condition when new.
+
+(d) any Virus or Similar Mechanism, or Hacking, or
+degradation of, or breach of security in, or denial of
+access to, a computer system, or website.
+
+(c) in respect of Computer Equipment and Ancillary
+Equipment and data carrying materials, to the
+extent that it cannot be economically repaired, it will
+be replaced by similar equipment of similar capacity
+in a condition equal to but not better or more
+extensive than its condition when new. If it is not
+possible to obtain equipment of similar capacity
+replacement will be of the next higher capacity.
+
+Temporary Total Disablement shall mean temporary
+total disablement for less than 104 (not necessarily
+consecutive) weeks which prevents the Insured Person
+from attending to his usual business or occupation.
+
+Rent Payable shall mean loss of rent payable as a result
+of the Building(s) or any part being unfit for occupation
+in consequence of:
+(a) their being Damaged; or,
+(b) Damage elsewhere on or about the Premises.
+
+Terrorism shall mean any action, threat of action, or
+attempt at action, by any individual(s) or group(s) of
+individuals or body or organisation(s), whether acting
+alone, on behalf of, or in concert with any other body,
+organisation, or government, where such action, threat,
+or attempt is designed to influence, intimidate, or coerce,
+any government or international governmental
+organisation or the population or any section of the
+population, or any community, and the action, threat, or
+attempt, is made for the purpose of advancing a political,
+religious, or ideological cause.
+
+Rent Receivable shall mean the amount of the rent
+received and payments for services provided in respect of
+the letting of the Premises.
+
+Terrorism includes but shall not be limited to:
+
+Research Establishment Expenditure shall mean the
+total expenditure on research by the Insured at the
+Premises less the relative cost of raw materials consumed.
+
+(b) the causing of loss of, or damage to, property;
+
+Standard Rent Receivable shall mean the Rent
+Receivable during the period in the twelve months
+immediately before the date of the damage appropriately
+adjusted where the indemnity period exceeds twelve
+months.
+
+(d) acts involving the use of biological or chemical
+materials or weapons, or any nuclear device, nuclear
+material, or radioactive substance;
+
+Standard Turnover shall mean the Turnover during that
+period in the twelve months immediately before the date
+of an Incident which corresponds with the Indemnity
+Period.
+6
+
+43
+
+(a) the use of violence against any person;
+
+(c) acts which endanger a person’s life;
+
+(e) acts which create a risk to the health of an individual,
+the public, or any section of the public;
+(f) acts designed or intended to interfere with, disrupt,
+or cause the malfunction of, any electronic or
+mechanical equipment.
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+For the avoidance of doubt, the defined terms Terrorism
+and Act of Terrorism are independent of each other.
+Third Party Premises shall mean premises that are
+owned, tenanted, or occupied by a third party and that
+are not used or occupied by the Insured.
+Transit shall mean in transit by road, rail, or inland
+waterway, between any addresses within the
+Geographical Limits including any loading and unloading
+and whilst what is in transit is temporarily housed.
+Turnover shall mean the money paid or payable to the
+Insured for goods sold and delivered and for services
+rendered in the course of the Business at the Premises.
+Unoccupied shall mean closed for Business or not
+occupied for its usual Business purposes for any period
+of more than 30 consecutive days.
+Virus or Similar Mechanism shall mean program code,
+programming instruction or any set of instructions
+constructed with the purpose and ability, or purposely
+used, to damage, interfere with, adversely affect, infiltrate
+or monitor computer programs, Computer Systems,
+Computer Data or operations, whether involving selfreplication or not.
+The definition of Virus or Similar Mechanism includes
+but is not limited to trojan horses worms and logic
+bombs and the exploitation of bugs or vulnerabilities in a
+computer program to damage, interfere with, adversely
+affect, infiltrate or monitor as above.
+Working Hours shall mean the whole period during
+which the vehicle is being used by its driver in
+connection with the Business of the Insured including
+travel to and from the place of work and any break in
+such journey but shall not include when the vehicle is
+parked for any overnight rest period.
+
+7
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+SECTION 1 – MATERIAL DAMAGE
+
+2. Branded Goods
+In the event of a claim for Damage to the Property
+Insured any salvage of branded goods, and/or
+merchandise either in the Insured's own possession
+or held by them in trust or on commission, and/or
+goods sold but not delivered shall not be disposed of
+by sale without the consent of the Company. If
+such salvage is not disposed of by sale then the claim
+will be assessed at the value agreed between the
+Insured and the Company and taken into
+consideration at the settlement of the loss.
+
+INSURING CLAUSE
+This Section shall cover, in accordance with the
+Indemnity Agreement, Damage to any of the Property
+Insured for which a Limit of Indemnity or Inner Limit of
+Indemnity is stated in the Schedule. The Company will
+pay to the Insured the values of such property at the time
+of the Damage or the amount of the Damage or at the
+Company’s option reinstate or replace such Property
+Insured or any part thereof.
+
+3. Capital Additions
+Provided that the liability of the Company during any
+Period of Insurance shall in no case exceed, in respect of
+each Item, the relevant Inner Limit of Indemnity in the
+Schedule or in the aggregate any aggregate Limit of
+Indemnity in the Schedule.
+
+The Company agrees to include:
+
+EXTENSIONS APPLICABLE TO SECTION 1
+
+Any newly acquired and/or newly erected Buildings
+and Machinery/Plant including improvements and
+extensions, insofar as they are not otherwise insured
+anywhere in the Geographical Limits.
+
+1. Annexes
+
+Provided that:
+(a) the liability of the Company in respect of
+Property Insured at any one location shall not
+exceed the Inner Limit of Indemnity shown in
+the Schedule;
+
+Unless more specifically insured the following are
+included in respect of the Buildings to which such
+property is attached or belongs:
+(a) external fire escapes, hoists, gangways, external
+clocks, fences, walls, gates, and staircases and
+water tanks;
+
+(b) the Insured undertake to give to the Company
+full particulars of any Buildings and
+Machinery/Plant subject to cover under this
+Extension within 30 days of cover attaching,
+and to effect specific insurance thereon
+retrospective to the date of the commencement
+of the Insured’s liability; and,
+
+(b) external trunks, conveyors, shafting, belting,
+ropes, cables, service pipes, and similar
+equipment including all supporting structures
+and all such property in the adjoining yards,
+roadways, or underground;
+(c) small outside buildings and their contents,
+conveniences, yards, car parks, service roads,
+loading bays, street furniture, the buildings and
+contents of extensions to, and communicating
+with, any of the above described buildings, oil
+and fuel tanks, and ancillary equipment and the
+contents thereof;
+
+(c) following advice of any additional insurance the
+provisions of this Extension are fully reinstated.
+4. Changing Locks and Keys
+The Company agrees to include costs incurred as a
+result of the necessary replacement of locks and keys
+following the loss of keys by theft from the Premises
+or from the homes of principals, directors, or
+authorised Employees, or by unauthorised
+duplication of keys, provided that if such keys relate
+to a safe or strong room no payment shall be made
+if they are left on the Premises overnight.
+
+all the property of the Insured or for which they are
+responsible.
+
+5. Clearing of Drains
+The Company agrees to cover expenses necessarily
+incurred in clearing, cleaning, or repairing drains,
+gutters, sewers, and the like for which the Insured is
+responsible as a result of Damage to the Property
+Insured.
+8
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+Provided that:
+
+6. Contract Price
+
+(i) the work of reinstatement must be commenced
+and carried out without unreasonable delay and
+in any case must be completed within twelve
+months after the Damage or within such further
+time as the Company may in writing allow
+during the said twelve months, and may be
+carried out upon another site if the Legislation
+or Regulations so necessitate, subject to the
+liability of the Company under this Extension
+not being increased;
+
+In respect of Damage to goods sold under a sale
+contract but not delivered, for which the Insured is
+responsible, which contract is cancelled by reason of
+the condition of the goods, the liability of the
+Company shall be based on the contract price.
+7. Customers’ Goods
+The Insured having accepted responsibility for
+Damage to customers' property or for which the
+customers may be legally responsible, it is agreed
+that all such goods shall be insured by the Item as
+shown in the Schedule covering Stock except insofar
+as they shall be more specifically insured.
+
+(ii) if the liability of the Company under any Item in
+the Schedule shall be reduced by the application
+of any of the terms and conditions of this
+Section then the liability of the Company under
+this Extension shall be reduced in like
+proportion;
+
+8. European Community and Public
+Authorities
+This Policy extends to include such additional cost
+of reinstatement as may be incurred to comply with
+European Union legislation or building or other
+regulations under any Act of Parliament or bye-laws
+of any public authority in respect of the Damaged
+Property Insured excluding:
+(1) (i)
+
+(iii) the total amount recoverable under any Item as
+shown in the Schedule shall not exceed the
+relevant Limit of Indemnity.
+9. Fire Extinguishing Expenses
+
+Damage occurring prior to the inception
+date of this Policy;
+
+(ii) Damage not insured by these Sections;
+(iii) reinstatement required pursuant to any
+notice that has been served upon the
+Insured prior to the happening of the
+Damage;
+(iv) reinstatement required pursuant to an
+existing requirement which has to be
+implemented within a given period;
+(v) any Property Insured that is entirely
+undamaged;
+(2) the additional cost that would have been
+required to make good the Property Insured to
+a condition equal to its condition when new had
+the necessity to comply with the legislation or
+regulations not arisen;
+
+The Company agrees to include:
+(a) the cost of replacing or replenishing
+extinguishment materials necessarily and
+reasonably expended by the Insured, their
+Employees, or the fire brigade in attempts to
+extinguish or minimise Damage by fire;
+(b) the cost of extinguishment expenses for which
+the Insured may be assessed in the event of
+Damage;
+(c) Damage by the fire brigade in respect of
+landscaping at the Premises as a result of
+Damage to the Premises;
+during or following Damage by fire at the Premises,
+not exceeding the Inner Limit of Indemnity stated in
+the Schedule and only to the extent that such
+expenses are not otherwise recoverable.
+
+(3) the amount of any charge or assessment arising
+out of capital appreciation which may be
+payable in respect of the Property Insured or by
+the owner thereof by reason of compliance.
+
+9
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+10. Glass
+
+12. Internal Transfers
+The Company agrees to include any property
+transferred between the Premises described in any
+Item anywhere within the Geographical Limits
+including transit by road, rail, air, and inland
+waterway, but excluding loading and unloading
+between the Premises, subject to the Inner Limit of
+Indemnity stated in the Schedule.
+
+The Company agrees to include breakage of sanitary
+fixtures and fittings, mirrors, fixed plain, plate, or
+sheet glass, including wired or armoured glass,
+including the cost of boarding-up, temporary repairs,
+and removal of debris, and obstructions but
+excluding Damage:
+(a) to glasshouse conservatories, or cold frames;
+
+13. Leased or Rented Premises
+(b) not extending through the glass’s entire
+thickness;
+
+If during the Period of Insurance any premises
+leased or rented by, or to, the Insured anywhere
+within the Geographical Limits sustains Damage,
+where separate insurances are placed elsewhere in
+respect of such premises under lease agreements or
+otherwise, the Company will indemnify the Insured
+in respect of the difference between the amounts
+recoverable under such other insurance and the
+amounts which would be payable under this Policy.
+
+(c) to any glass flawed or broken at the
+commencement of this Policy;
+(d) due to dilapidation of frames, or framework.
+The Limit of Indemnity shall not exceed the amount
+stated in the Schedule.
+
+Further this Policy extends to include any difference
+in conditions between such other insurances and
+those contained within this Policy.
+
+11. Inadvertent Omissions
+The Insured having intended to insure all Property
+Insured within the Geographical Limits in which the
+Insured is interested and it being the Insured’s belief
+that all such property is insured (for the avoidance of
+doubt, this Extension shall not apply where the
+Insured deliberately or recklessly omitted the
+property), if hereafter any such Property Insured
+shall be found to have been inadvertently omitted
+the Company will deem it to be insured within the
+terms of this Section as from the commencement of
+the Period of Insurance or from the date of the
+Insured’s interest in such property if erected or
+purchased after the commencement of the Period of
+Insurance;
+
+14. Metered Water
+The Company agrees to include the costs for which
+the Insured is responsible in respect of loss of
+metered water provided that the Insured maintains a
+record of readings from the Water Authority meter
+at intervals of not more than 7 days.
+The amount payable in respect of any one Premises
+is limited to such excess water charges demanded by
+the Water Authority and resulting from the
+accidental escape of water from pipes, apparatus, or
+tanks as a result of Damage and shall not exceed the
+Inner Limit of Indemnity stated in the Schedule.
+
+Provided that:
+The Limit of Indemnity under this Extension shall
+for the purpose of the Average Condition be added
+to the combined total of the sum of the Declared
+Value for Buildings and Machinery/Plant and the
+Limit of Indemnity for all other Property Insured.
+
+15. Non-invalidation
+
+The insurance under this Extension shall not apply
+to Property Insured situate outside the Geographical
+Limits.
+
+10
+
+43
+
+LMCP18v2
+
+If the risk of Damage is increased by any act or
+omission, or by any alteration, that occurs without
+the Insured’s knowledge, such increase will not
+invalidate this insurance, provided that the Insured
+immediately on such act, omission or alteration
+coming to their knowledge, gives notice thereof to
+the Company and pays such extra premium as the
+Company may require.
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+16. Professional Fees
+The Company agrees to include an amount in
+respect of Professional Fees provided that the
+liability for Damage and fees shall not exceed in the
+aggregate either:
+(a) the amount payable for such fees authorised
+under the Scale of Professional Charges of the
+Royal Institute of British Architects the Royal
+Institution of Chartered Surveyors the
+Association of Consulting Engineers and the
+Law Society; or,
+(b) the relevant Limit of Indemnity as shown in the
+Schedule;
+whichever is the less.
+17. Re-Erection Costs
+The Company agrees to include under Item No 2 of
+Section 1 as shown in the Schedule the cost of reerection and fixing Machinery/Plant as a result of
+Damage by any of the Defined Perils subject to the
+Inner Limit of Indemnity stated in the Schedule.
+18. Reinstatement Day One (Non-Adjustable)
+A. For each Item of Property Insured other than
+Stock the first and annual premiums are based
+upon the Declared Value as stated in the
+Schedule;
+B. The Insured must notify the Company of the
+Declared Value at the start of each Period of
+Insurance.
+If the Insured fails to notify the Company of the
+Declared Value at the start of any Period of
+Insurance, the Company will use the last Declared
+Value notified by the Insured for the following
+Period of Insurance.
+Unless otherwise stated in the Schedule, in the event
+of Damage the basis upon which the Company will
+calculate the amount it will pay for any claim will be
+the reinstatement of the Property Insured lost,
+destroyed or damaged, subject to the following
+conditions:
+
+(i) If Property Insured under any Buildings, or
+Machinery/Plant Item described in the
+Schedule, other than pedal cycles, personal
+items, rent or motor vehicles if insured, is lost
+or destroyed, the Company will pay for its
+rebuilding or replacement by similar property in
+a condition as good as, but not better than or
+more extensive than, its condition when new;
+If such Property Insured is damaged, the
+Company will pay for replacement or repair of
+the damaged portion to a condition as good as,
+but not better than or more extensive than, its
+condition when new;
+However the Company will not pay more than
+it would have done if the property had been
+completely destroyed;
+(ii) The Property Insured may be replaced on
+another site and in a manner suitable to the
+needs of the Insured, but this must not increase
+the liability of the Company;
+(iii) All work must begin and be carried out as
+quickly as possible;
+(iv) If at the time of the Damage, the Declared
+Value is less than the cost of Reinstatement of
+the Property Insured at the start of the Period
+of Insurance, the liability of the Company for
+any Damage will be limited to that proportion
+which the Declared Value bears to the cost of
+Reinstatement of the Property Insured;
+(v) The Company will not pay under this clause;
+(a) Until the Insured has incurred the cost of
+replacing or repairing the property;
+(b) If the Insured or an agent of the Insured
+has insured the property under another
+policy which does not have the same basis
+of reinstatement;
+(c) If the Insured does not comply with any of
+the provisions of this clause
+However the Limits of Indemnity will be
+limited to 100% of the Declared Values stated
+in the Schedule;
+(vi) The maximum the Company will pay in respect
+of each separate Item subject to this clause is as
+stated in the Schedule.
+
+11
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+19. Salvage
+
+22. Temporary Removal
+
+The Insured shall have full right to the possession of
+all goods involved in any Damage and shall retain
+control and, exercising reasonable discretion, shall
+be the sole judge as to whether the goods involved
+in any Damage are fit for use. No goods so deemed
+by the Insured to be unfit for use shall be sold or
+otherwise disposed of except by the Insured or with
+the Insured’s consent; however, the Insured shall
+allow the Company any salvage obtained on any sale
+or other disposition of such goods. In the event the
+Insured elects to stamp “salvage” on the
+merchandise or its containers or removes or
+obliterates the labels or brands they shall do so at
+their own expense.
+
+The Property Insured under this Section, other than
+Stock, is covered whilst temporarily removed for
+cleaning, renovation, repair, or other similar
+purposes to another part of the Premises, or to any
+other premises within the Geographical Limits
+including whilst in Transit.
+The amount recoverable in respect of each Item
+shall not exceed 10% of the relevant Limit of
+Indemnity after deducting the value of any Building,
+exclusive of fixtures and fittings, or Stock.
+This Extension does not apply to:
+(a) motor vehicles and motor chassis licensed for
+normal road use;
+
+20. Stock Basis of Settlement
+
+(b) property held by the Insured in trust, other than
+Machinery/Plant.
+
+The basis upon which the amount payable in respect
+of Stock is to be calculated as follows:
+(a) material in trade, supplies, and other
+merchandise not manufactured by the Insured
+shall be the replacement cost;
+
+23. Temporary Removal (Documents)
+The Company agrees to cover deeds and other
+documents, including stamps thereon, manuscripts,
+plans, and writings of every description, books,
+written and printed, and computer systems records;
+for an amount not exceeding 10% of their value
+whilst temporarily removed to any premises not in
+the Insured's occupation within the Geographical
+Limits and whilst in Transit.
+
+(b) Stock which forms part of work in progress
+shall be the value of raw materials and labour
+plus the appropriate proportion of overhead
+charges;
+(c) finished Stock shall be the regular cash selling
+price less all discounts and charges to which
+such finished Stock would have been subject
+had no loss occurred.
+
+24. Theft Damage to Buildings
+The Company agrees to include Damage sustained
+to any Buildings leased or rented to the Insured and
+where the Damage has arisen as a result of theft, or
+attempted theft, involving entry to, or exit from, the
+Premises by violent and forcible means.
+
+21. Subsidence
+The Deductible applicable to each and every
+occurrence of subsidence or ground heave or
+landslip shall be GBP1,000 unless a higher policy
+Deductible is stated in the Schedule.
+
+25. Third Party Premises
+The Company agrees to include Property Insured at
+Third Party Premises anywhere within the
+Geographical Limits subject to the Inner Limit of
+Indemnity as stated in the Schedule.
+
+12
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+26. Trace and Access
+The Company agrees to include costs necessarily
+incurred in locating the source of any escape of:
+(a) water from any fixed water services or heating
+installation;
+(b) fuel oil used for domestic purpose only;
+including subsequent making good of damage
+caused as a consequence.
+The amount payable shall not exceed the Inner
+Limit of Indemnity stated in the Schedule.
+27. Undamaged Stock
+The Company agrees to include any loss incurred
+less the amount of any salvage monies obtained in
+the event of undamaged Stock being rendered
+unusable for any reason whatsoever resulting solely
+from Damage.
+28. Workmen’s Clause
+Workmen may be employed for the purpose of
+minor extensions, or alterations, installations,
+maintenance, and the like without prejudice to this
+Section.
+
+FOR EXCEPTIONS SEE PAGES 24 TO 30
+FOR CONDITIONS SEE PAGES 31 TO 41
+
+13
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+Rate of Gross Profit and Standard Turnover
+shall be adjusted as may be necessary to provide
+for the trend of the Business and for variations
+in or other circumstances affecting the Business,
+either before or after the Incident, which would
+have affected the Business had the Incident not
+occurred so that the figures thus adjusted shall
+represent as nearly as may be reasonably
+practicable the results which but for the
+Incident would have been obtained during the
+relative period after the Incident;
+
+SECTION 2 - BUSINESS INTERRUPTION
+INSURING CLAUSE
+In the event that any Building or other property, used in
+connection with the Business, has suffered Damage and
+as a result the Business carried on by the Insured is
+interrupted or interfered with, the Company will pay to
+the Insured in respect of each Item as stated in the
+Schedule the amount of loss resulting from such
+interruption or interference as calculated in accordance
+with the Basis of Cover Applicable to Section 2.
+
+(b) in respect of the increase in cost of working, the
+additional
+expenditure
+necessarily
+and
+reasonably incurred for the sole purpose of
+avoiding or diminishing the reduction in
+Turnover that, but for that expenditure, would
+have taken place during the Indemnity Period as
+a result of the Incident, but not exceeding the
+sum produced by applying the Rate of Gross
+Profit to the amount of the reduction thereby
+avoided, subject to the Uninsured Standing
+Charges Condition;
+
+Provided that:
+1.
+
+at the time of the Damage, there shall be in force an
+insurance covering the Premises against such
+Damage and:
+(a) payment has been made or liability shall have
+been admitted; or,
+(b) liability would have been admitted but for the
+operation of a proviso in such insurance
+excluding liability for losses below a specified
+amount.
+
+2.
+
+less any sums saved during the Indemnity Period in
+respect of the charges and expenses of the Business
+payable out of Gross Profit that are not incurred or
+are reduced as a result of the Incident.
+
+the liability of the Company under this Section shall
+not exceed:
+
+The liability of the Company shall not exceed in
+respect of Gross Profit 133.33% of the Declared
+Value stated in the Schedule nor in the whole the
+sum of 133.33% of the Declared Value for Gross
+Profit and 100% of the Limit of Indemnity by other
+Items.
+
+(a) the aggregate Limit of Indemnity as stated in
+the Schedule;
+(b) the relevant Limit of Indemnity remaining after
+deduction for any other interruption or
+interference occurring during the Period of
+Insurance, unless the Company shall have
+agreed to reinstate the Limit of Indemnity.
+
+BASIS OF
+SECTION 2
+
+COVER
+
+APPLICABLE
+
+2. Additional Increase in Cost of Working
+
+TO
+
+1. Gross Profit including Increase in Cost of
+Working – Declaration Linked Basis
+
+Cover under this Item is limited to such further
+additional expenditure beyond that recoverable
+under clause (b) of Item No 1 on Gross Profit as the
+Insured shall necessarily and reasonably incur during
+the Indemnity Period as a result of the Incident for
+the purpose of avoiding or diminishing the
+reduction in Turnover.
+
+Cover under this Item is limited to loss of Gross
+Profit due to reduction in Turnover and increase in
+cost of working and the amount payable shall be
+calculated as follows:
+(a) in respect of reduction in Turnover, the sum
+produced by applying the Rate of Gross Profit
+to the amount by which the Turnover during
+the Indemnity Period shall, as a result of the
+Incident, fall short of the Standard Turnover;
+
+14
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+3. Outstanding Debit Balances/Book Debts
+
+5. Research Establishment Expenditure
+
+Cover under this Item is limited to loss sustained by
+the Insured in respect of Outstanding Debit
+Balances due directly to the Incident and the amount
+payable in respect of any one occurrence shall not
+exceed:
+
+Cover under this Item is limited to the loss sustained
+by the Insured as a result of the Incident in respect
+of the Research Establishment Expenditure and
+increase in cost of working and the amount payable:
+(a) in respect of Research Establishment
+Expenditure for each working week in the
+Indemnity Period during which the activities of
+the Business as a result of the Incident are:
+
+(a) the difference between:
+(i) the Outstanding Debit Balances;
+and,
+(ii) the total of the amounts received or traced
+in respect thereof;
+(b) the additional expenditure incurred with the
+previous consent of the Company in tracing and
+establishing customers' debit balances after the
+Incident.
+Provided that if the Limit of Indemnity is less than
+the Outstanding Debit Balances the amount payable
+shall be proportionately reduced.
+Further, it shall be a condition precedent to liability
+that:
+(a) the Insured's books of account or other
+business books or records in which customers'
+accounts are shown shall be kept in a fireproof
+cabinet or the like; and
+
+(i) totally interrupted or totally given over to
+the reworking of projects affected – the
+Insured Amount Per Week;
+(ii) partially interrupted or partially given over
+to the re-working of projects – an equitable
+portion of the Insured Amount Per Week
+based on the time rendered ineffective by
+reason of the Incident.
+(b) increase in cost of working reasonably and
+necessarily incurred as a result of the Incident in
+order to minimise the disruption, but the
+amount payable shall not exceed the additional
+amount that would have been payable under (a)
+above if no such increase had occurred;
+less any sum saved during the Indemnity Period in
+respect of any of the Research Establishment
+Expenditure as a result of the Incident.
+
+(b) any accounting or other business records in
+which customer accounts are shown that are
+stored on Computer Equipment are ‘backed up’
+weekly and stored off-site.
+4. Fines and Damages
+Cover under this Item is limited to fines or damages
+for breach of contract and the amount payable shall
+be such sums as the Insured shall be legally liable to
+pay and shall pay in discharge of fines or damages
+incurred solely as a result of the Incident for noncompletion or late completion of orders.
+
+15
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+(b) Unspecified Suppliers
+
+6. Rent Receivable
+
+Property of any other of the Insured’s direct
+suppliers, manufacturers, or processors of
+components, goods, or materials, but excluding
+the property of any supplier of electricity, gas,
+or telecommunications services, and premises
+not occupied by the Insured where Property
+Insured is stored.
+
+Cover under this Item is limited to loss of Rent
+Receivable and additional expenditure, and the
+amount payable shall be:
+(a) in respect of loss of Rent Receivable, the
+amount by which the Rent Receivable during
+the Indemnity Period shall as a result of the
+Incident fall short of the Standard Rent
+Receivable;
+
+(c)
+
+Damage to property within 5 miles of the
+Premises which shall prevent or hinder the use
+of the Premises or access thereto, but excluding
+Damage to property of any supplier from which
+the Insured obtains electricity, gas, water or
+telecommunications services, which prevents or
+hinders the supply of such services to the
+Premises.
+
+(b) in respect of additional expenditure: the amount
+incurred for the sole purpose of avoiding or
+diminishing the loss of Rent Receivable which
+would have been due during the Indemnity
+Period as a result of the Incident but not
+exceeding the amount of the reduction thereby
+avoided;
+less any amount saved during the Indemnity Period
+in respect of expenses and charges not incurred as a
+result of the Incident.
+
+(d)
+
+EXTENSIONS APPLICABLE TO SECTION 2
+
+Loss resulting from interruption of or interference
+with the Business in consequence of Damage to
+property as specified below and occurring within the
+Geographical Limits shall not exceed:
+
+(e)
+
+(f)
+
+16
+
+43
+
+(h)
+
+LMCP18v2
+
+Contract Sites
+Premises not in the occupation of the Insured
+where the Insured is carrying out the contracts
+for the supply of goods or services.
+
+(ii) the Limit of Indemnity and Maximum
+Indemnity Period shown in the Schedule.
+
+Property of the supplier(s) detailed in the
+Schedule.
+
+Unspecified Customers
+Property of any other of the Insured’s direct
+customers, with whom at the time of the
+Incident the Insured has contracts to supply
+goods or services.
+
+(g)
+
+(a) Specified Suppliers
+
+Specified Customers
+Property of the customer(s) listed in the
+Schedule.
+
+(i) the percentage of the total of the Limits of
+Indemnity or 133.33% of the Estimated
+Gross Profit;
+or,
+
+Public Utilities
+Property at any generating station or sub-station
+of the electricity supplier, land based property
+of the gas supplier, or any natural gas producer
+linked directly thereto, water works or pumping
+station of the public water supplier, land based
+property of the telecommunications supplier,
+from which the Insured obtains electricity, gas,
+water, or telecommunications services.
+
+Provided that if the Limit of Indemnity is less than
+the annual Rent Receivable, or a proportionately
+increased multiple thereof where the Maximum
+Indemnity Period exceeds twelve months, the
+amount payable shall be proportionately reduced.
+
+1. Loss following Damage to property and
+not otherwise excluded
+
+Prevention of Access
+
+Transit
+The Property Insured whilst in Transit.
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+(i)
+
+Property Stored
+
+(v) caused by atmospheric or weather
+conditions but this shall not exclude failure
+due to Damage to equipment caused by
+such conditions.
+
+The Property Insured whilst stored anywhere
+other than at the Premises occupied by the
+Insured.
+(j)
+
+2. Infectious Diseases
+
+Group Interdependency
+
+This Extension shall only apply in respect of the
+Premises:
+
+Property of any member, subsidiary, or
+associated company of the Insured shall be
+deemed to be loss resulting from Damage to
+Property Insured used by the Insured at the
+Premises to the extent to which that member,
+subsidiary, or associated company has been
+declared to, and accepted by, the Company
+(k)
+
+Loss resulting from interruption of or interference
+with the Business in consequence of:
+(a) (i) any occurrence of a Notifiable Disease at the
+Premises or attributable to food or drink
+supplied from the Premises;
+
+Professional Insured – Documents
+
+or,
+
+Documents belonging to, or held in trust by, the
+Insured, whilst temporarily at premises not in
+the occupation of the Insured, or whilst in
+Transit.
+(l)
+
+(iii) any discovery of an organism at the
+Premises likely to result in a Notifiable
+Disease;
+
+Failure of Utilities
+
+(b) the discovery of vermin or pests at the Premises;
+
+The accidental failure of:
+
+(c) any accident causing defects in the drains or
+other sanitary arrangements at the Premises
+which causes restrictions on the use of the
+Premises on the order or advice of the
+competent local authority;
+
+(i) the supply of electricity at the terminal ends
+of the supplier’s feeders at the Premises;
+(ii) the supply of gas at the supplier’s meters at
+the Premises;
+
+(d) any occurrence of murder or suicide at the
+Premises;
+
+(iii) the supply of water at the supplier’s main
+stop cock serving the Premises;
+
+including the costs and expenses necessarily incurred
+with the consent of the Company in:
+
+(iv) the supply of telecommunications services,
+other than satellite services, at the incoming
+line terminals or receivers at the Premises;
+
+(i) cleaning and decontamination of Property
+Insured used by the Insured for the
+purpose of the Business, other than Stock;
+
+excluding any failure:
+
+(ii) removal and disposal of contaminated
+Stock;
+
+(i) for a duration of twenty four hours or less;
+(ii) caused by the deliberate act of any supplier
+by any such supplier utilising its power to
+withhold or restrict supply or services not
+for the purpose of safeguarding life or
+protecting the supplier’s system;
+(iii) caused by strikes or any labour or trade
+dispute;
+(iv) caused by drought;
+
+at or from the Premises the use of which has been
+restricted on the order or advice of the competent
+local authority solely as a result of the Incident.
+Proviso 1 in the Insuring clause to Section 2 shall not
+apply to the above Extensions.
+
+FOR EXCEPTIONS SEE PAGES 24 TO 30
+FOR CONDITIONS SEE PAGES 31 TO 41
+
+17
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+SECTION 3 - TERRORISM
+INSURING CLAUSE
+The Insurance provided by Sections 1, 2 and 5 is
+extended by this Section to include any loss directly
+caused by an Act of Terrorism occurring during the
+Period of Insurance at the Premises but only in England
+Wales and Scotland but not the territorial seas adjacent
+thereto as defined by the Territorial Sea Act 1987 nor the
+Isle of Man nor the Channel Islands, subject to all the
+terms, Exceptions and Conditions of this Policy.
+The Company’s Limit of Indemnity under this Section in
+any Period of Insurance will not exceed the relevant
+Limit of Indemnity for each of Sections 1, 2 and 5.
+
+FOR EXCEPTIONS SEE PAGES 24 TO 30
+FOR CONDITIONS SEE PAGES 31 TO 41
+
+18
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+SECTION 4 - MONEY
+INSURING CLAUSE
+In the event of any Money belonging to the Insured or
+for which the Insured is responsible being lost, destroyed
+or damaged within the Geographical Limits by any cause
+the Company will indemnify the Insured in respect of
+such loss.
+In addition the Company shall indemnify the Insured in
+respect of:
+(a) any financial loss sustained by the Insured arising
+out of the fraudulent use of any credit, bankers, or
+account cards, or cheques, or cash issued to and
+used by the Insured;
+Provided that:
+(i) the Insured shall comply with the provisions,
+conditions and other terms under which such
+cards shall have been issued, and,
+(ii) the liability of the Company shall not exceed the
+relevant Limit of Indemnity stated in the
+Schedule.
+(b) the cost of repair or replacement following loss,
+destruction or damage to:
+(i) safes, strong rooms, or franking machines;
+(ii) bags cases or waistcoats used for the carriage of
+Money.
+
+EXTENSION APPLICABLE TO SECTION 4
+Personal Accident Assault
+In the event of Assault Injury to an Insured Person
+directly due to theft, or attempted theft, the Company
+will pay to the Insured Person compensation in
+accordance with benefits as stated in the Schedule.
+
+FOR EXCEPTIONS SEE PAGES 24 TO 30
+FOR CONDITIONS SEE PAGES 31 TO 41
+
+19
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+2. Additional Property
+
+SECTION 5 - COMPUTER EQUIPMENT
+ALL RISKS
+
+The Company agrees to include any newly acquired
+Computer Equipment insofar as it is not otherwise
+insured anywhere in the Geographical Limits
+provided that:
+
+INSURING CLAUSE
+This Section shall cover, in accordance with the
+Indemnity Agreement, Damage to any of the Property
+Insured for which a Limit of Indemnity is stated in the
+Schedule. The Company will pay to the Insured the
+values of such property at the time of the Damage or the
+amount of the Damage or at the Company’s option
+reinstate or replace such Property Insured or any part
+thereof.
+
+(a) the liability of the Company in respect of
+Property Insured at any one location shall not
+exceed the Limit of Indemnity shown in the
+Schedule;
+(b) the Insured undertake to give to the Company
+full particulars of any Computer Equipment
+subject to cover under this Extension within 30
+days of cover attaching, and to effect specific
+insurance thereon retrospective to the date of
+the commencement of the Insured’s liability;
+
+Provided that the liability of the Company during any
+Period of Insurance shall in no case exceed, in respect of
+each Item, the Limit of Indemnity in the Schedule.
+
+(c) following advice of any additional insurance the
+provisions of this Extension are fully reinstated.
+
+EXTENSIONS APPLICABLE TO SECTION 5
+The cover provided by this Section shall extend to
+include the following subject to the liability of the
+Company not exceeding in respect of each insured
+extension Limit of Indemnity stated within the Schedule
+in respect of any one claim or claims arising from an
+Event.
+1. Accidental Discharge of Gas Flooding
+Systems
+
+3. Additional Rental
+In the event of Damage insured by this Section to
+Property Insured requiring replacement of a
+lease/hire agreement by a new contract for similar
+property the Company undertakes to pay any
+additional rental charges reasonably incurred.
+4. Automatic Reinstatement
+
+Where such gas flooding systems conform to the
+requirements of health and safety legislation the
+Company will pay for the cost of refilling the
+cylinder(s) of any gas flooding systems installed
+solely for the protection of the Property Insured
+arising out of the accidental discharge of such.
+
+The amounts stated in this Section as Limits of
+Indemnity will be automatically reinstated from the
+date of occurrence of any claim at additional
+premium to be agreed between the Company and
+the Insured except that the Company will not
+require additional premium if the total cost of the
+claim does not exceed GBP10,000.
+5. Breakdown or Derangement
+The cover provided by this Section shall extend to
+include Damage to any item of Computer
+Equipment due to its own breakdown or
+derangement but only when such item is at the time
+of the Damage the subject of a maintenance rental
+hire or lease agreement which must provide a
+minimum service of on call remedial and/or
+corrective maintenance at inclusive cost.
+
+20
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+6. Consulting Engineers’ Fees / Repair
+Investigation Costs
+
+9. Incompatibility of Computer Records
+The Company will pay for:
+
+The Company will pay said fees/costs incurred with
+the consent of the Company in conducting
+investigations and/or tests into possible repair
+reinstatement (whether or not successful) or
+replacement consequent upon Damage insured by
+this Section but not for preparing any claim the
+Company’s liability for such Damage and fees/costs
+shall not exceed in the aggregate the Limit of
+Indemnity in respect of the appropriate Item.
+
+(a) costs of modification of Computer Equipment;
+or,
+(b) costs of replacement of Computer Equipment
+together with reinstatement of Programs
+and/or Data thereon;
+(whichever is less) to achieve compatibility in the
+event that loss or
+destruction of Computer
+Equipment insured by this Section has resulted in
+undamaged
+Computer
+Equipment
+being
+incompatible with the replacement Computer
+Equipment.
+
+7. Debris Removal
+The Company will pay for costs and expenses
+necessarily incurred by the Insured with the consent
+of the Company in:
+
+10. Increase in Cost of Working
+(a) debris removal;
+
+If the computer operations of the Business are
+interrupted or interfered with due to the occurrence
+during the Period of Insurance of an Incident the
+Company will pay as Increase in Cost of Working
+the additional expenditure necessarily and reasonably
+incurred by the Insured during the Indemnity Period
+in consequence of such interruption or interference.
+
+(b) dismantling and demolishing;
+(c) shoring up or propping;
+following Damage insured by this Section.
+The Company shall not pay for any costs or
+expenses:
+
+11. Measures Taken in Avoidance of
+Impending Loss or Damage
+
+(i) incurred in removing debris except from the
+site of such property Damaged and the area
+immediately adjacent to such site;
+(ii)
+
+arising from pollution or contamination of
+property not insured by this Section.
+
+8. Fire Extinguishing Expenses
+The insurance by this Section extends to include the
+costs incurred by the Insured in recharging
+replenishing or replacing fire extinguishing
+appliances (other than gas flooding systems) and
+replacing sprinkler heads in automatic sprinkler
+installations rendered necessary as a result of fire at
+the Premises for which liability is admitted under
+this Section.
+
+21
+
+43
+
+LMCP18v2
+
+The Company will subject to the Limit of Indemnity
+in respect of Item 1 – Fixed Computer Equipment
+pay costs incurred by the Insured in taking
+reasonable but exceptional measures to avoid or
+mitigate impending Damage insured by this Section
+provided that:
+(i) the impending Damage does not stem from any
+reasonable foreseeable cause and that Damage
+would be the natural outcome to be expected in
+the absence of such measure;
+(ii) the Company is satisfied that Damage has been
+avoided or reduced in consequence of the
+measures taken;
+(iii) the terms exclusions and conditions of this
+section shall apply as if Damage had occurred.
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+12. Professional Accountants’ Charges
+The Company will subject to Limit of Indemnity –
+Increase in Cost of Working shown in the Schedule
+pay to the Insured the reasonable charges payable by
+the Insured to their professional accountants for
+producing particulars of any claim for which
+indemnity is provided by Limit of Indemnity –
+Increase in Cost of Working.
+13. Reinstatement of Data
+In the event of accidental loss distortion corruption
+or erasure of Data recorded on Media insured by
+this Section the Company will pay the costs
+necessarily and reasonably incurred by the Insured in
+the Reinstatement of Data but excluding the value to
+the Insured of the Data.
+14. Reinstatement of Programs
+In the event of accidental loss distortion corruption
+or erasure of Programs recorded on Media insured
+by this Section the Company will pay the costs
+necessarily and reasonably incurred by the Insured in
+the Reinstatement of Programs but not for any
+Reinstatement of Data or the value to the Insured of
+the Data contained therein.
+15. Temporary Repairs and Expediting Costs
+The Company will pay for costs necessarily and
+reasonably incurred in the making of temporary
+repairs upon or the expediting of the repair
+reinstatement or replacement of Property Insured
+consequent upon Damage insured by this Section.
+16. Waiver of Subrogation against Authorised
+Users
+The Company shall waive any rights of subrogation
+against any user of the Property Insured provided
+that:
+(i) such user has the authority of the Insured to use
+the Property Insured; and,
+(ii) that such user shall as if he were the Insured
+observe fulfil and be subject to the terms
+exclusions and conditions of this Section.
+
+FOR EXCEPTIONS SEE PAGES 24 TO 30
+FOR CONDITIONS SEE PAGES 31 TO 41
+
+22
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+SECTION 6 – GOODS IN TRANSIT
+
+2. Additional Costs
+The Company will in addition to the relevant Limit
+of Indemnity pay to the Insured costs reasonably
+incurred in connection with the Goods in respect of:
+
+INSURING CLAUSE
+The Company will by payment, or at its option by
+reinstatement, repair, or replacement indemnify the
+Insured against Damage to Goods whilst in Transit.
+
+(a) transhipping any of the Goods to another
+vehicle or delivering it to its original destination
+or returning it to its place of despatch following
+Damage to the Goods or an accident to any
+vehicle owned or operated by the Insured;
+
+EXTENSIONS APPLICABLE TO SECTION 6
+1. General Average and Salvage Charges
+
+(b) clearing away the debris of any of the Goods
+consequent upon its Damage but only to the
+extent that such costs are not recoverable under
+any other insurance under this or any other
+policy;
+
+The Company will in addition to the relevant Limit
+of Indemnity pay the Insured any General Average
+and Salvage charges adjusted or determined to the
+contract of affreightment or the governing law and
+practice, or if there is no contract of affreightment,
+according to Foreign Statement or to York-Antwerp
+Rules, incurred to avoid, or in connection with the
+avoidance of, loss from any cause.
+
+(c) reloading or recovery charges for which the
+Insured is responsible following accident,
+collision, fire, or overturning of the conveying
+vehicle, or the Goods falling from such vehicle
+but only to the extent that such charges are not
+recoverable under any other insurance under this
+or any other policy.
+
+The Company shall pay to the Insured only General
+Average contributions and Salvage charges
+recoverable thereunder the subject matter insured
+shall be deemed to be insured for its full
+contributory value.
+General Average deposits shall be payable on
+production of General Average deposit receipts.
+The total amount recoverable under this extension
+shall not exceed GBP5,000.
+
+23
+
+43
+
+The total amount recoverable under this extension
+shall not exceed GBP5,000.
+
+FOR EXCEPTIONS SEE PAGES 24 TO 30
+FOR CONDITIONS SEE PAGES 31 TO 41
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+4. Consequential Loss
+
+EXCEPTIONS APPLICABLE TO ALL
+SECTIONS
+
+The Company shall not indemnify the Insured under
+Sections 1, 4, 5 or 6 against consequential loss or
+damage of any kind or description other than:
+
+1. Building Collapse
+
+(a) Rent Payable when such loss is expressly
+covered under Section 1;
+
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss caused by, or
+consisting of:
+
+(b) that provided for specifically under Section 5
+and such cover provided under Section 5 shall
+not include any consequential loss which is also
+insured under Section 2.
+
+(a) Damage to a Buildings or a structure caused by
+its own collapse or cracking; or,
+(b) Business Interruption resulting from Damage to
+Buildings or a structure caused by its own
+collapse or cracking;
+
+5. Corrosion
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss caused directly by or
+consisting of:
+
+unless resulting from a Defined Peril insofar as it is
+not otherwise excluded.
+
+(a) corrosion, rust, wet or dry rot, shrinkage,
+evaporation, loss of weight, dampness, dryness,
+marring, scratching, vermin, or insects;
+
+2. Cessation of Work
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss caused directly by or
+consisting of or resulting from cessation of work.
+
+(b) change in temperature, colour, flavour, texture,
+or finish;
+
+3. Chemical, Biological or Nuclear Risks
+
+but this shall not exclude:
+
+The Company shall not indemnify the Insured under
+Section 3 against any loss arising directly or
+indirectly caused by, or contributed to, by, or arising
+from:
+
+(i) loss which results from a Defined Peril or from
+any other accidental damage not being an
+Excepted cause; or,
+
+(a) (i)
+
+(ii) subsequent loss resulting from a cause not
+otherwise excluded.
+
+(ii)
+
+the radioactive, toxic, explosive, or other
+hazardous, properties of any explosive
+nuclear assembly or nuclear component
+thereof;
+
+6. Data
+
+ionising radiation or contamination by
+radioactivity or from the combustion of
+any radioactive material;
+
+(iii) chemical, biological, or radiological
+irritants, contaminants, or pollutants;
+
+The Company shall not indemnify the Insured
+against any loss directly or indirectly caused by or
+consisting of unexplained disappearance of
+information, unexplained or inventory shortage,
+misfiling or misplacing of information;
+
+in respect only of residential property, houses
+and blocks of flats, and other dwellings, insured
+in the name of a private individual;
+(b) loss of any property at or Damage to any
+Nuclear Installation or Nuclear Reactor.
+
+24
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+7. Digital or Cyber Risks
+
+10. Goods in Transit
+
+The Company shall not indemnify the Insured
+against any loss whatsoever directly or indirectly
+caused by or contributed to, or arising from, or
+occasioned by, or resulting from:
+
+Section 6 does not cover:
+
+(i) the
+alteration,
+modification,
+distortion,
+corruption of or damage to any Computer
+System; or,
+
+(b) jewellery, watches, gold and silverware, furs, or
+articles trimmed with fur;
+
+(ii) any alteration, modification, distortion, erasure,
+corruption of Computer Data;
+where such loss is directly or indirectly caused by or
+contributed to by or arising from or occasioned by
+or resulting from Virus or Similar Mechanism or
+Hacking or Phishing or Denial of Service Attack.
+However, where Section(s) 1, 2, 3 or 5 are operative
+in the event that a peril listed below results from any
+of the matters described in paragraph (i) above, this
+Policy will cover Damage to Property Insured
+directly caused by:
+Fire,
+Explosion.
+8. Erasure of Programs and Data
+The Company shall not indemnify the Insured under
+Section 5 against loss distortion corruption or
+erasure of Programs and/or Data recorded on
+Media unless such accidental loss distortion
+corruption or erasure of Programs and/or Data
+itself results from other Damage to Property Insured
+and is not otherwise excluded.
+9. Excepted Property
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss in respect of:
+(a) glass other than fixed glass, china, earthenware,
+marble, or other fragile or brittle objects;
+
+(a) accounts, deeds, evidence of debt, currency,
+Money, bullion, notes;
+
+(c) animals, birds, or plants of any description;
+(d) loss of profit, loss of use or loss of market;
+(e) loss, destruction or damage caused by or
+consisting of:
+(i) improper packing, rough handling, or
+unexplained shortage;
+(ii) insect, vermin, or inherent vice;
+(f) loss, destruction or damage caused by or
+consisting of leakage, evaporation, shrinkage,
+dampness, dryness, breakage, change in
+temperature, colour, flavour, texture, or finish,
+mould, rust, wet, or dry rot, souring, bending,
+denting, chipping, marring, scratching.
+Provided that this Exception shall not apply to
+loss, destruction, or damage not otherwise
+excluded that results from a Defined Peril, or
+from collision, derailment, overturning,
+stranding, burning, or sinking of a ferry or
+watercraft;
+(g) export shipments which have been laden on
+board export conveyance or have come under
+the protection of marine insurance whichever
+first occurs;
+(h) import shipments until fully discharged from
+import conveyance or until marine insurance
+has ceased to cover whichever last occurs.
+
+(b) jewellery, precious stones, precious metals,
+bullion, furs, curiosities, works of art, or rare
+books;
+(c) Money;
+other than loss caused by a Defined Peril and not
+otherwise excluded.
+
+25
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+11. Heat
+
+14. Marine
+
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss caused by fire
+resulting from the Property Insured undergoing any
+heating process involving the application of heat,
+other than by fire or explosion, resulting from the
+Property Insured undergoing any process of
+production,
+packing,
+treatment,
+testing,
+commissioning, servicing, or repair.
+
+The Company shall not indemnify the Insured
+(a) against any loss in respect of Property Insured
+that is insured by, or would, but for the
+existence of this Policy, be insured by any
+marine policy/ies, except in respect of any
+excess beyond the amount which would have
+been payable under the marine policy/ies had
+this insurance not been effected;
+
+12. Leaks, Breakdown and Utilities
+(b) under Section 3 in respect of any loss arising
+under any marine, aviation, transit policy or any
+motor certificate or policy.
+
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss caused directly by or
+consisting of:
+
+15. Molten materials
+(a) joint leakage, failure of welds, cracking,
+fracturing, collapse, or overheating of boilers,
+economisers, superheated pressure vessels, or
+any range of steam and feed piping in
+connection therewith;
+(b) mechanical or electrical breakdown or
+derangement in respect of the particular
+machine, apparatus, or equipment in which such
+breakdown or derangement originates;
+
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss caused by or
+consisting of the solidification of the contents of
+molten material holding units, molten material,
+transmission lines and/or appurtenances, unless it
+results from a Defined Peril and is not otherwise
+excluded.
+16. Money
+
+(c) the deliberate act of a supply undertaking in
+withholding the supply of water, gas, electricity,
+fuel, or telecommunications services;
+
+The Company shall not indemnify the Insured under
+Section 4 against
+(a) loss, destruction, or damage:
+
+but this shall not exclude:
+(i) loss which results from a Defined Peril, or from
+any other accidental damage not being an
+Excepted cause; or,
+(ii) subsequent loss resulting from a cause not
+otherwise excluded.
+
+(i) arising from dishonesty on the part of any
+director, partner, or Employee of the
+Insured not discovered within fourteen days
+of the occurrence;
+(ii) occasioned by errors or omissions;
+(iii) recoverable from a specialist security carrier
+
+13. Maintenance Agreement
+The Company shall not indemnify the Insured under
+Section 5 against Damage recoverable under any
+guarantee or maintenance rental hire or lease
+agreement.
+
+(iv) from an unattended vehicle operated or
+under the control of the Insured or their
+Employees;
+(v) covered by a policy of fidelity guarantee
+insurance.
+(b) loss or shortages due to depreciation or
+currency fluctuation.
+
+26
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+17. Mould
+
+20. Other insurance
+
+The Company shall not indemnify the Insured
+against any loss caused directly by or consisting of or
+resulting from mould, mildew, fungus or spores but
+this shall not exclude such loss not otherwise
+excluded which itself results from a Defined Peril, in
+which case the Insured must report to the Company
+the existence and cost of the loss as soon as
+practicable, but no later than six months after the
+Defined Peril first caused any loss to the Insured
+during the Period of Insurance; the Company shall
+not indemnify the Insured for loss reported after
+that six month period.
+
+The Company shall not indemnify the Insured
+against any loss in respect of any property more
+specifically insured under any other policy, by or on
+behalf of the Insured.
+21. Personal Accident Assault
+The Company shall not be liable under Section 4 for
+Assault Injury consequent upon, or contributed to
+by:
+(a) the Insured Person having any physical or
+mental defect or infirmity, which was known to
+the Insured or the Insured Person at the
+inception of this Policy or prior to the latest
+renewal thereof, and which had not been
+declared to, and accepted in writing by, the
+Company;
+
+18. Movable property
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss in respect of
+movable property in the open, fences and gates,
+caused by wind, rain, hail, sleet, snow, flood, or dust.
+
+(b) Assault Injury to any person under the age of
+sixteen years or over the age of seventy years.
+
+19. Other Excepted Causes
+The Company shall not indemnify the Insured under
+sections 1 to 3 in respect of any loss caused directly
+by or consisting of
+
+22. Pollution
+The Company shall not indemnify the Insured under
+Sections 1, 2, 3, 5 and 6 against any loss caused by
+pollution or contamination but this Exception shall
+not apply to Damage to Property Insured caused by:
+
+(a) inherent
+vice,
+latent
+defect,
+gradual
+deterioration, wear and tear, frost, its own faulty
+or defective design or materials;
+
+(a) pollution, or contamination from a Defined
+Peril;
+
+(b) faulty or defective workmanship, or operational
+error or omission on the part of the Insured or
+any of their Employees;
+(c) the operation of machinery, plant, apparatus or
+equipment unless such operation is in
+accordance with the manufacturer's instructions
+or specification;
+
+(b) a Defined Peril resulting from pollution or
+contamination.
+23. Pressure waves
+
+but this shall not exclude subsequent loss which
+itself results from a cause not being an Excepted
+cause or otherwise excluded.
+(d) explosion occasioned by the bursting of a boiler
+(not being a boiler used for domestic purposes
+only) economiser or other vessel, machine or
+apparatus in which the internal pressure is due
+to steam only and belonging to or under the
+control of the Insured but this shall not exclude
+loss resulting from interruption or interference
+with the Business or subsequent loss which
+itself results from a cause not being an
+Excepted cause or otherwise excluded.
+
+27
+
+43
+
+LMCP18v2
+
+The Company shall not indemnify the Insured
+against any loss caused by or consisting of pressure
+waves caused by aircraft, or other aerial devices,
+travelling at sonic or supersonic speeds, but this shall
+not exclude subsequent loss which itself results from
+a cause not otherwise excluded.
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+24. Private property
+
+25. Property Insured away from the Premises
+
+The Company shall not indemnify the Insured under
+Section 3 in respect of Damage to:
+
+The Company shall not indemnify the Insured under
+Section 1 and 5 against Damage to Property Insured:
+
+(a) any property which is specifically excluded
+elsewhere in this Policy;
+
+(a) away from the Premises (where the insurance
+on any Property Insured item as stated in the
+Schedule so provides) caused by theft or
+attempted theft of the Property Insured:
+
+(b) any land or Building which is insured in the
+name of an individual and is occupied by that
+individual for residential purposes unless:
+(i) insured under the same policy as the
+remainder of the Building which is not a
+private residence;
+(ii) the Building is a block of flats.
+
+(i) from or on an unattended vehicle or trailer
+during Working Hours unless all doors
+windows and other means of access have
+been secured and locked and alarm (if any)
+activated and in respect of an unattended
+vehicle the Property Insured to be placed in
+the boot or similar luggage compartment of
+the vehicle (and in so doing to be
+effectively concealed from sight) and which
+is securely closed and locked;
+(ii) from or on an unattended vehicle or trailer
+out of Working Hours unless all doors
+windows and other means of access have
+been secured and locked and alarm (if any)
+activated and in respect of an unattended
+vehicle the Property Insured to be placed in
+the boot or similar luggage compartment of
+the vehicle (and in so doing to be
+effectively concealed from sight) and which
+is securely closed and locked and such
+vehicle or trailer is garaged in a securely
+closed and locked building or compound;
+(iii) from or on an unattended soft topped
+open topped or open sided vehicle or
+trailer unless also involving theft of the
+vehicle or trailer;
+(iv) where Property Insured is otherwise left
+unattended (which term shall mean that the
+Insured is unable to exercise control over
+or otherwise unable to influence events
+affecting the Property) unless contained in
+a locked building of
+substantial
+construction or in a secure locked room.
+(b) in or on soft topped open topped or open sided
+vehicles or trailers if caused by:
+(i) storm, tempest, water, hail, frost or snow;
+(ii) malicious persons when the vehicle or
+trailer is left unattended out of Working
+Hours.
+
+28
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+26. Property in Transit
+
+31. Satellite Telecommunications
+
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss in respect of
+property in transit except as provided for by Section
+1 Extensions – Temporary Removal and Temporary
+Removal (Documents).
+
+The Company shall not indemnify the Insured under
+Section 5 against Increase in Cost of Working due to
+(i) failure of any satellite prior to its obtaining its
+full operating function or while in or beyond
+the final year of its design life
+
+27. Reinstatement of Data and Reinstatement
+of Programs
+The Company shall not indemnify the Insured under
+Section 5 in respect of cover under Limit of
+Indemnity - Increase in Cost of Working the costs of
+Reinstatement of Data and Reinstatement of
+Programs onto Media.
+
+(ii) atmospheric solar or lunar conditions causing
+temporary interference with transmission to or
+from any satellite.
+32. Subsidence
+
+28. Radiation
+The Company shall not indemnify the Insured under
+any Section of this Policy against any loss or liability:
+directly or indirectly caused by, or contributed to, by,
+or arising from:
+(a) ionising radiations, or contamination by
+radioactivity, from any nuclear fuel or from any
+nuclear waste from the combustion of nuclear
+fuel;
+(b) the radioactive, toxic, explosive, or other
+hazardous properties of any explosive nuclear
+assembly or nuclear component thereof;
+29. Riot
+
+(a) against any loss arising directly or indirectly in
+consequence of riot, civil commotion and
+(except in respect of any loss by fire or
+explosion) strikers, locked out workers, persons
+engaged in labour disturbances or malicious
+persons in Northern Ireland;
+(b) under Section 3 in respect of any loss directly or
+indirectly caused by or contributed to by, or
+arising from, or occasioned by or resulting from
+riot or civil commotion.
+
+(b) caused by or consisting of:
+(i) the normal settlement or bedding down of
+new structures;
+(ii) the settlement or movement of made-up
+ground;
+
+(iv) defective design or workmanship or the use
+of defective materials;
+(v) fire,
+subterranean
+fire,
+explosion,
+earthquake or the escape of water from any
+tank, apparatus or pipe.
+(c) where Damage originated prior to the inception
+of this Policy;
+(d) caused by:
+(i) demolition,
+construction,
+structural
+alteration or repair of any property; or,
+
+30. Sanctioned Territories
+The Company shall not indemnify the Insured under
+this Policy against Damage to Property Insured
+(where the insurance on any Property Insured item
+so applies) where such Property is situate in any
+territory which is subject to sanctions imposed by
+the United Nations or by the Governments of the
+United Kingdom or the United States of America.
+
+43
+
+(a) of yards, car-parks, roads, pavements, walls,
+gates and fences unless a Building at the
+Premises insured hereby is also Damaged
+thereby;
+
+(iii) coastal or river erosion;
+
+The Company shall not indemnify the Insured:
+
+29
+
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss caused by or
+consisting of subsidence or ground heave or
+landslip:
+
+LMCP18v2
+
+(ii) groundworks or excavation;
+at the Premises.
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+33. Terrorism
+The Company shall not indemnify the Insured
+against:
+
+36. Vehicles, Construction, Agriculture and
+Roads
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss in respect of:
+
+(a) any loss occasioned by or happening through or
+in consequence directly or indirectly of
+Terrorism regardless of any other cause or event
+contributing concurrently or in any other
+sequence to the loss;
+
+(a) vehicles licensed for road use (including
+accessories thereon), caravans, trailers, railway
+locomotives, rolling stock, watercraft, or
+aircraft;
+
+(b) any loss cost or expense of whatsoever nature
+directly or indirectly caused by, resulting from
+or in connection with, any action taken in
+controlling, preventing, suppressing, or in any
+way related to Terrorism.
+
+(b) property or structures in course of construction
+or erection, and materials or supplies in
+connection with any such property in the course
+of construction or erection;
+(c) land, roads, pavements, piers, jetties, bridges,
+culverts, or excavations;
+
+In any action, suit, or other proceedings where the
+Company alleges that by reason of the provisions of
+this Exception any loss is not covered any Section of
+this Policy the burden of proving that such loss is
+covered shall be upon the Insured.
+
+(d) livestock, growing crops, or trees;
+other than:
+(i) under Section 1 where specifically insured;
+
+34. Theft
+
+(ii) under Section 2 - where Business
+Interruption is caused by a Defined Peril
+and such property or sites are specifically
+insured or noted under the description of
+Premises.
+
+The Company shall not indemnify the Insured under
+Sections 1 to 3 and 5 against any loss caused directly
+by or consisting of theft or any attempted theft:
+(a) which does not involve entry to, or exit from,
+the Premises by forcible and violent means;
+
+37. War
+(b) of Property Insured whilst left in any yard, open
+space, or open sided building;
+
+The Company shall not indemnify the Insured
+against any loss or liability arising directly or
+indirectly in consequence of:
+
+(c) by or in collusion with any Employee or any
+other person lawfully on the Premises unless
+such loss is notified to the Company within 30
+days of it occurring.
+
+(a) war, invasion, act of foreign enemy, hostilities
+or a warlike operation or operations (whether
+war be declared or not) civil war, rebellion,
+revolution, insurrection, sabotage, mutiny,
+martial law, military or usurped power;
+
+35. Unoccupied Buildings
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss caused:
+
+(b) nationalisation, confiscation, requisition, seizure
+or destruction by any government or any public
+authority;
+
+(a) by freezing;
+
+(c) any action taken in controlling, preventing,
+suppressing or in any way relating to (a) and/or
+(b) above.
+
+(b) by escape of water from any tank, apparatus or
+pipe;
+(c) other than by fire or explosion, by malicious
+persons, not acting on behalf of, or in
+connection with, any political organisation;
+
+38. Water Table
+The Company shall not indemnify the Insured under
+Sections 1 to 3 against any loss attributable solely to
+change in the water table level.
+
+(d) by theft or attempted theft;
+in respect of any Building which is Unoccupied.
+
+30
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+4. Automatic Fire Alarm Installations
+
+CONDITIONS APPLICABLE TO ALL
+SECTIONS
+
+It shall be a condition precedent to liability under
+Sections 1, 2 and 5 that where automatic fire alarms
+are installed the Insured shall:
+
+1. Accumulated Stocks
+
+(a) carry out the testing and checking requirements
+referred to on the completion certificate and
+remedy promptly any defect disclosed;
+
+In adjusting any loss under Section 2, account shall
+be taken and an equitable allowance made if any
+shortfall in Turnover due to an Incident happens by
+reason of the Turnover being temporarily
+maintained from accumulated stocks of finished
+goods.
+
+(b) carry out the maintenance procedures specified
+by the manufacturers of the equipment;
+(c) notify the Company immediately of any
+disconnection or failure of the automatic fire
+alarm installation likely to leave any area
+unprotected for 12 hours or more;
+
+2. Alteration of Risk
+Sections 1 to 6 shall cease to have effect from the
+date of any one of the following:
+
+(d) record details of all events such as alarm faults,
+tests, maintenance, and disconnections and keep
+such details available for examination by the
+Company's representatives.
+
+(a) the interest of the Insured ceases;
+(b) the Business is wound up, or carried on, by an
+administrator, trustee in bankruptcy, liquidator,
+or receiver, or permanently discontinued;
+
+5. Automatic Reinstatement
+
+(c) any alteration which materially affects the risk
+insured provided that if the alteration could not
+reasonably have been known to the Insured, or
+the alteration is beyond the Insured’s control,
+the Policy shall continue in force, subject to the
+Insured:
+(i) notifying the Company in writing of the
+alteration in risk within 14 days of the
+Insured becoming aware of the alteration;
+
+In the absence of written notice by the Company or
+the Insured to the contrary the insurance by Sections
+1, 2 and 5 shall not be reduced by the amount of any
+loss and in consideration the Insured shall pay the
+appropriate extra premium on the amount of the
+loss from the date thereof to the date of the expiry
+of the Period of Insurance. This shall not apply to
+losses that are covered under Section 3.
+
+and,
+(ii) promptly paying any additional premiums
+required by the Company, such amount to
+be calculated at the Company’s discretion.
+3. Alternative Trading
+If during the Indemnity Period goods shall be sold
+or services rendered elsewhere than at the Premises
+for the benefit of the Business, the money paid or
+payable in respect of such sales or services shall be
+brought into account in arriving at the Turnover
+during the Indemnity Period.
+
+31
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+(g) they comply with and display prominently at
+each sprinklered area, a notice of the terms
+agreed with the Company which specifies:
+
+6. Automatic Sprinkler Installations
+It shall be a condition precedent to liability under
+Sections 1, 2 and 5 that where an automatic sprinkler
+system is installed the Insured shall ensure that:
+
+(i) the description of goods that may be stored;
+
+(a) it is continuously operational;
+
+(ii) the maximum height of storage;
+
+(b) every working day a test is made to ensure that
+the circuit between the alarm switch and the
+control unit, except where it is continuously
+monitored or is such that one break of wires
+will not prevent an alarm signal being
+transmitted, for example a ring circuit, is
+operational;
+
+(iii) the minimum permitted clearance between
+goods stored and the sprinkler deflectors.
+Provided the Insured shall not be in breach of subclauses (a) or (b) of this Condition if:
+(i) notice is given to the Company immediately the
+installation is rendered inoperative or in the
+event of an emergency; and
+
+(c) every week:
+
+(ii) the Insured takes all reasonable steps
+immediately to ensure the installation returns to
+full operation.
+
+(i) a test is made to ensure the condition of:
+(1) the connection with the public fire
+station, central fire alarm depot, or
+public fire brigade control, unless they
+have given a written undertaking to
+carry out this test;
+
+7. Average
+Each Declared Value is to be subject to Average,
+meaning that if the Property Insured shall, at the
+commencement of any loss, be collectively of greater
+value than the Declared Value then the Insured shall
+pay the difference and shall bear a rateable share of
+the loss accordingly.
+
+(2) the relevant batteries.
+However, where the circuit concerned is not
+continuously monitored, these tests must be
+made every day;
+
+8. Building Works on an Adjoining Site
+(ii) the alarm gong is tested to ensure that it is
+in working order and that the stop valves
+controlling the individual water supplies
+and the installation are fully open;
+
+The Insured shall give immediate notice to the
+Company in respect of subsidence, landslip, and
+ground heave.
+
+(iii) the pump(s) are tested to ensure they can
+be started both automatically and manually
+and that in respect of any diesel engine
+driven pump the battery electrolyte level
+and density are correct and a record is kept;
+
+In the event of building demolition or excavation
+operations being commenced on any adjoining site
+the Company shall have the right to vary or cancel
+the cover against loss caused by subsidence, landslip,
+and ground heave.
+
+(d) they have a contract with approved installing
+engineers providing for the maintenance and
+half-yearly inspection of the automatic sprinkler
+installation system and obtain certification after
+each inspection that the system is in satisfactory
+working order;
+(e) every quarter or half year, if required by the
+Company, they test that each water supply is in
+order and a record of the tests is kept;
+(f) they remedy promptly any defect disclosed by
+any tests;
+
+32
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+9. Cancellation
+
+12. Deductibles
+
+The Company may cancel this Policy by sending
+thirty days notice by registered letter to the Insured
+at their last known address, or that of their agent or
+intermediary. In such event the Insured shall become
+entitled to the return of a proportionate part of the
+premium corresponding to the unexpired portion of
+the Period of Insurance, less any sums due from the
+Insured to the Company; provided always that no
+claim(s) or circumstance(s) have been notified to the
+Company.
+In the event that any claims or circumstances have
+been advised to the Company, then the Company
+reserves the right to withhold such return premium
+until such claims or circumstances are settled or a
+release from liability is received from the Insured.
+
+All claims under this Policy for loss arising out of
+any one occurrence, or series of losses arising out of
+one occurrence, shall be adjusted separately, and
+from the amount of each adjusted loss, the amount
+stated in the Schedule as the Deductible for the
+relevant Section shall be deducted after application
+of the terms, conditions, and provisions of this
+Policy including any condition of Average.
+The Limit(s) of Indemnity and Inner Limits of
+Indemnity are inclusive of the Deductible.
+13. Departmental
+In respect of Section 2 if the Business be conducted
+in departments the independent trading results for
+which are ascertainable the provisions of clauses (a)
+and (b) of Item 1. Gross Profit including Increase in
+Costs of Working – Declaration Linked Basis shall
+apply separately to each department affected by the
+Incident except that if the Declared Value by the
+said Item be less than the aggregate of the sums
+produced by applying the Rate of Gross Profit for
+each department of the business (whether affected
+by the Incident or not) to its relative annual
+Turnover (or to a proportionately increased multiple
+thereof where the Maximum Indemnity Period
+exceeds twelve months) the amount payable shall be
+proportionately reduced.
+
+If the sum total of all claims paid exceeds the
+calculated pro rata time on risk charge, the Company
+reserves the right to deduct the amount of the excess
+from the return premium which would have been
+allowable.
+See also Condition 20 relating to Goods in Transit.
+10. Contracting Purchaser
+If at the time of loss the Insured has contracted to
+sell his interest in any of the Premises and the
+purchase has not been completed, the purchaser,
+upon completion of the purchase, if and to the
+extent the property is not otherwise insured against
+such loss by or on behalf of the purchaser, shall be
+entitled to benefit under Section 1 without prejudice
+to the rights and liabilities of the Insured and the
+Company until completion.
+11. Data and Media Basis of Valuation
+
+14. Designation
+For the purpose of determining the Item under
+which any property is insured the Company agrees
+to accept the designation under which such property
+has been entered in the Insured's books.
+15. Explosion
+
+Should any electronic data or processing media
+insured by Section 1, 2 or 5 suffer physical loss or
+damage covered by this Policy then the basis of
+valuation shall be the cost of the blank media plus
+the cost of copying the electronic data from back-up
+or from originals of a previous generation. These
+costs will not include research and engineering nor
+any costs of recreating, gathering, or assembling
+such electronic data. If the media is not repaired,
+replaced, or restored the basis of valuation shall be
+the cost of the blank media. However, Sections 1, 2
+and 5 do not insure any amount pertaining to the
+value of such electronic data to the Insured or any
+other party even if such electronic data cannot be
+recreated gathered or assembled.
+
+33
+
+43
+
+LMCP18v2
+
+In respect of any vessel, machinery, or apparatus, or
+its contents, belonging to, or under the control of,
+the Insured which requires to be examined to
+comply with any statutory regulations, cover against
+Damage caused by an explosion originating therein
+is subject to the provision that such vessel,
+machinery, or apparatus shall be subject of a policy
+or other contract providing the required inspection
+service.
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+16. Contracts (Rights of Third Parties) Act
+1999
+
+20. Goods in Transit - Bailee
+Section 6 shall not inure directly or indirectly to the
+benefit of any carrier nor without the affirmative
+consent of the Insured to the benefit of any other
+bailee. The Insured may accept without prejudice to
+Section 6 the ordinary or released value of Bills of
+Lading of carriers as provided in their tariffs
+otherwise the Insured agrees not to enter into any
+special agreements with carriers or bailees releasing
+them from their common law or statutory liability.
+The Company shall not be liable for any loss which
+without its written consent has been settled or
+compromised by the Insured.
+
+A person who is not party to this Policy has no
+rights under the Contracts (Rights of Third Parties)
+Act 1999, or any subsequent legislation amending or
+replacing such Act, to enforce any term of this
+Policy but this shall not affect any right or remedy
+available to a third party, which exists or is available
+separately from that Act.
+17. Fraud
+The Company shall not indemnify the Insured
+against any loss caused directly by or consisting of
+acts of fraud or dishonesty on the part of the
+Insured or any partner, director or Employee of the
+Insured, members of their families or any other
+person to whom Property Insured has been
+entrusted but this shall not exclude such loss not
+otherwise excluded which itself results from a
+Defined Peril. Nor shall the Company provide any
+indemnity under this Policy in respect of a claim that
+is fraudulent in any respect. The Company may by
+notice to the Insured treat this Policy as having been
+terminated from the time of the fraudulent act and
+need not return any of the premiums paid.
+
+21. Goods in Transit - Cancellation
+In the event of cancellation of Section 6 the Insured
+agrees to furnish the Company with an accurate
+statement showing the total value of all shipments
+covered by Section 6 before the date of cancellation,
+and further agrees to pay premium on such amount
+if the premium thus determined exceeds the initial
+premium paid. The amount of such excess premium
+shall immediately become due and payable to the
+Company. If the earned premium is less than the
+original premium the Company shall return the
+difference to the Insured subject to any minimum
+premium requirements stated elsewhere in this
+Policy.
+
+18. Fire Break Doors and Shutters
+It shall be a condition precedent to liability under
+Sections 1, 2 and 5 that all fire break doors and
+shutters be kept closed except during working hours
+and maintained in an efficient working order.
+
+Cancellation of Section 6 does not prejudice any risk
+in Transit on the effective date of cancellation.
+22. Goods in Transit - Component Parts
+
+19. Fire Extinguishing Appliances
+
+Under Section 6 when the Goods include a machine
+consisting of several parts then in respect of loss to
+any part of such machine the Company shall be
+liable only for the proportion of the value of the part
+lost or damaged or, at the Company’s option, for the
+cost and expense (including labour and forwarding
+charges) of replacing or repairing the lost or
+damaged part but in no event shall the Company be
+liable for more than the value of the complete
+machine.
+
+It shall be a condition precedent to liability under
+Sections 1, 2 and 5 that the Insured or persons
+acting on behalf of the Insured shall ensure that:
+(a) approved fire extinguishing appliances are on
+the Premises; and,
+(b) an inspection of the appliances be made every
+week to ensure they are in proper working order
+and any faults discovered are to be remedied
+immediately.
+
+23. Goods in Transit - Reconditioning Labels
+
+Provided this Section shall not be invalidated by any
+defect in any of the said appliances due to
+circumstances unknown to, or beyond the control
+of, the Insured.
+
+34
+
+43
+
+LMCP18v2
+
+Under Section 6 in the case of damage affecting
+labels, capsules, or wrappers the Company shall not
+be liable for more than an amount sufficient to pay
+the cost of reconditioning the Goods but in no
+event shall the Company be liable for more than the
+insured value of the damaged merchandise.
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+24. Goods in Transit - Valuation
+
+27. Money
+
+Under Section 6 the valuation of the Goods shall be
+the actual invoice cost including prepaid freight and
+any costs and charges since shipment and all claims
+under this Section shall be paid on this basis. If
+there is no invoice the valuation of the Goods shall
+be the actual cash market value of the Goods on the
+date of loss.
+
+It shall be a condition precedent to liability under
+Section 4 that:
+(a) all protections and procedures for the safety of
+Money whilst in the Premises undertaken at the
+request of the Company are maintained and
+operated;
+(b) the keys for all protections, and any safes
+containing Money, are removed from the
+Premises out of Business Hours;
+
+25. Goods in Transit - Vehicles
+It shall be a condition precedent to liability under
+Section 6 that any vehicle and/or trailer left
+unattended whilst loaded
+
+(c) Money carryings are accompanied by the
+undernoted number of able bodied adults and
+distributed equally during Transit and until
+disbursement:
+
+(a) has all doors, windows, and other points of
+access, closed and securely locked, any security
+devices activated, and all keys to doors, ignition,
+or other services removed;
+
+(i) up to GBP2,500
+1 able bodied adult;
+
+(b) the vehicle and/or trailer is in a securely locked
+building or locked compound between the
+hours of 8pm to 6am.
+
+(ii) between GBP2,501 to GBP5,000
+2 able bodied adults;
+(iii) between GBP5,001 to GBP7,500
+3 able bodied adults;
+
+26. Law
+This Policy is subject to the law and jurisdiction of
+England and Wales.
+
+(iv) between GBP7,501 to GBP10,000
+4 able bodied adults;
+(v) Over GBP10,000
+by a specialist Security Carrier as agreed
+with the Company.
+(d) the times of Transit, routes and conveyances
+used shall be varied as far as possible.
+28. Non-Disclosure
+The remedies set out in Section 8 and Schedule 1 of
+the Insurance Act 2015 shall apply to this Policy.
+29. Observance of Terms
+The Insured shall fulfil all terms, Conditions, and
+Endorsements, of this Policy in so far as they relate
+to anything to be done or complied with by the
+Insured.
+
+35
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+30. Operation of the Policy
+
+33. Personal Accident Assault
+
+This Policy and its terms, including the Schedule,
+Definitions, Sections, Extensions, Exceptions,
+Conditions, and Endorsements, shall be read
+together as one contract. Any word or expression to
+which a specific meaning has been attached in any
+part of this Policy shall bear that meaning wherever
+it may appear unless such meaning is stated only to
+apply to a specific part of the Policy.
+Headings in this Policy are included for convenience
+only and do not affect the construction of it.
+31. Other Interests
+Included as Insureds under Section 1, in respect of
+property not belonging to the Insured, are all parties
+who have an interest in such property, but only to
+the extent that the Insured have a responsibility to
+insure such interest.
+32. Payments on Account
+Under Section 2 the Company will at the option of
+the Insured make monthly payments on account
+during the Indemnity Period.
+
+36
+
+43
+
+LMCP18v2
+
+Under Section 4:
+(a) (i) Compensation shall not be payable under
+more than one of the Benefits in connection
+with the same accident;
+(ii) on the happening of any Assault Injury this
+Section shall thereafter cease to apply to the
+Insured Person;
+(iii) Permanent Total Disablement shall have
+lasted 104 weeks before Benefit 4 becomes
+payable;
+(iv) the weekly rate provided by Benefit 5 as
+stated in The Schedule shall not exceed the
+rate of the pre-accident weekly earnings of
+the Insured Person;
+(v) no sum payable under this Section shall
+carry interest;
+(vi) no benefit shall be payable due solely to
+inability to take part in sports or pastimes.
+(b) Any certificates, information, and evidence
+required by the Company shall be furnished free
+of expense in the form described by the
+Company. The Insured Person shall as often as
+required submit to medical examination on
+behalf of, and at the expense of, the Company
+in connection with any claim.
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+34. Professional Accountants
+
+37. Security Protections
+
+Any particulars or details contained in the Insured's
+books of account or other business books, records,
+or documents, which may be required by the
+Company under the Claims Conditions the purpose
+of investigating or verifying any claim under any of
+those Sections, may be produced by professional
+accountants or auditors if at the time they are
+regularly acting as such for the Insured, and their
+report shall be prima facie evidence of the particulars
+and details to which such report relates.
+
+It shall be a condition precedent to liability under
+Sections 1, 2 and 5 that the Insured shall comply
+with the following provisions in respect of any
+intruder alarm installed at the Premises:
+
+The Company will pay to the Insured the reasonable
+charges payable by the Insured to their professional
+accountants or auditors for producing such
+particulars or details or any other proof, information,
+or evidence, as may be required by the Company and
+reporting that such particulars or details are in
+accordance with the Insured's books of account or
+other business books, records, or documents.
+
+(c) the alarm company is immediately advised of
+any apparent defect in the intruder alarm;
+
+35. Reasonable Precautions
+The Insured shall at their own expense take all
+reasonable care to prevent accidents, loss, and
+Damage and maintain the Premises, plant, vehicles,
+and anything else used in connection with the
+Business, in proper repair.
+The Insured shall make good or remedy any defect
+and danger which becomes apparent, or take such
+additional precautions as the circumstance may
+require.
+36. Reinstatement
+If the Company elects or becomes bound to
+reinstate any Property Insured, the Insured shall at
+their own expense produce and give to the Company
+all such plans, documents, books, and information as
+the Company may reasonably require. The Company
+shall not be bound to reinstate exactly or completely
+but only as circumstances permit and in a reasonably
+sufficient manner and shall not in any case be bound
+to expend in respect of any one of the Items shown
+in the Schedule more than the Limit of Indemnity
+stated.
+
+37
+
+43
+
+LMCP18v2
+
+(a) it is regularly and efficiently maintained under a
+maintenance contract with an alarm company;
+(b) it is brought into full and effective operation
+whenever the Premises are closed for business;
+
+(d) the Company is notified immediately and in
+writing if the Insured receives written
+notification from a police authority warning of
+possible or intended withdrawal of response to
+calls from the intruder alarm;
+(e) the agreement of the Company is obtained in
+writing before replacing, extending, or
+otherwise altering the intruder alarm;
+(f) whenever the Premises are left unattended the
+Insured shall ensure that:
+(i) all locks, bolts, and other protective devices
+are in full operation;
+(ii) details of any codes used for the operation
+of the intruder alarm and all keys to the
+intruder alarm shall be either removed from
+the Premises or placed within a locked safe
+or strong room, the keys to which are
+themselves removed from the Premises.
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+38. 72 Hour Clause
+
+39. Terrorism
+
+All claims for loss under Sections 1 and 2 arising
+from any one occurrence or series of occurrences
+shall be adjusted as one claim and the Deductible
+shall be deducted from each claim for the Defined
+Perils listed below.
+The duration of any one occurrence shall be limited
+to 72 consecutive hours in respect of:
+
+1)
+
+The insurance provided by Section 3 is subject
+to all the terms Conditions and Exceptions of
+Sections 1, 2 and 5, and all other terms
+Conditions and Exceptions stated to be
+applicable to Section 3. If there is a conflict
+between Section 3 and the rest of the Policy
+Section 3 will prevail.
+
+2)
+
+The Company will only indemnify the Insured
+under Section 3 if:
+
+(a) earthquake;
+(b) storm or flood;
+
+(a) The Treasury issues a certificate certifying
+that any loss was caused by an Act of
+Terrorism; or,
+
+(c) bursting, overflowing, discharging, or leaking of
+water tanks, apparatus, or pipes;
+
+(b) In the event of the Treasury refusing to
+issue such a certificate a tribunal formed by
+agreement between the Company and Pool
+Reinsurance Company Limited decides that
+the cause of such loss was an Act of
+Terrorism.
+
+(d) sprinkler leakage.
+Provided that the Company shall not be liable for
+any loss arising from Damage occurring before the
+effective date and time of this Policy nor for any
+occurring after the expiration date of this Policy.
+
+The Insured will lose the right to indemnity or
+payment for any claim under Section 3 unless:
+(a) all property and/or premises owned by the
+Insured, or for which the Insured is
+responsible, including all such property
+and/or premises of subsidiary companies,
+unless it is the practice of any subsidiary
+company to effect its own insurance, are
+declared to the Company;
+(b) the Insured has in effect terrorism
+insurance from a Pool Reinsurance
+Company Limited member company in
+respect of all such property and/or
+premises.
+3)
+
+The following shall not apply to Section 3:
+(a) any long term agreement/undertaking
+applying to this Policy;
+(b) any terms in this Policy which provide for
+adjustments of premium based upon
+declarations on expiry or during the Period
+of Insurance;
+(c) any extension of the Property Insured to
+locations outside England, Wales and
+Scotland.
+
+38
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+40. Uninsured Standing Charges
+If any standing charges of the Business are not
+insured by Section 2 having been deducted in
+arriving at the Gross Profit, then in computing the
+amount recoverable hereunder as increase in cost of
+working, that proportion of any additional
+expenditure shall be brought into account as the
+Gross Profit bears to the sum of the Gross Profit
+and the uninsured standing charges.
+41. Unoccupied Buildings
+Unoccupied Buildings shall not be covered under
+Section 1 unless:
+(a) notice in writing is given to the Company that
+the Buildings are unoccupied and payment of
+additional premium is made if requested by the
+Company;
+(b) the Insured ensures all doors and windows are
+fitted with good quality locks and are secured at
+all times;
+(c) the Insured properly maintains perimeter
+fences, walls and gates;
+(d) the Insured bricks up or boards over all
+unnecessary doors, windows, and other
+openings at first and ground floor levels;
+(e) the Insured or their appointed representative
+inspects the Premises internally and externally
+weekly;
+(f) the Insured removes all combustible materials
+from inside and around the Buildings and
+ensures that vegetation is kept under control;
+and,
+(g) the Insured disconnects the gas, electricity and
+water services leaving only the central suppliers
+for security alarms and the like.
+42. Value Added Tax
+To the extent that the Insured is accountable to the
+tax authorities for Value Added Tax all terms in this
+Policy shall be exclusive of such tax.
+
+39
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+(ii) details of any other insurances on any
+Property Insured within 30 days after such
+loss, and within 7 days in the case of loss
+caused by riot, civil commotion, strikers,
+locked-out workers, or persons taking part
+in labour disturbances, or malicious
+persons; or within such additional time as
+the Claims Manager or the Company may
+in writing allow;
+
+CLAIMS CONDITIONS
+1. Contribution and other insurances
+If at the time of loss there may be any other
+insurance effected by or on behalf of the Insured
+applicable to such loss, the liability of the Company
+under any of Sections 1 to 6 shall be limited to its
+rateable proportion of such loss.
+
+(iii) all such proof and information relating to
+the loss as the Claims Manager or the
+Company may reasonably require;
+
+If any such other insurance shall be subject to any
+condition of average this Policy, if not already
+subject to any condition of average, shall be subject
+to average in like manner.
+
+(iv) if demanded, a statutory declaration of the
+truth of the claim and of any matters
+connected with it.
+
+If any such other insurance effected by or on behalf
+of the Insured is expressed to cover any of the
+Property Insured but is subject to any provision
+whereby it is excluded from ranking concurrently
+with this Policy either in whole, or in part, or from
+contributing rateably to the loss, the liability of the
+Company shall be limited to such proportion of the
+loss as the relevant Limit of Indemnity under this
+Policy bears to the value of the property.
+
+(e) shall, under Section 2 Business Interruption, at
+their own expense:
+(i) with due diligence carry out and permit to
+be taken any action which may reasonably
+be practicable, to minimise or check any
+interruption or interference with the
+Business, or to avoid or diminish the loss;
+
+2. Notice of loss
+
+(ii) not later than 30 days after the expiry of
+the Indemnity Period provide details of the
+claim and any other applicable insurances;
+
+It shall be a condition precedent to liability that in
+the event of any loss the Insured:
+
+(iii) deliver to the Claims Manager or, if the
+Claims Manager or the Company so
+requires, to the Company, such books of
+account, and other business books,
+vouchers, invoices, balance sheets, and
+other documents, proof, information,
+explanation, and other evidence as may
+reasonably be required.
+
+(a) notifies the Claims Manager in writing as soon
+as reasonably practicable but, in any event,
+within 30 days of its happening, and within 7
+days of its happening in the case of loss caused
+by riot, civil commotion, strikers, locked-out
+workers, persons taking part in labour
+disturbances, or malicious persons; or within
+such additional time as the Claims Manager or
+the Company may in writing allow.
+
+If the terms of this Condition have not been
+complied with:
+
+(b) notifies the Police Authority immediately it
+becomes evident that any loss has been caused
+by malicious persons or theft or any attempt
+thereat.
+(c) carries out and permits to be taken any action
+which may be reasonably practicable to prevent
+further loss.
+
+A. no claim under this Policy shall be payable; and;
+B. any payment on account of the claim(s) already
+made, shall be repaid to the Company.
+3. Subrogation
+
+(d) delivers to the Claims Manager or, if the Claims
+Manager or the Company so requires, to the
+Company, at the Insured's expense:
+(i) full information in writing of the property
+Damaged and of the amount of loss;
+
+40
+
+43
+
+LMCP18v2
+
+Where the Company is entitled to be subrogated in
+respect of any loss or liability, any claimant under
+this Policy shall, at the request and the expense of
+the Company allow to be done anything that may be
+necessary for the purpose of enforcing any such
+rights and remedies in order to obtain indemnity
+from other parties, whether before or after any
+payment by the Company.
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+4. Subrogation Waiver
+The Company agrees to waive any rights, remedies,
+or relief to which it might become entitled by
+subrogation against:
+(a) any company standing in the relation of parent
+to subsidiary (or subsidiary to parent) to the
+Insured.
+(b) any company which is a subsidiary of a parent
+company of which the Insured are themselves a
+subsidiary.
+5. The Company’s Rights Following a Claim
+On the happening of loss in respect of which a claim
+is made the Company and any person authorised by
+the Company, may without thereby incurring any
+liability or diminishing any of the Company's rights
+under this Policy, enter, take, or keep possession of
+the Premises where such loss has occurred and take
+possession of, or require to be delivered to the
+Company, any Property Insured and deal with such
+property for all reasonable purposes and in any
+reasonable manner. If the Insured shall hinder or
+obstruct the Company in doing any of the above
+mentioned acts then all benefit under this Policy
+shall be forfeited.
+No property may be abandoned to the Company
+whether taken possession of by the Company or not.
+
+41
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+COMPLAINTS PROCEDURE
+Liberty Mutual Insurance Europe SE aims to provide a
+high quality service to all its customers. In the event that
+you are dissatisfied please contact us so we can do what
+we can to help. We take complaints very seriously and
+aim to address all concerns fairly and efficiently. If you
+feel that we have not offered you this standard or you
+have any questions about your contract or the handling
+of a claim, then in the first instance you should contact
+your insurance broker or intermediary who arranged this
+insurance for you or the branch that issued the Policy.
+If you are still not satisfied with the service and wish to
+make a complaint, you may do so in writing or verbally
+using the contact details below:
+
+Commissariat aux Assurances
+7, boulevard Joseph II
+L-1840 Luxembourg
+Tel: (+352) 22 69 11 - 1
+Email: caa@caa.lu
+www.caa.lu
+or
+Service national du Médiateur de la consommation
+Ancien Hôtel de la Monnaie
+6, rue du Palais de Justice
+L-1841 Luxembourg
+Tel: (+352) 46 13 11
+Email: info@mediateurconsommation.lu
+www.mediateurconsommation.lu
+or
+
+Compliance Officer
+Liberty Mutual Insurance Europe SE
+20 Fenchurch Street
+London EC3M 3AW
+Tel: +44 (0) 20 3758 0840
+Email: complaints@libertyglobalgroup.com
+
+Médiateur en Assurances
+ACA
+12, rue Erasme
+L-1468 Luxembourg
+Tel: (+352) 44 21 44 1
+Email: mediateur@aca.lu
+www.ulc.lu/fr/organes/detail.asp?T=2&D=descr&ID=6
+
+quoting your Policy and/or claim number;
+or
+Compliance Officer
+Liberty Mutual Insurance Europe SE
+5-7 rue Léon Laval
+L-3372 Leudelange
+Grand Duchy of Luxembourg
+Tel: +352 28 99 13 00
+Email: complaints@libertyglobalgroup.com
+
+PRIVACY NOTICE
+
+quoting your Policy and/or claim number.
+If after making a complaint you are still not satisfied, you
+may be entitled to refer the dispute to the Financial
+Ombudsman Service (FOS), which is a free and impartial
+service, who may be contacted at:
+Exchange Tower
+Harbour Exchange
+London E14 9SR
+Tel: 0800 023 4567
+Email: enquiries@financial-ombudsman.org.uk
+To confirm whether you are eligible to ask the FOS to
+review your complaint please contact them at
+www.financialombudsman.org.uk/consumer/complaints.htm.
+Alternatively, as Liberty Mutual Insurance Europe SE is a
+Luxembourg insurance company, you are also entitled to
+refer the dispute to any of the following dispute
+resolution bodies:
+42
+
+43
+
+How Liberty Specialty Markets uses your personal
+data
+Liberty Specialty Markets takes the protection of your
+personal data seriously and is committed to protecting
+your privacy. There are a number of different companies
+within our group. The specific company within Liberty
+Specialty Markets which acts as the "data controller" of
+your personal data will be the organisation providing
+your policy as set out in the documentation that is
+provided to you. If you are unsure you can also contact
+us
+at
+any
+time
+by
+e-mailing
+us
+at
+dataprotectionofficer@libertyglobalgroup.com or by post
+at Data Protection Officer, Liberty Specialty Markets, 20
+Fenchurch Street, London EC3M 3AW, UK. Where you
+provide us or your agent or broker with details about
+other people, you must provide this notice to them.
+In order for us to deliver our insurance services, deal
+with any claims or complaints that might arise and
+prevent and detect fraud, we need to collect and process
+personal data. The type of personal data that we collect
+will depend on our relationship with you: for example as
+a policyholder, third party claimant or witness to an
+incident. Your information will also be used for business
+and management activities such as financial management
+and analysis. This may involve sharing your information
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+COMMERCIAL PROPERTY POLICY
+with, and obtaining information about you from, our
+group companies and third parties such as brokers, credit
+reference agencies, reinsurers, claims handlers and loss
+adjusters, professional advisors, our regulators or fraud
+prevention agencies. We also collect personal data about
+our suppliers and business partners (such as brokers) for
+the purposes of business management and relationship
+development.
+Please see the full privacy notice available at
+www.libertyspecialtymarkets.com/privacy-cookies
+for
+further information on how your personal data is used
+and the rights that you have in relation to the personal
+data we hold about you. Please contact us using the
+details above if you wish to see the privacy notice in hard
+copy.
+
+COMPANY INFORMATION
+Liberty Mutual Insurance Europe SE (LMIE) trading as
+Liberty Specialty Markets, a member of the Liberty
+Mutual Insurance Group. Registered office: 5-7 rue Léon
+Laval, L-3372 Leudelange, Grand Duchy of
+Luxembourg, Registered Number B232280 (Registre de
+Commerce et des Sociétés). LMIE is a European public
+limited liability company and is supervised by the
+Commissariat aux Assurances and licensed by the
+Luxembourg Minister of Finance as an insurance and
+reinsurance company.
+LMIE’s UK branch registered address is 20 Fenchurch
+Street, London, EC3M 3AW which is authorised by the
+Commissariat aux Assurances and subject to limited
+regulation by the Financial Conduct Authority and
+Prudential Regulation Authority (registered number
+829959). Details about the extent of regulation by the
+Financial Conduct Authority and Prudential Regulation
+Authority are available from LMIE on request.
+www.libertyspecialtymarkets.com
+
+43
+
+43
+
+LMCP18v2
+
+Commercial Property Policy
+© 2012, Liberty Mutual Insurance Europe SE
+
+
