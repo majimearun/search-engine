@@ -1,4 +1,4 @@
-paragraph
+paragraph,stemmed,tokenized,stemmed_and_tokenized
 "SAMPLE
 Business Auto Coverage Form  CA 00 01 03 10
 Policy Amendments Commercial Business Auto Coverage Form
@@ -8,12 +8,25 @@ duties and what is and is not covered
 Throughout this policy the words you and your refer
 to the Named Insured shown in the Declarations The
 words we us and our refer to the company providing
-this insurance"
+this insurance",sampl busi auto coverag form ca 00 01 03 10 polici amend commerci busi auto coverag form various provis in this polici restrict coverag read the entir polici care to determin right duti and what is and is not cover throughout this polici the word you and your refer to the name insur shown in the declar the word we us and our refer to the compani provid this insur,"SAMPLE 
+ Business Auto Coverage Form   CA 00 01 03 10 
+ Policy Amendments Commercial Business Auto Coverage Form 
+ various provision in this policy restrict coverage 
+ read the entire policy carefully to determine right 
+ duty and what be and be not cover 
+ throughout this policy the word you and your refer 
+ to the Named Insured show in the Declarations the 
+ word we we and our refer to the company provide 
+ this insurance",sampl busi auto coverag form can 00 01 03 10 polici amend commerci busi auto coverag form various provis in this polici restrict coverag read the entir polici care to determin right duti and what be and be not cover throughout this polici the word you and your refer to the name insur show in the declar the word we we and our refer to the compani provid this insur
 "private passenger type and for Liability Coverage any trailers you don’t own while attached to power units you own
 This
 includes those autos not of the private passenger type you acquire ownership of after the
 policy begins
-5"
+5",privat passeng type and for liabil coverag ani trailer you don't own while attach to power unit you own this includ those auto not of the privat passeng type you acquir ownership of after the polici begin 5,"private passenger type and for Liability Coverage any trailer you do not own while attach to power unit you own 
+ this 
+ include those auto not of the private passenger type you acquire ownership of after the 
+ policy begin 
+ 5",privat passeng type and for liabil coverag ani trailer you do not own while attach to power unit you own this includ those auto not of the privat passeng type you acquir ownership of after the polici begin 5
 "=
 OWNED AUTOS SUBJECT TO
 NOFAULT Only those autos you own that
@@ -22,7 +35,15 @@ state where they are licensed or principally
 garaged This includes those autos you acquire ownership of after the policy begins
 provided they are required to have nofault
 benefits in the state where they are licensed
-or principally garaged"
+or principally garaged",= own auto subject to nofault onli those auto you own that are requir to have nofault benefit in the state where they are licens or princip garag this includ those auto you acquir ownership of after the polici begin provid they are requir to have nofault benefit in the state where they are licens or princip garag,"= 
+ OWNED auto subject to 
+ NOFAULT only those auto you own that 
+ be require to have nofault benefit in the 
+ state where they be license or principally 
+ garage this include those auto you acquire ownership of after the policy begin 
+ provide they be require to have nofault 
+ benefit in the state where they be license 
+ or principally garage",= own auto subject to nofault onli those auto you own that be requir to have nofault benefit in the state where they be licen or princip garag this includ those auto you acquir ownership of after the polici begin provid they be requir to have nofault benefit in the state where they be licen or princip garag
 "= OWNED AUTOS SUBJECT TO A
 COMPULSORY UNINSURED MOTORISTS LAW Only those autos you own that
 because of the law in the state where they are
@@ -30,47 +51,86 @@ licensed or principally garaged are required to
 have and cannot reject Uninsured Motorists
 Coverage This includes those autos you acquire ownership of after the policy begins
 provided they are subject to the same state
-uninsured motorists requirement"
+uninsured motorists requirement",= own auto subject to a compulsori uninsur motorist law onli those auto you own that becaus of the law in the state where they are licens or princip garag are requir to have and cannot reject uninsur motorist coverag this includ those auto you acquir ownership of after the polici begin provid they are subject to the same state uninsur motorist requir,"= OWNED auto subject to a 
+ COMPULSORY uninsured motorists law only those auto you own that 
+ because of the law in the state where they be 
+ license or principally garage be require to 
+ have and can not reject Uninsured Motorists 
+ Coverage this include those auto you acquire ownership of after the policy begin 
+ provide they be subject to the same state 
+ uninsured motorist requirement",= own auto subject to a compulsori uninsur motorist law onli those auto you own that becaus of the law in the state where they be licen or princip garag be requir to have and can not reject uninsur motorist coverag this includ those auto you acquir ownership of after the polici begin provid they be subject to the same state uninsur motorist requir
 "= SPECIFICALLY DESCRIBED AUTOS
 Only those autos described in Item Three of
 the Declarations for which a premium charge
 is shown and for Liability Coverage any
 trailers you don’t own while attached to any
-power unit described in Item Three"
+power unit described in Item Three",= specif describ auto onli those auto describ in item three of the declar for which a premium charg is shown and for liabil coverag ani trailer you don't own while attach to ani power unit describ in item three,"= SPECIFICALLY describe auto 
+ only those auto describe in Item three of 
+ the Declarations for which a premium charge 
+ be show and for Liability Coverage any 
+ trailer you do not own while attach to any 
+ power unit describe in Item three",= specif describ auto onli those auto describ in item three of the declar for which a premium charg be show and for liabil coverag ani trailer you do not own while attach to ani power unit describ in item three
 "= HIRED AUTOS ONLY Only those autos you lease hire rent or borrow This does
 not include any auto you lease hire rent or
 borrow from any of your employees  partners
 if you are a partnership members if you are
 a limited liability company or members of
 their households but only while used in your
-business or your personal affairs"
+business or your personal affairs",= hire auto onli onli those auto you leas hire rent or borrow this doe not includ ani auto you leas hire rent or borrow from ani of your employe partner if you are a partnership member if you are a limit liabil compani or member of their household but onli while use in your busi or your person affair,"= HIRED auto only only those auto you lease hire rent or borrow this do 
+ not include any auto you lease hire rent or 
+ borrow from any of your employee   partner 
+ if you be a partnership member if you be 
+ a limited liability company or member of 
+ their household but only while use in your 
+ business or your personal affair",= hire auto onli onli those auto you lea hire rent or borrow this doe not includ ani auto you lea hire rent or borrow from ani of your employe partner if you be a partnership member if you be a limit liabil compani or member of their household but onli while use in your busi or your person affair
 "Other words and phrases that appear in boldface have
 special meaning Refer to Section V  Definitions
-Section I  Covered Autos"
+Section I  Covered Autos",other word and phrase that appear in boldfac have special mean refer to section v definit section i cover auto,"other word and phrase that appear in boldface have 
+ special meaning Refer to Section V   Definitions 
+ Section I   covered auto",other word and phrase that appear in boldfac have special mean refer to section v definit section I cover auto
 "Item Two of the Declarations shows the autos that are
 covered autos for each of your coverages The following numerical symbols describe the autos that may be
 covered autos The symbols entered next to a coverage
 on the Declarations designate the only autos that are
 covered autos
 A Description of Covered Auto Designation Symbols
-Symbol"
+Symbol",item two of the declar show the auto that are cover auto for each of your coverag the follow numer symbol describ the auto that may be cover auto the symbol enter next to a coverag on the declar design the onli auto that are cover auto a descript of cover auto design symbol symbol,"item two of the Declarations show the auto that be 
+ cover auto for each of your coverage the follow numerical symbol describe the auto that may be 
+ cover auto the symbol enter next to a coverage 
+ on the Declarations designate the only auto that be 
+ cover auto 
+ a description of Covered Auto Designation Symbols 
+ symbol",item two of the declar show the auto that be cover auto for each of your coverag the follow numer symbol describ the auto that may be cover auto the symbol enter next to a coverag on the declar design the onli auto that be cover auto a descript of cover auto design symbol symbol
 "= OWNED AUTOS ONLY Only those
 autos you own and for Liability Coverage
 any trailers you don’t own while attached to
 power units you own This includes those
-autos you acquire ownership of after the policy begins"
+autos you acquire ownership of after the policy begins",= own auto onli onli those auto you own and for liabil coverag ani trailer you don't own while attach to power unit you own this includ those auto you acquir ownership of after the polici begin,"= OWNED auto only only those 
+ auto you own and for Liability Coverage 
+ any trailer you do not own while attach to 
+ power unit you own this include those 
+ auto you acquire ownership of after the policy begin",= own auto onli onli those auto you own and for liabil coverag ani trailer you do not own while attach to power unit you own this includ those auto you acquir ownership of after the polici begin
 "AUTOS ONLY Only the private passenger
 autos you own This includes those private
-passenger autos you acquire ownership of af"
+passenger autos you acquire ownership of af",auto onli onli the privat passeng auto you own this includ those privat passeng auto you acquir ownership of af,"auto only only the private passenger 
+ auto you own this include those private 
+ passenger auto you acquire ownership of af",auto onli onli the privat passeng auto you own this includ those privat passeng auto you acquir ownership of af
 "This Form must be attached to Change Endorsement when issued after the policy is written
-One of the Fireman’s Fund Insurance Companies as named in the policy"
+One of the Fireman’s Fund Insurance Companies as named in the policy",this form must be attach to chang endors when issu after the polici is written one of the fireman fund insur compani as name in the polici,"this form must be attach to Change Endorsement when issue after the policy be write 
+ one of the Fireman ’s Fund Insurance Companies as name in the policy",this form must be attach to chang endor when issu after the polici be write one of the fireman fund insur compani as name in the polici
 "= NONOWNED AUTOS ONLY Only
 those autos you do not own lease hire rent
 or borrow that are used in connection with
 your business This includes autos owned by
 your employees  partners if you are a partnership members if you are a limited liability company or members of their households
 but only while used in your business or your
-personal affairs"
+personal affairs",= nonown auto onli onli those auto you do not own leas hire rent or borrow that are use in connect with your busi this includ auto own by your employe partner if you are a partnership member if you are a limit liabil compani or member of their household but onli while use in your busi or your person affair,"= nonowned auto only only 
+ those auto you do not own lease hire rent 
+ or borrow that be use in connection with 
+ your business this include auto own by 
+ your employee   partner if you be a partnership member if you be a limited liability company or member of their household 
+ but only while use in your business or your 
+ personal affair",= nonown auto onli onli those auto you do not own lea hire rent or borrow that be use in connect with your busi this includ auto own by your employe partner if you be a partnership member if you be a limit liabil compani or member of their household but onli while use in your busi or your person affair
 "19 = MOBILE EQUIPMENT SUBJECT TO
 COMPULSORY OR FINANCIAL RESPONSIBILITY OR OTHER MOTOR
 VEHICLE INSURANCE LAW ONLY
@@ -79,21 +139,39 @@ that would qualify under the definition of
 mobile equipment under this policy if they
 were not subject to a compulsory or financial
 responsibility law or other motor vehicle insurance law where they are licensed or principally garaged
-B"
+B",19 = mobil equip subject to compulsori or financi respons or other motor vehicl insur law onli onli those auto that are land vehicl and that would qualifi under the definit of mobil equip under this polici if they were not subject to a compulsori or financi respons law or other motor vehicl insur law where they are licens or princip garag b,"19 = MOBILE EQUIPMENT subject to 
+ COMPULSORY OR FINANCIAL RESPONSIBILITY or other MOTOR 
+ VEHICLE insurance law only 
+ only those auto that be land vehicle and 
+ that would qualify under the definition of 
+ mobile equipment under this policy if they 
+ be not subject to a compulsory or financial 
+ responsibility law or other motor vehicle insurance law where they be license or principally garage 
+ b",19 = mobil equip subject to compulsori or financi respon or other motor vehicl insur law onli onli those auto that be land vehicl and that would qualifi under the definit of mobil equip under this polici if they be not subject to a compulsori or financi respon law or other motor vehicl insur law where they be licen or princip garag b
 "If symbols 1 2 3 4 5 6 or 19 are entered
 next to a coverage in Item Two of the Declarations then you have coverage for autos that
-you acquire of the type described for the remainder of the policy period"
+you acquire of the type described for the remainder of the policy period",if symbol 1 2 3 4 5 6 or 19 are enter next to a coverag in item two of the declar then you have coverag for auto that you acquir of the type describ for the remaind of the polici period,"if symbol 1 2 3 4 5 6 or 19 be enter 
+ next to a coverage in Item two of the Declarations then you have coverage for auto that 
+ you acquire of the type describe for the remainder of the policy period",if symbol 1 2 3 4 5 6 or 19 be enter next to a coverag in item two of the declar then you have coverag for auto that you acquir of the type describ for the remaind of the polici period
 "But if Symbol 7 is entered next to a coverage
 in Item Two of the Declarations an auto you
 acquire will be a covered auto for that coverage only if
-a"
+a",but if symbol 7 is enter next to a coverag in item two of the declar an auto you acquir will be a cover auto for that coverag onli if a,"but if Symbol 7 be enter next to a coverage 
+ in Item two of the Declarations an auto you 
+ acquire will be a cover auto for that coverage only if 
+ a",but if symbol 7 be enter next to a coverag in item two of the declar an auto you acquir will be a cover auto for that coverag onli if a
 "We already cover all autos that you own
 for that coverage or it replaces an auto
-you previously owned that had that coverage and"
+you previously owned that had that coverage and",we alreadi cover all auto that you own for that coverag or it replac an auto you previous own that had that coverag and,"we already cover all auto that you own 
+ for that coverage or it replace an auto 
+ you previously own that have that coverage and",we alreadi cover all auto that you own for that coverag or it replac an auto you previous own that have that coverag and
 "Any auto you do not own while used with the
 permission of its owner as a temporary substitute for a covered auto you own that is out
 of service because of its
-a"
+a",ani auto you do not own while use with the permiss of it owner as a temporari substitut for a cover auto you own that is out of servic becaus of it a,"any auto you do not own while use with the 
+ permission of its owner as a temporary substitute for a cover auto you own that be out 
+ of service because of its 
+ a",ani auto you do not own while use with the permiss of it owner as a temporari substitut for a cover auto you own that be out of servic becaus of it a
 "A Coverage
 We will pay all sums an insured legally must pay
 as damages because of bodily injury or property
@@ -115,23 +193,56 @@ damages for bodily injury or property damage or a
 covered pollution cost or expense to which this insurance does not apply We may investigate and
 settle any claim or suit as we consider appropriate
 Our duty to defend or settle ends when the Liability Coverage Limit of Insurance has been exhausted by payment of judgments or settlements
-1"
+1",a coverag we will pay all sum an insur legal must pay as damag becaus of bodili injuri or properti damag to which this insur appli caus by an accid and result from the ownership mainten or use of a cover auto we will also pay all sum an insur legal must pay as a cover pollut cost or expens to which this insur appli caus by an accid and result from the ownership mainten or use of cover auto howev we will onli pay for the cover pollut cost or expens if there is either bodili injuri or properti damag to which this insur appli that is caus by the same accid we have the right and duti to defend ani insur against a suit ask for such damag or a cover pollut cost or expens howev we have no duti to defend ani insur against a suit seek damag for bodili injuri or properti damag or a cover pollut cost or expens to which this insur doe not appli we may investig and settl ani claim or suit as we consid appropri our duti to defend or settl end when the liabil coverag limit of insur has been exhaust by payment of judgment or settlement 1,"a coverage 
+ we will pay all sum an insured legally must pay 
+ as damage because of bodily injury or property 
+ damage to which this insurance apply cause by 
+ an accident and result from the ownership 
+ maintenance or use of a covered auto 
+ we will also pay all sum an insured legally must 
+ pay as a covered pollution cost or expense to which 
+ this insurance apply cause by an accident and 
+ result from the ownership maintenance or use 
+ of cover auto   however we will only pay for 
+ the covered pollution cost or expense if there be either bodily injury or property damage to which this 
+ insurance apply that be cause by the same accident 
+ we have the right and duty to defend any insure 
+ against a suit ask for such damage or a cover 
+ pollution cost or expense   however we have no 
+ duty to defend any insure against a suit seek 
+ damage for bodily injury or property damage or a 
+ covered pollution cost or expense to which this insurance do not apply we may investigate and 
+ settle any claim or suit as we consider appropriate 
+ our duty to defend or settle end when the Liability Coverage Limit of Insurance have be exhaust by payment of judgment or settlement 
+ 1",a coverag we will pay all sum an insur legal must pay as damag becaus of bodili injuri or properti damag to which this insur appli caus by an accid and result from the ownership mainten or use of a cover auto we will also pay all sum an insur legal must pay as a cover pollut cost or expen to which this insur appli caus by an accid and result from the ownership mainten or use of cover auto howev we will onli pay for the cover pollut cost or expen if there be either bodili injuri or properti damag to which this insur appli that be caus by the same accid we have the right and duti to defend ani insur against a suit ask for such damag or a cover pollut cost or expen howev we have no duti to defend ani insur against a suit seek damag for bodili injuri or properti damag or a cover pollut cost or expen to which this insur doe not appli we may investig and settl ani claim or suit as we consid appropri our duti to defend or settl end when the liabil coverag limit of insur have be exhaust by payment of judgment or settlement 1
 "If Liability Coverage is provided by this coverage
-form the following types of vehicles are also covered autos for Liability Coverage"
+form the following types of vehicles are also covered autos for Liability Coverage",if liabil coverag is provid by this coverag form the follow type of vehicl are also cover auto for liabil coverag,"if Liability Coverage be provide by this coverage 
+ form the follow type of vehicle be also cover auto for Liability Coverage",if liabil coverag be provid by this coverag form the follow type of vehicl be also cover auto for liabil coverag
 "SAMPLE
 auto This exception does not apply
-if the covered auto is a trailer connected to a covered auto you own"
+if the covered auto is a trailer connected to a covered auto you own",sampl auto this except doe not appli if the cover auto is a trailer connect to a cover auto you own,"SAMPLE 
+ auto this exception do not apply 
+ if the covered auto be a trailer connect to a cover auto you own",sampl auto this except doe not appli if the cover auto be a trailer connect to a cover auto you own
 "5 All court costs taxed against the insured in any suit against the insured
 we defend However these payments do not include attorneys’ fees
 or attorneys’ expenses taxed against
-the insured"
+the insured",5 all court cost tax against the insur in ani suit against the insur we defend howev these payment do not includ attorney fee or attorney expens tax against the insur,"5 all court cost tax against the insured in any suit against the insure 
+ we defend however these payment do not include attorney ’ fee 
+ or attorney ' expense tax against 
+ the insure",5 all court cost tax against the insur in ani suit against the insur we defend howev these payment do not includ attorney fee or attorney expen tax against the insur
 "6 All interest on the full amount of
 any judgment that accrues after entry of the judgment in any suit
 against the insured we defend but
 our duty to pay interest ends when
 we have paid offered to pay or deposited in court the part of the
 judgment that is within our Limit
-of Insurance"
+of Insurance",6 all interest on the full amount of ani judgment that accru after entri of the judgment in ani suit against the insur we defend but our duti to pay interest end when we have paid offer to pay or deposit in court the part of the judgment that is within our limit of insur,"6 all interest on the full amount of 
+ any judgment that accrue after entry of the judgment in any suit 
+ against the insured we defend but 
+ our duty to pay interest end when 
+ we have pay offer to pay or deposit in court the part of the 
+ judgment that be within our Limit 
+ of insurance",6 all interest on the full amount of ani judgment that accru after entri of the judgment in ani suit against the insur we defend but our duti to pay interest end when we have pay offer to pay or deposit in court the part of the judgment that be within our limit of insur
 "3 Someone using a covered auto while
 he or she is working in a business
 of selling servicing repairing parking or storing autos unless that business is yours
@@ -139,12 +250,23 @@ of selling servicing repairing parking or storing autos unless that business is 
 partners if you are a partnership
 members if you are a limited liability company or a lessee or borrower
 or any of their employees  while
-moving property to or from a covered auto"
+moving property to or from a covered auto",3 someon use a cover auto while he or she is work in a busi of sell servic repair park or store auto unless that busi is your 4 anyon other than your employe partner if you are a partnership member if you are a limit liabil compani or a lesse or borrow or ani of their employe while move properti to or from a cover auto,"3 someone use a cover auto while 
+ he or she be work in a business 
+ of sell servicing repair parking or store auto unless that business be yours 
+ 4 anyone other than your employee 
+ partner if you be a partnership 
+ member if you be a limited liability company or a lessee or borrower 
+ or any of their employee   while 
+ move property to or from a cover auto",3 someon use a cover auto while he or she be work in a busi of sell servic repair park or store auto unless that busi be your 4 anyon other than your employe partner if you be a partnership member if you be a limit liabil compani or a lesse or borrow or ani of their employe while move properti to or from a cover auto
 "5 A partner if you are a partnership
 or a member if you are a limited liability company for a covered auto
 owned by him or her or a member
 of his or her household
-c"
+c",5 a partner if you are a partnership or a member if you are a limit liabil compani for a cover auto own by him or her or a member of his or her household c,"5 a partner if you be a partnership 
+ or a member if you be a limited liability company for a cover auto 
+ own by he or she or a member 
+ of his or her household 
+ c",5 a partner if you be a partnership or a member if you be a limit liabil compani for a cover auto own by he or she or a member of his or her household c
 "While a covered auto is away from the
 state where it is licensed we will
 1 Increase the Limit of Insurance for
@@ -153,13 +275,25 @@ specified by a compulsory or financial responsibility law of the jurisdiction wh
 being used This extension does not
 apply to the limit or limits specified
 by any law governing motor carriers
-of passengers or property"
+of passengers or property",while a cover auto is away from the state where it is licens we will 1 increas the limit of insur for liabil coverag to meet the limit specifi by a compulsori or financi respons law of the jurisdict where the cover auto is be use this extens doe not appli to the limit or limit specifi by ani law govern motor carrier of passeng or properti,"while a cover auto be away from the 
+ state where it be license we will 
+ 1 increase the Limit of Insurance for 
+ Liability Coverage to meet the limit 
+ specify by a compulsory or financial responsibility law of the jurisdiction where the covered auto be 
+ be use this extension do not 
+ apply to the limit or limit specify 
+ by any law govern motor carrier 
+ of passenger or property",while a cover auto be away from the state where it be licen we will 1 increas the limit of insur for liabil coverag to meet the limit specifi by a compulsori or financi respon law of the jurisdict where the cover auto be be use this exten doe not appli to the limit or limit specifi by ani law govern motor carrier of passeng or properti
 "Anyone liable for the conduct of an insured described above but only to the
-extent of that liability"
+extent of that liability",anyon liabl for the conduct of an insur describ abov but onli to the extent of that liabil,"anyone liable for the conduct of an insure describe above but only to the 
+ extent of that liability",anyon liabl for the conduct of an insur describ abov but onli to the extent of that liabil
 "2 Provide the minimum amounts and
 types of other coverages such as
 nofault required of outofstate vehicles by the jurisdiction where the
-covered auto is being used"
+covered auto is being used",2 provid the minimum amount and type of other coverag such as nofault requir of outofst vehicl by the jurisdict where the cover auto is be use,"2 provide the minimum amount and 
+ type of other coverage such as 
+ nofault require of outofstate vehicle by the jurisdiction where the 
+ covered auto be be use",2 provid the minimum amount and type of other coverag such as nofault requir of outofst vehicl by the jurisdict where the cover auto be be use
 "1 All expenses we incur
 2 Up to 2000 for cost of bail bonds
 including bonds for related traffic
@@ -174,63 +308,118 @@ the insured at our request including
 actual loss of earnings up to 250 a
 day because of time off from work
 CA0001 310
-Insurance Services Office Inc 2009"
+Insurance Services Office Inc 2009",1 all expens we incur 2 up to 2000 for cost of bail bond includ bond for relat traffic law violat requir becaus of an accid we cover we do not have to furnish these bond 3 the cost of bond to releas attach in ani suit against the insur we defend but onli for bond amount within our limit of insur 4 all reason expens incur by the insur at our request includ actual loss of earn up to 250 a day becaus of time off from work ca0001 310 insur servic offic inc 2009,"1 all expense we incur 
+ 2 up to 2000 for cost of bail bond 
+ include bond for related traffic 
+ law violation require because of 
+ an accident we cover we do not 
+ have to furnish these bond 
+ 3 the cost of bond to release attachment in any suit against the 
+ insured we defend but only for bond 
+ amount within our Limit of Insurance 
+ 4 all reasonable expense incur by 
+ the insure at our request include 
+ actual loss of earning up to 250 a 
+ day because of time off from work 
+ CA0001 310 
+ Insurance Services Office Inc 2009",1 all expen we incur 2 up to 2000 for cost of bail bond includ bond for relat traffic law violat requir becaus of an accid we cover we do not have to furnish these bond 3 the cost of bond to releas attach in ani suit against the insur we defend but onli for bond amount within our limit of insur 4 all reason expen incur by the insur at our request includ actual loss of earn up to 250 a day becaus of time off from work ca0001 310 insur servic offic inc 2009
 "Expected or Intended Injury
 Bodily injury or property damage expected or
-intended from the standpoint of the insured"
+intended from the standpoint of the insured",expect or intend injuri bodili injuri or properti damag expect or intend from the standpoint of the insur,"expect or Intended Injury 
+ Bodily injury or property damage expect or 
+ intend from the standpoint of the insure",expect or intend injuri bodili injuri or properti damag expect or intend from the standpoint of the insur
 "Liability assumed under any contract or
 agreement
 But this exclusion does not apply to liability
-for damages"
+for damages",liabil assum under ani contract or agreement but this exclus doe not appli to liabil for damag,"liability assume under any contract or 
+ agreement 
+ but this exclusion do not apply to liability 
+ for damage",liabil assum under ani contract or agreement but this exclus doe not appli to liabil for damag
 "Assumed in a contract or agreement that
 is an insured contract provided the bodily
 injury or property damage occurs subsequent to the execution of the contract or
-agreement or"
+agreement or",assum in a contract or agreement that is an insur contract provid the bodili injuri or properti damag occur subsequ to the execut of the contract or agreement or,"assume in a contract or agreement that 
+ be an insure contract provided the bodily 
+ injury or property damage occur subsequent to the execution of the contract or 
+ agreement or",assum in a contract or agreement that be an insur contract provid the bodili injuri or properti damag occur subsequ to the execut of the contract or agreement or
 "Any fellow employee of the insured arising out of and in the course of the fellow
 employee’s employment or while performing duties related to the conduct of
-your business or"
-The spouse child parent brother or sister of that fellow employee as a consequence of Paragraph a above
+your business or",ani fellow employe of the insur aris out of and in the cours of the fellow employe employ or while perform duti relat to the conduct of your busi or,"any fellow employee of the insured arise out of and in the course of the fellow 
+ employee ’s employment or while perform duty relate to the conduct of 
+ your business or",ani fellow employe of the insur aris out of and in the cour of the fellow employe employ or while perform duti relat to the conduct of your busi or
+The spouse child parent brother or sister of that fellow employee as a consequence of Paragraph a above,the spous child parent brother or sister of that fellow employe as a consequ of paragraph a abov,the spouse child parent brother or sister of that fellow employee as a consequence of Paragraph a above,the spous child parent brother or sister of that fellow employe as a consequ of paragraph a abov
 "Workers’ Compensation
 Any obligation for which the insured or the
 insured’s insurer may be held liable under any
 workers’ compensation disability benefits or
-unemployment compensation law or any similar law"
+unemployment compensation law or any similar law",worker compens ani oblig for which the insur or the insur insur may be held liabl under ani worker compens disabl benefit or unemploy compens law or ani similar law,"worker ’ compensation 
+ any obligation for which the insured or the 
+ insure ’s insurer may be hold liable under any 
+ worker ’ compensation disability benefit or 
+ unemployment compensation law or any similar law",worker compen ani oblig for which the insur or the insur insur may be hold liabl under ani worker compen disabl benefit or unemploy compen law or ani similar law
 "Property damage to or covered pollution cost
 or expense involving property owned or
-transported by the insured or in the insured’s"
+transported by the insured or in the insured’s",properti damag to or cover pollut cost or expens involv properti own or transport by the insur or in the insur,"property damage to or cover pollution cost 
+ or expense involve property own or 
+ transport by the insured or in the insure ’s",properti damag to or cover pollut cost or expen involv properti own or transport by the insur or in the insur
 "care custody or control But this exclusion
 does not apply to liability assumed under a
-sidetrack agreement"
+sidetrack agreement",care custodi or control but this exclus doe not appli to liabil assum under a sidetrack agreement,"care custody or control but this exclusion 
+ do not apply to liability assume under a 
+ sidetrack agreement",care custodi or control but this exclus doe not appli to liabil assum under a sidetrack agreement
 "2 Performing the duties related to the
 conduct of the insured’s business or
 The spouse child parent brother or sister of that employee as a consequence of
-Paragraph a above"
+Paragraph a above",2 perform the duti relat to the conduct of the insur busi or the spous child parent brother or sister of that employe as a consequ of paragraph a abov,"2 perform the duty relate to the 
+ conduct of the insured ’s business or 
+ the spouse child parent brother or sister of that employee as a consequence of 
+ Paragraph a above",2 perform the duti relat to the conduct of the insur busi or the spous child parent brother or sister of that employe as a consequ of paragraph a abov
 "Before it is moved from the place where
-it is accepted by the insured for movement into or onto the covered auto  or"
+it is accepted by the insured for movement into or onto the covered auto  or",befor it is move from the place where it is accept by the insur for movement into or onto the cover auto or,"before it be move from the place where 
+ it be accept by the insured for movement into or onto the cover auto   or",befor it be move from the place where it be accept by the insur for movement into or onto the cover auto or
 "from the movement of property by a mechanical device other than a hand truck unless the device is attached to the covered
-auto "
+auto ",from the movement of properti by a mechan devic other than a hand truck unless the devic is attach to the cover auto,"from the movement of property by a mechanical device other than a hand truck unless the device be attach to the cover 
+ auto",from the movement of properti by a mechan devic other than a hand truck unless the devic be attach to the cover auto
 "1 Whether the insured may be liable
 as an employer or in any other capacity and
 2 To any obligation to share damages
 with or repay someone else who
 must pay damages because of the
-injury"
+injury",1 whether the insur may be liabl as an employ or in ani other capac and 2 to ani oblig to share damag with or repay someon els who must pay damag becaus of the injuri,"1 whether the insure may be liable 
+ as an employer or in any other capacity and 
+ 2 to any obligation to share damage 
+ with or repay someone else who 
+ must pay damage because of the 
+ injury",1 whether the insur may be liabl as an employ or in ani other capac and 2 to ani oblig to share damag with or repay someon el who must pay damag becaus of the injuri
 "But this exclusion does not apply to bodily
 injury to domestic employees not entitled to
 workers’ compensation benefits or to liability
 assumed by the insured under an insured contract  For the purposes of the coverage form
 a domestic employee is a person engaged in
 CA0001 310
-Insurance Services Office Inc 2009"
+Insurance Services Office Inc 2009",but this exclus doe not appli to bodili injuri to domest employe not entitl to worker compens benefit or to liabil assum by the insur under an insur contract for the purpos of the coverag form a domest employe is a person engag in ca0001 310 insur servic offic inc 2009,"but this exclusion do not apply to bodily 
+ injury to domestic employee not entitle to 
+ worker ’ compensation benefit or to liability 
+ assume by the insure under an insure contract   for the purpose of the coverage form 
+ a domestic employee be a person engage in 
+ CA0001 310 
+ Insurance Services Office Inc 2009",but this exclus doe not appli to bodili injuri to domest employe not entitl to worker compen benefit or to liabil assum by the insur under an insur contract for the purpos of the coverag form a domest employe be a person engag in ca0001 310 insur servic offic inc 2009
 "SAMPLE
 would qualify under the definition of
 mobile equipment if it were not subject to
 a compulsory or financial responsibility
 law or other motor vehicle insurance law
-where it is licensed or principally garaged"
+where it is licensed or principally garaged",sampl would qualifi under the definit of mobil equip if it were not subject to a compulsori or financi respons law or other motor vehicl insur law where it is licens or princip garag,"SAMPLE 
+ would qualify under the definition of 
+ mobile equipment if it be not subject to 
+ a compulsory or financial responsibility 
+ law or other motor vehicle insurance law 
+ where it be license or principally garage",sampl would qualifi under the definit of mobil equip if it be not subject to a compulsori or financi respon law or other motor vehicl insur law where it be licen or princip garag
 "1 Being transported or towed by
 handled or handled for movement
-into onto or from the covered auto "
+into onto or from the covered auto ",1 be transport or tow by handl or handl for movement into onto or from the cover auto,"1 be transport or tow by 
+ handle or handle for movement 
+ into onto or from the cover auto",1 be transport or tow by handl or handl for movement into onto or from the cover auto
 "Your work includes warranties or representations made at any time with respect to the
 fitness quality durability or performance of
 any of the items included in Paragraph a or
@@ -251,22 +440,54 @@ Work that may need service maintenance correction repair or replacement
 but which is otherwise complete will be
 treated as completed
 11 Pollution
-Bodily injury or property damage arising out"
+Bodily injury or property damage arising out",your work includ warranti or represent made at ani time with respect to the fit qualiti durabl or perform of ani of the item includ in paragraph a or b abov your work will be deem complet at the earliest of the follow time 1 when all of the work call for in your contract has been complet 2 when all of the work to be done at the site has been complet if your contract call for work at more than one site 3 when that part of the work done at a job site has been put to it intend use by ani person or organ other than anoth contractor or subcontractor work on the same project work that may need servic mainten correct repair or replac but which is otherwis complet will be treat as complet 11 pollut bodili injuri or properti damag aris out,"your work include warranty or representation make at any time with respect to the 
+ fitness quality durability or performance of 
+ any of the item include in Paragraph a or 
+ b above 
+ your work will be deem complete at the 
+ early of the follow time 
+ 1 when all of the work call for in 
+ your contract have be complete 
+ 2 when all of the work to be do at 
+ the site have be complete if your 
+ contract call for work at more than 
+ one site 
+ 3 when that part of the work do at 
+ a job site have be put to its 
+ intend use by any person or organization other than another contractor or subcontractor work on 
+ the same project 
+ Work that may need service maintenance correction repair or replacement 
+ but which be otherwise complete will be 
+ treat as complete 
+ 11 Pollution 
+ Bodily injury or property damage arise out",your work includ warranti or represent make at ani time with respect to the fit qualiti durabl or perform of ani of the item includ in paragraph a or b abov your work will be deem complet at the early of the follow time 1 when all of the work call for in your contract have be complet 2 when all of the work to be do at the site have be complet if your contract call for work at more than one site 3 when that part of the work do at a job site have be put to it intend use by ani person or organ other than anoth contractor or subcontractor work on the same project work that may need servic mainten correct repair or replac but which be otherwis complet will be treat as complet 11 pollut bodili injuri or properti damag aris out
 "of the actual alleged or threatened discharge
 dispersal seepage migration release or escape
 of pollutants 
 CA0001 310
-Insurance Services Office Inc 2009"
+Insurance Services Office Inc 2009",of the actual alleg or threaten discharg dispers seepag migrat releas or escap of pollut ca0001 310 insur servic offic inc 2009,"of the actual alleged or threaten discharge 
+ dispersal seepage migration release or escape 
+ of pollutant 
+ CA0001 310 
+ Insurance Services Office Inc 2009",of the actual alleg or threaten discharg disper seepag migrat relea or escap of pollut ca0001 310 insur servic offic inc 2009
 "Before the pollutants or any property in
 which the pollutants are contained are
 moved from the place where they are accepted by the insured for movement into
-or onto the covered auto  or"
+or onto the covered auto  or",befor the pollut or ani properti in which the pollut are contain are move from the place where they are accept by the insur for movement into or onto the cover auto or,"before the pollutant or any property in 
+ which the pollutant be contain be 
+ move from the place where they be accept by the insured for movement into 
+ or onto the cover auto   or",befor the pollut or ani properti in which the pollut be contain be move from the place where they be accept by the insur for movement into or onto the cover auto or
 "After the pollutants or any property in
 which the pollutants are contained are
 moved from the covered auto to the
 place where they are finally delivered
 disposed of or abandoned by the
-insured"
+insured",after the pollut or ani properti in which the pollut are contain are move from the cover auto to the place where they are final deliv dispos of or abandon by the insur,"after the pollutant or any property in 
+ which the pollutant be contain be 
+ move from the covered auto to the 
+ place where they be finally deliver 
+ dispose of or abandon by the 
+ insure",after the pollut or ani properti in which the pollut be contain be move from the cover auto to the place where they be final deliv dispo of or abandon by the insur
 "Paragraph a above does not apply to fuels
 lubricants fluids exhaust gases or other similar pollutants that are needed for or result
 from the normal electrical hydraulic or mechanical functioning of the covered auto or its
@@ -287,32 +508,71 @@ not in or upon a covered auto if
 a The pollutants or any property
 in which the pollutants are
 contained are upset overturned
-Page 5 of 13"
+Page 5 of 13",paragraph a abov doe not appli to fuel lubric fluid exhaust gase or other similar pollut that are need for or result from the normal electr hydraul or mechan function of the cover auto or it part if 1 the pollut escap seep migrat or are discharg dispers or releas direct from an auto part design by it manufactur to hold store receiv or dispos of such pollut and 2 the bodili injuri properti damag or cover pollut cost or expens doe not aris out of the oper of ani equip list in paragraph 6b and 6c of the definit of mobil equip paragraph b and c abov of this exclus do not appli to accid that occur away from premis own by or rent to an insur with respect to pollut not in or upon a cover auto if a the pollut or ani properti in which the pollut are contain are upset overturn page 5 of 13,"paragraph a above do not apply to fuel 
+ lubricant fluid exhaust gas or other similar pollutant that be need for or result 
+ from the normal electrical hydraulic or mechanical functioning of the covered auto or its 
+ part if 
+ 1 the pollutant escape seep migrate 
+ or be discharge disperse or release directly from an auto part design by its manufacturer to hold 
+ store receive or dispose of such 
+ pollutant   and 
+ 2 the bodily injury property damage 
+ or cover pollution cost or expense 
+ do not arise out of the operation 
+ of any equipment list in Paragraphs 6b and 6c of the definition 
+ of mobile equipment 
+ Paragraphs b and c above of this exclusion do not apply to accident that occur 
+ away from premise own by or rent 
+ to an insure with respect to pollutant 
+ not in or upon a cover auto if 
+ a the pollutant or any property 
+ in which the pollutant be 
+ contain be upset overturn 
+ page 5 of 13",paragraph a abov doe not appli to fuel lubric fluid exhaust gase or other similar pollut that be need for or result from the normal electr hydraul or mechan function of the cover auto or it part if 1 the pollut escap seep migrat or be discharg disper or relea direct from an auto part design by it manufactur to hold store receiv or dispo of such pollut and 2 the bodili injuri properti damag or cover pollut cost or expen doe not aris out of the oper of ani equip list in paragraph 6b and 6c of the definit of mobil equip paragraph b and c abov of this exclus do not appli to accid that occur away from premis own by or rent to an insur with respect to pollut not in or upon a cover auto if a the pollut or ani properti in which the pollut be contain be upset overturn page 5 of 13
 "SAMPLE
 or damaged as a result of the
 maintenance or use of a covered
 auto  and
 b The discharge dispersal seepage migration release or escape
 of the pollutants is caused directly by such upset overturn
-or damage"
+or damage",sampl or damag as a result of the mainten or use of a cover auto and b the discharg dispers seepag migrat releas or escap of the pollut is caus direct by such upset overturn or damag,"SAMPLE 
+ or damage as a result of the 
+ maintenance or use of a cover 
+ auto   and 
+ b the discharge dispersal seepage migration release or escape 
+ of the pollutant be cause directly by such upset overturn 
+ or damage",sampl or damag as a result of the mainten or use of a cover auto and b the discharg disper seepag migrat relea or escap of the pollut be caus direct by such upset overturn or damag
 "endorsement or Underinsured Motorists Coverage
 endorsement attached to this Coverage Part
-Section III  Physical Damage Coverage"
+Section III  Physical Damage Coverage",endors or underinsur motorist coverag endors attach to this coverag part section iii physic damag coverag,"endorsement or underinsured Motorists Coverage 
+ endorsement attach to this Coverage Part 
+ Section III   Physical Damage Coverage",endor or underinsur motorist coverag endor attach to this coverag part section iii physic damag coverag
 "Warlike action by a military force including action in hindering or defending
 against an actual or expected attack by
 any government sovereign or other authority using military personnel or other
-agents or"
+agents or",warlik action by a militari forc includ action in hinder or defend against an actual or expect attack by ani govern sovereign or other author use militari personnel or other agent or,"warlike action by a military force include action in hinder or defend 
+ against an actual or expect attack by 
+ any government sovereign or other authority use military personnel or other 
+ agent or",warlik action by a militari forc includ action in hinder or defend against an actual or expect attack by ani govern sovereign or other author use militari personnel or other agent or
 "Insurrection rebellion revolution usurped power or action taken by governmental authority in hindering or
-defending against any of these"
+defending against any of these",insurrect rebellion revolut usurp power or action taken by government author in hinder or defend against ani of these,"insurrection rebellion revolution usurped power or action take by governmental authority in hinder or 
+ defend against any of these",insurrect rebellion revolut usurp power or action take by government author in hinder or defend against ani of these
 "Covered autos while used in any professional
 or organized racing or demolition contest or
 stunting activity or while practicing for such
 contest or activity This insurance also does
 not apply while that covered auto is being
-prepared for such a contest or activity"
+prepared for such a contest or activity",cover auto while use in ani profession or organ race or demolit contest or stunt activ or while practic for such contest or activ this insur also doe not appli while that cover auto is be prepar for such a contest or activ,"covered auto while use in any professional 
+ or organize racing or demolition contest or 
+ stunting activity or while practice for such 
+ contest or activity this insurance also do 
+ not apply while that cover auto be be 
+ prepare for such a contest or activity",cover auto while use in ani profession or organ race or demolit contest or stunt activ or while practic for such contest or activ this insur also doe not appli while that cover auto be be prepar for such a contest or activ
 "6 The sinking burning collision or
 derailment of any conveyance transporting the covered auto 
-c"
+c",6 the sink burn collis or derail of ani convey transport the cover auto c,"6 the sink burn collision or 
+ derailment of any conveyance transport the cover auto 
+ c",6 the sink burn colli or derail of ani convey transport the cover auto c
 "Regardless of the number of covered autos  insureds premiums paid claims made or vehicles
 involved in the accident  the most we will pay for
 the total of all damages and covered pollution cost
@@ -321,29 +581,54 @@ All bodily injury property damage and covered
 pollution cost or expense resulting from continuous
 or repeated exposure to substantially the same
 conditions will be considered as resulting from one
-accident "
+accident ",regardless of the number of cover auto insur premium paid claim made or vehicl involv in the accid the most we will pay for the total of all damag and cover pollut cost or expens combin result from ani one accid is the limit of insur for liabil coverag shown in the declar all bodili injuri properti damag and cover pollut cost or expens result from continu or repeat exposur to substanti the same condit will be consid as result from one accid,"regardless of the number of cover auto   insured premium pay claim make or vehicle 
+ involve in the accident   the most we will pay for 
+ the total of all damage and cover pollution cost 
+ or expense combine result from any one accident be the Limit of Insurance for Liability Coverage show in the declaration 
+ all bodily injury property damage and cover 
+ pollution cost or expense result from continuous 
+ or repeat exposure to substantially the same 
+ condition will be consider as result from one 
+ accident",regardless of the number of cover auto insur premium pay claim make or vehicl involv in the accid the most we will pay for the total of all damag and cover pollut cost or expen combin result from ani one accid be the limit of insur for liabil coverag show in the declar all bodili injuri properti damag and cover pollut cost or expen result from continu or repeat exposur to substanti the same condit will be consid as result from one accid
 "Towing
 We will pay up to the limit shown in the
 Declarations for towing and labor costs incurred each time a covered auto of the private
-passenger type is disabled However the labor must be performed at the place of disablement"
+passenger type is disabled However the labor must be performed at the place of disablement",tow we will pay up to the limit shown in the declar for tow and labor cost incur each time a cover auto of the privat passeng type is disabl howev the labor must be perform at the place of disabl,"tow 
+ we will pay up to the limit show in the 
+ Declarations for towing and labor cost incur each time a covered auto of the private 
+ passenger type be disable however the labor must be perform at the place of disablement",tow we will pay up to the limit show in the declar for tow and labor cost incur each time a cover auto of the privat passeng type be disabl howev the labor must be perform at the place of disabl
 "No one will be entitled to receive duplicate payments for the same elements of loss under this
 coverage form and any Medical Payments Coverage endorsement Uninsured Motorists Coverage
 CA0001 310
-Insurance Services Office Inc 2009"
+Insurance Services Office Inc 2009",no one will be entitl to receiv duplic payment for the same element of loss under this coverag form and ani medic payment coverag endors uninsur motorist coverag ca0001 310 insur servic offic inc 2009,"no one will be entitle to receive duplicate payment for the same element of loss under this 
+ coverage form and any Medical Payments Coverage endorsement Uninsured Motorists Coverage 
+ CA0001 310 
+ Insurance Services Office Inc 2009",no one will be entitl to receiv duplic payment for the same element of loss under this coverag form and ani medic payment coverag endor uninsur motorist coverag ca0001 310 insur servic offic inc 2009
 "Glass Breakage  Hitting a Bird or Animal Falling Objects or Missiles
 If you carry Comprehensive Coverage for the
 damaged covered auto  we will pay for the
 following under Comprehensive Coverage
-Page 6 of 13"
+Page 6 of 13",glass breakag hit a bird or anim fall object or missil if you carri comprehens coverag for the damag cover auto we will pay for the follow under comprehens coverag page 6 of 13,"Glass Breakage   hit a Bird or Animal Falling Objects or missile 
+ if you carry Comprehensive Coverage for the 
+ damage cover auto   we will pay for the 
+ follow under Comprehensive Coverage 
+ Page 6 of 13",glass breakag hit a bird or anim fall object or missil if you carri comprehens coverag for the damag cover auto we will pay for the follow under comprehens coverag page 6 of 13
 "However you have the option of having glass
 breakage caused by a covered auto’s collision
 or overturn considered a loss under Collision
 Coverage
-4"
+4",howev you have the option of have glass breakag caus by a cover auto collis or overturn consid a loss under collis coverag 4,"however you have the option of have glass 
+ breakage cause by a covered auto ’s collision 
+ or overturn consider a loss under Collision 
+ Coverage 
+ 4",howev you have the option of have glass breakag caus by a cover auto colli or overturn consid a loss under collis coverag 4
 "We will not pay for loss caused by or resulting
 from any of the following Such loss is excluded regardless of any other cause or event
 that contributes concurrently or in any sequence to the loss
-a"
+a",we will not pay for loss caus by or result from ani of the follow such loss is exclud regardless of ani other caus or event that contribut concurr or in ani sequenc to the loss a,"we will not pay for loss cause by or result 
+ from any of the follow such loss be exclude regardless of any other cause or event 
+ that contribute concurrently or in any sequence to the loss 
+ a",we will not pay for loss caus by or result from ani of the follow such loss be exclud regardless of ani other caus or event that contribut concurr or in ani sequenc to the loss a
 "Transportation Expenses
 We will pay up to 20 per day to a maximum of 600 for temporary transportation expense incurred by you because of
 the total theft of a covered auto of the
@@ -355,10 +640,23 @@ for temporary transportation expenses
 incurred during the period beginning 48
 hours after the theft and ending regardless of the policy’s expiration when the
 covered auto is returned to use or we pay
-for its loss "
+for its loss ",transport expens we will pay up to 20 per day to a maximum of 600 for temporari transport expens incur by you becaus of the total theft of a cover auto of the privat passeng type we will pay onli for those cover auto for which you carri either comprehens or specifi caus of loss coverag we will pay for temporari transport expens incur dure the period begin 48 hour after the theft and end regardless of the polici expir when the cover auto is return to use or we pay for it loss,"transportation Expenses 
+ we will pay up to 20 per day to a maximum of 600 for temporary transportation expense incur by you because of 
+ the total theft of a covered auto of the 
+ private passenger type we will pay only 
+ for those cover auto for which you 
+ carry either Comprehensive or specify 
+ Causes of Loss Coverage we will pay 
+ for temporary transportation expense 
+ incur during the period begin 48 
+ hour after the theft and end regardless of the policy ’s expiration when the 
+ covered auto be return to use or we pay 
+ for its loss",transport expen we will pay up to 20 per day to a maximum of 600 for temporari transport expen incur by you becaus of the total theft of a cover auto of the privat passeng type we will pay onli for those cover auto for which you carri either comprehens or specifi caus of loss coverag we will pay for temporari transport expen incur dure the period begin 48 hour after the theft and end regardless of the polici expir when the cover auto be return to use or we pay for it loss
 "1 Other than collision only if the
 Declarations indicate that Comprehensive Coverage is provided for any
-covered auto "
+covered auto ",1 other than collis onli if the declar indic that comprehens coverag is provid for ani cover auto,"1 other than collision only if the 
+ Declarations indicate that Comprehensive Coverage be provide for any 
+ covered auto",1 other than collis onli if the declar indic that comprehens coverag be provid for ani cover auto
 "2 Warlike action by a military force
 including action in hindering or defending against an actual or expected
 attack by any government sovereign or other authority using military personnel or other agents or
@@ -366,13 +664,25 @@ attack by any government sovereign or other authority using military personnel o
 usurped power or action taken by
 governmental authority in hindering
 or defending against any of these
-2"
+2",2 warlik action by a militari forc includ action in hinder or defend against an actual or expect attack by ani govern sovereign or other author use militari personnel or other agent or 3 insurrect rebellion revolut usurp power or action taken by government author in hinder or defend against ani of these 2,"2 Warlike action by a military force 
+ include action in hinder or defend against an actual or expect 
+ attack by any government sovereign or other authority use military personnel or other agent or 
+ 3 Insurrection rebellion revolution 
+ usurped power or action take by 
+ governmental authority in hinder 
+ or defend against any of these 
+ 2",2 warlik action by a militari forc includ action in hinder or defend against an actual or expect attack by ani govern sovereign or other author use militari personnel or other agent or 3 insurrect rebellion revolut usurp power or action take by government author in hinder or defend against ani of these 2
 "We will not pay for loss to any covered auto
 while used in any professional or organized
 racing or demolition contest or stunting activity or while practicing for such contest or
 activity We will also not pay for loss to any
 covered auto while that covered auto is being
-prepared for such a contest or activity"
+prepared for such a contest or activity",we will not pay for loss to ani cover auto while use in ani profession or organ race or demolit contest or stunt activ or while practic for such contest or activ we will also not pay for loss to ani cover auto while that cover auto is be prepar for such a contest or activ,"we will not pay for loss to any covered auto 
+ while use in any professional or organize 
+ racing or demolition contest or stunt activity or while practice for such contest or 
+ activity we will also not pay for loss to any 
+ covered auto while that cover auto be be 
+ prepare for such a contest or activity",we will not pay for loss to ani cover auto while use in ani profession or organ race or demolit contest or stunt activ or while practic for such contest or activ we will also not pay for loss to ani cover auto while that cover auto be be prepar for such a contest or activ
 "2 Specified Causes Of Loss only if the
 Declarations indicate that Specified
 Causes Of Loss Coverage is provided for any covered auto  or
@@ -383,7 +693,17 @@ However the most we will pay for any
 expenses for loss of use is 20 per day to
 a maximum of 600
 CA0001 310
-Insurance Services Office Inc 2009"
+Insurance Services Office Inc 2009",2 specifi caus of loss onli if the declar indic that specifi caus of loss coverag is provid for ani cover auto or 3 collis onli if the declar indic that collis coverag is provid for ani cover auto howev the most we will pay for ani expens for loss of use is 20 per day to a maximum of 600 ca0001 310 insur servic offic inc 2009,"2 specified cause of Loss only if the 
+ Declarations indicate that specify 
+ Causes of Loss Coverage be provide for any cover auto   or 
+ 3 collision only if the declaration 
+ indicate that Collision Coverage be 
+ provide for any covered auto 
+ however the most we will pay for any 
+ expense for loss of use be 20 per day to 
+ a maximum of 600 
+ CA0001 310 
+ Insurance Services Office Inc 2009",2 specifi caus of loss onli if the declar indic that specifi caus of loss coverag be provid for ani cover auto or 3 colli onli if the declar indic that collis coverag be provid for ani cover auto howev the most we will pay for ani expen for loss of use be 20 per day to a maximum of 600 ca0001 310 insur servic offic inc 2009
 "Loss of Use Expenses
 For Hired Auto Physical Damage we
 will pay expenses for which an insured
@@ -391,56 +711,99 @@ becomes legally responsible to pay for
 loss of use of a vehicle rented or hired
 without a driver under a written rental
 contract or agreement We will pay for
-loss of use expenses if caused by"
+loss of use expenses if caused by",loss of use expens for hire auto physic damag we will pay expens for which an insur becom legal respons to pay for loss of use of a vehicl rent or hire without a driver under a written rental contract or agreement we will pay for loss of use expens if caus by,"loss of Use Expenses 
+ for Hired Auto Physical Damage we 
+ will pay expense for which an insure 
+ become legally responsible to pay for 
+ loss of use of a vehicle rent or hire 
+ without a driver under a write rental 
+ contract or agreement we will pay for 
+ loss of use expense if cause by",loss of use expen for hire auto physic damag we will pay expen for which an insur becom legal respon to pay for loss of use of a vehicl rent or hire without a driver under a write rental contract or agreement we will pay for loss of use expen if caus by
 "Tapes records discs or other similar audio visual or data electronic devices
 designed for use with audio visual or
-data electronic equipment"
+data electronic equipment",tape record disc or other similar audio visual or data electron devic design for use with audio visual or data electron equip,"tape record disc or other similar audio visual or datum electronic device 
+ design for use with audio visual or 
+ datum electronic equipment",tape record disc or other similar audio visual or datum electron devic design for use with audio visual or data electron equip
 "Any device designed or used to detect
 speedmeasuring equipment such as radar or laser detectors and any jamming
 apparatus intended to elude or disrupt
-speedmeasurement equipment"
+speedmeasurement equipment",ani devic design or use to detect speedmeasur equip such as radar or laser detector and ani jam apparatus intend to elud or disrupt speedmeasur equip,"any device design or use to detect 
+ speedmeasuring equipment such as radar or laser detector and any jam 
+ apparatus intend to elude or disrupt 
+ speedmeasurement equipment",ani devic design or use to detect speedmeasur equip such as radar or laser detector and ani jam apparatus intend to elud or disrupt speedmeasur equip
 "Permanently installed in or upon the
 covered auto in a housing opening or
 other location that is not normally used
-by the auto manufacturer for the installation of such equipment"
+by the auto manufacturer for the installation of such equipment",perman instal in or upon the cover auto in a hous open or other locat that is not normal use by the auto manufactur for the instal of such equip,"permanently instal in or upon the 
+ covered auto in a housing opening or 
+ other location that be not normally use 
+ by the auto manufacturer for the installation of such equipment",perman instal in or upon the cover auto in a hous open or other locat that be not normal use by the auto manufactur for the instal of such equip
 "Any electronic equipment without regard to whether this equipment is permanently installed that reproduces
 receives or transmits audio visual or data
-signals"
+signals",ani electron equip without regard to whether this equip is perman instal that reproduc receiv or transmit audio visual or data signal,"any electronic equipment without regard to whether this equipment be permanently instal that reproduce 
+ receive or transmit audio visual or datum 
+ signal",ani electron equip without regard to whether this equip be perman instal that reproduc receiv or transmit audio visual or datum signal
 "Removable from a permanently installed
 housing unit as described in Paragraph
 2a above or is an integral part of that
-equipment or"
+equipment or",remov from a perman instal hous unit as describ in paragraph 2a abov or is an integr part of that equip or,"removable from a permanently instal 
+ housing unit as describe in Paragraph 
+ 2a above or be an integral part of that 
+ equipment or",remov from a perman instal hous unit as describ in paragraph 2a abov or be an integr part of that equip or
 "Exclusions 4c and 4d do not apply to
 equipment designed to be operated solely by
 use of the power from the auto’s electrical
 system that at the time of loss  is
-a"
+a",exclus 4c and 4d do not appli to equip design to be oper sole by use of the power from the auto electr system that at the time of loss is a,"exclusion 4c and 4d do not apply to 
+ equipment design to be operate solely by 
+ use of the power from the auto ’s electrical 
+ system that at the time of loss   be 
+ a",exclus 4c and 4d do not appli to equip design to be oper sole by use of the power from the auto electr system that at the time of loss be a
 "An integral part of the same unit housing
 any electronic equipment described in
-Paragraphs a and b above or"
+Paragraphs a and b above or",an integr part of the same unit hous ani electron equip describ in paragraph a and b abov or,"an integral part of the same unit housing 
+ any electronic equipment describe in 
+ Paragraphs a and b above or",an integr part of the same unit hous ani electron equip describ in paragraph a and b abov or
 "Necessary for the normal operation of
 the covered auto or the monitoring of the
-covered auto’s operating system"
+covered auto’s operating system",necessari for the normal oper of the cover auto or the monitor of the cover auto oper system,"Necessary for the normal operation of 
+ the covered auto or the monitoring of the 
+ covered auto ’s operate system",necessari for the normal oper of the cover auto or the monitor of the cover auto oper system
 "An adjustment for depreciation and physical
 condition will be made in determining actual
-cash value in the event of a total loss "
+cash value in the event of a total loss ",an adjust for depreci and physic condit will be made in determin actual cash valu in the event of a total loss,"an adjustment for depreciation and physical 
+ condition will be make in determine actual 
+ cash value in the event of a total loss",an adjust for depreci and physic condit will be make in determin actual cash valu in the event of a total loss
 "If a repair or replacement results in better
 than like kind or quality we will not pay for
-the amount of the betterment"
+the amount of the betterment",if a repair or replac result in better than like kind or qualiti we will not pay for the amount of the better,"if a repair or replacement result in well 
+ than like kind or quality we will not pay for 
+ the amount of the betterment",if a repair or replac result in well than like kind or qualiti we will not pay for the amount of the well
 "D Deductible
 For each covered auto  our obligation to pay for
 repair return or replace damaged or stolen property will be reduced by the applicable deductible
 shown in the Declarations Any Comprehensive
 Coverage deductible shown in the Declarations
 does not apply to loss caused by fire or lightning
-Section IV  Business Auto Conditions"
+Section IV  Business Auto Conditions",d deduct for each cover auto our oblig to pay for repair return or replac damag or stolen properti will be reduc by the applic deduct shown in the declar ani comprehens coverag deduct shown in the declar doe not appli to loss caus by fire or lightn section iv busi auto condit,"d Deductible 
+ for each cover auto   our obligation to pay for 
+ repair return or replace damage or steal property will be reduce by the applicable deductible 
+ show in the Declarations any Comprehensive 
+ Coverage deductible show in the declaration 
+ do not apply to loss cause by fire or lightning 
+ Section IV   Business Auto condition",d deduct for each cover auto our oblig to pay for repair return or replac damag or steal properti will be reduc by the applic deduct show in the declar ani comprehen coverag deduct show in the declar doe not appli to loss caus by fire or lightn section iv busi auto condit
 "The cost of repairing or replacing the
 damaged or stolen property with other
-property of like kind and quality"
+property of like kind and quality",the cost of repair or replac the damag or stolen properti with other properti of like kind and qualiti,"the cost of repair or replace the 
+ damage or steal property with other 
+ property of like kind and quality",the cost of repair or replac the damag or steal properti with other properti of like kind and qualiti
 "1000 is the most we will pay for loss in any
 one accident to all electronic equipment that
 reproduces receives or transmits audio visual
-or data signals which at the time of loss  is"
+or data signals which at the time of loss  is",1000 is the most we will pay for loss in ani one accid to all electron equip that reproduc receiv or transmit audio visual or data signal which at the time of loss is,"1000 be the most we will pay for loss in any 
+ one accident to all electronic equipment that 
+ reproduce receive or transmit audio visual 
+ or datum signal which at the time of loss   be",1000 be the most we will pay for loss in ani one accid to all electron equip that reproduc receiv or transmit audio visual or datum signal which at the time of loss be
 "Appraisal for Physical Damage Loss
 If you and we disagree on the amount of
 loss  either may demand an appraisal of the
@@ -451,38 +814,71 @@ appraisers will state separately the actual cash
 value and amount of loss  If they fail to agree
 they will submit their differences to the umpire A decision agreed to by any two will be
 binding Each party will
-a"
+a",apprais for physic damag loss if you and we disagre on the amount of loss either may demand an apprais of the loss in this event each parti will select a compet apprais the two apprais will select a compet and imparti umpir the apprais will state separ the actual cash valu and amount of loss if they fail to agre they will submit their differ to the umpir a decis agre to by ani two will be bind each parti will a,"appraisal for Physical Damage Loss 
+ if you and we disagree on the amount of 
+ loss   either may demand an appraisal of the 
+ loss   in this event each party will select a 
+ competent appraiser the two appraiser will 
+ select a competent and impartial umpire the 
+ appraiser will state separately the actual cash 
+ value and amount of loss   if they fail to agree 
+ they will submit their difference to the umpire a decision agree to by any two will be 
+ bind each party will 
+ a",apprais for physic damag loss if you and we disagre on the amount of loss either may demand an apprais of the loss in this event each parti will select a compet apprais the two apprais will select a compet and imparti umpir the apprais will state separ the actual cash valu and amount of loss if they fail to agre they will submit their differ to the umpir a decis agre to by ani two will be bind each parti will a
 "2 Take all reasonable steps to protect
 the covered auto from further damage Also keep a record of your
 expenses for consideration in the
-settlement of the claim"
+settlement of the claim",2 take all reason step to protect the cover auto from further damag also keep a record of your expens for consider in the settlement of the claim,"2 take all reasonable step to protect 
+ the covered auto from further damage also keep a record of your 
+ expense for consideration in the 
+ settlement of the claim",2 take all reason step to protect the cover auto from further damag also keep a record of your expen for consider in the settlement of the claim
 "3 Permit us to inspect the covered
 auto and records proving the loss
-before its repair or disposition"
+before its repair or disposition",3 permit us to inspect the cover auto and record prove the loss befor it repair or disposit,"3 permit we to inspect the cover 
+ auto and record prove the loss 
+ before its repair or disposition",3 permit we to inspect the cover auto and record prove the loss befor it repair or disposit
 "We have no duty to provide coverage under
 this policy unless there has been full compliance with the following duties
-a"
+a",we have no duti to provid coverag under this polici unless there has been full complianc with the follow duti a,"we have no duty to provide coverage under 
+ this policy unless there have be full compliance with the follow duty 
+ a",we have no duti to provid coverag under this polici unless there have be full complianc with the follow duti a
 "In the event of accident  claim suit or
 loss  you must give us or our authorized
-representative prompt notice of the accident or loss  Include"
+representative prompt notice of the accident or loss  Include",in the event of accid claim suit or loss you must give us or our author repres prompt notic of the accid or loss includ,"in the event of accident   claim suit or 
+ loss   you must give we or our authorize 
+ representative prompt notice of the accident or loss   include",in the event of accid claim suit or loss you must give we or our author repre prompt notic of the accid or loss includ
 "4 Agree to examinations under oath
 at our request and give us a signed
 statement of your answers
-3"
+3",4 agre to examin under oath at our request and give us a sign statement of your answer 3,"4 agree to examination under oath 
+ at our request and give we a sign 
+ statement of your answer 
+ 3",4 agre to examin under oath at our request and give we a sign statement of your answer 3
 "Under Liability Coverage we agree in
 writing that the insured has an obligation
 to pay or until the amount of that obligation has finally been determined by
 judgment after trial No one has the right
-under this policy to bring us into an action to determine the insured’s liability"
+under this policy to bring us into an action to determine the insured’s liability",under liabil coverag we agre in write that the insur has an oblig to pay or until the amount of that oblig has final been determin by judgment after trial no one has the right under this polici to bring us into an action to determin the insur liabil,"under Liability Coverage we agree in 
+ writing that the insure have an obligation 
+ to pay or until the amount of that obligation have finally be determine by 
+ judgment after trial no one have the right 
+ under this policy to bring we into an action to determine the insure ’s liability",under liabil coverag we agre in write that the insur have an oblig to pay or until the amount of that oblig have final be determin by judgment after trial no one have the right under this polici to bring we into an action to determin the insur liabil
 "2 The insured’s name and address and
 3 To the extent possible the names
 and addresses of any injured persons
 and witnesses
-b"
+b",2 the insur name and address and 3 to the extent possibl the name and address of ani injur person and wit b,"2 the insure ’s name and address and 
+ 3 to the extent possible the name 
+ and address of any injured person 
+ and witness 
+ b",2 the insur name and address and 3 to the extent possibl the name and address of ani injur person and wit b
 "Additionally you and any other involved
 insured must
 1 Assume no obligation make no
-payment or incur no expense without our consent except at the insured’s own cost"
+payment or incur no expense without our consent except at the insured’s own cost",addit you and ani other involv insur must 1 assum no oblig make no payment or incur no expens without our consent except at the insur own cost,"additionally you and any other involve 
+ insure must 
+ 1 Assume no obligation make no 
+ payment or incur no expense without our consent except at the insured ’s own cost",addit you and ani other involv insur must 1 assum no oblig make no payment or incur no expen without our consent except at the insur own cost
 "2 Immediately send us copies of any
 request demand order notice
 summons or legal paper received
@@ -492,41 +888,76 @@ defense against the suit
 4 Authorize us to obtain medical records or other pertinent information
 5 Submit to examination at our expense by physicians of our choice
 as often as we reasonably require
-c"
+c",2 immedi send us copi of ani request demand order notic summon or legal paper receiv concern the claim or suit 3 cooper with us in the investig or settlement of the claim or defens against the suit 4 author us to obtain medic record or other pertin inform 5 submit to examin at our expens by physician of our choic as often as we reason requir c,"2 immediately send we copy of any 
+ request demand order notice 
+ summon or legal paper receive 
+ concern the claim or suit 
+ 3 Cooperate with we in the investigation or settlement of the claim or 
+ defense against the suit 
+ 4 authorize we to obtain medical record or other pertinent information 
+ 5 Submit to examination at our expense by physician of our choice 
+ as often as we reasonably require 
+ c",2 immedi send we copi of ani request demand order notic summon or legal paper receiv concern the claim or suit 3 cooper with we in the investig or settlement of the claim or defen against the suit 4 author we to obtain medic record or other pertin inform 5 submit to examin at our expen by physician of our choic as often as we reason requir c
 "Return the stolen property at our expense We will pay for any damage that
-results to the auto from the theft or"
+results to the auto from the theft or",return the stolen properti at our expens we will pay for ani damag that result to the auto from the theft or,"return the steal property at our expense we will pay for any damage that 
+ result to the auto from the theft or",return the steal properti at our expen we will pay for ani damag that result to the auto from the theft or
 "If we pay for the loss  our payment will include the applicable sales tax for the damaged
 or stolen property
-5"
+5",if we pay for the loss our payment will includ the applic sale tax for the damag or stolen properti 5,"if we pay for the loss   our payment will include the applicable sale tax for the damage 
+ or steal property 
+ 5",if we pay for the loss our payment will includ the applic sale tax for the damag or steal properti 5
 "If there is loss to a covered auto or its
 equipment you must also do the following
 1 Promptly notify the police if the
 covered auto or any of its equipment
-is stolen"
+is stolen",if there is loss to a cover auto or it equip you must also do the follow 1 prompt notifi the polic if the cover auto or ani of it equip is stolen,"if there be loss to a covered auto or its 
+ equipment you must also do the follow 
+ 1 promptly notify the police if the 
+ covered auto or any of its equipment 
+ be steal",if there be loss to a cover auto or it equip you must also do the follow 1 prompt notifi the polic if the cover auto or ani of it equip be steal
 "Transfer of Rights of Recovery Against Others to Us
 If any person or organization to or for whom
 we make payment under this coverage form
 has rights to recover damages from another
 those rights are transferred to us That person
 or organization must do everything necessary
-Page 9 of 13"
+Page 9 of 13",transfer of right of recoveri against other to us if ani person or organ to or for whom we make payment under this coverag form has right to recov damag from anoth those right are transfer to us that person or organ must do everyth necessari page 9 of 13,"transfer of Rights of Recovery against other to Us 
+ if any person or organization to or for whom 
+ we make payment under this coverage form 
+ have right to recover damage from another 
+ those right be transfer to we that person 
+ or organization must do everything necessary 
+ page 9 of 13",transfer of right of recoveri against other to we if ani person or organ to or for whom we make payment under this coverag form have right to recov damag from anoth those right be transfer to we that person or organ must do everyth necessari page 9 of 13
 "Bankruptcy
 Bankruptcy or insolvency of the insured or
 the insured’s estate will not relieve us of any
-obligations under this coverage form"
+obligations under this coverage form",bankruptci bankruptci or insolv of the insur or the insur estat will not reliev us of ani oblig under this coverag form,"bankruptcy 
+ Bankruptcy or insolvency of the insured or 
+ the insure ’s estate will not relieve we of any 
+ obligation under this coverage form",bankruptci bankruptci or insolv of the insur or the insur estat will not reliev we of ani oblig under this coverag form
 "If we revise this coverage form to provide
 more coverage without additional premium
 charge your policy will automatically provide
 the additional coverage as of the day the revision is effective in your state
-4"
+4",if we revis this coverag form to provid more coverag without addit premium charg your polici will automat provid the addit coverag as of the day the revis is effect in your state 4,"if we revise this coverage form to provide 
+ more coverage without additional premium 
+ charge your policy will automatically provide 
+ the additional coverage as of the day the revision be effective in your state 
+ 4",if we revis this coverag form to provid more coverag without addit premium charg your polici will automat provid the addit coverag as of the day the revis be effect in your state 4
 "For Hired Auto Physical Damage Coverage any covered auto you lease hire
 rent or borrow is deemed to be a covered
 auto you own However any auto that
 is leased hired rented or borrowed with
-a driver is not a covered auto "
+a driver is not a covered auto ",for hire auto physic damag coverag ani cover auto you leas hire rent or borrow is deem to be a cover auto you own howev ani auto that is leas hire rent or borrow with a driver is not a cover auto,"for Hired Auto Physical Damage Coverage any cover auto you lease hire 
+ rent or borrow be deem to be a cover 
+ auto you own however any auto that 
+ be lease hire rent or borrow with 
+ a driver be not a cover auto",for hire auto physic damag coverag ani cover auto you lea hire rent or borrow be deem to be a cover auto you own howev ani auto that be lea hire rent or borrow with a driver be not a cover auto
 "Regardless of the provisions of Paragraph
 a above this coverage form’s Liability
-Coverage is primary for any liability assumed under an insured contract "
+Coverage is primary for any liability assumed under an insured contract ",regardless of the provis of paragraph a abov this coverag form liabil coverag is primari for ani liabil assum under an insur contract,"regardless of the provision of Paragraph 
+ a above this coverage form ’ liability 
+ Coverage be primary for any liability assume under an insure contract",regardless of the provis of paragraph a abov this coverag form liabil coverag be primari for ani liabil assum under an insur contract
 "When this coverage form and any other
 coverage form or policy covers on the
 same basis either excess or primary we
@@ -534,12 +965,23 @@ will pay only our share Our share is the
 proportion that the Limit of Insurance
 of our coverage form bears to the total
 of the limits of all the coverage forms and
-policies covering on the same basis"
+policies covering on the same basis",when this coverag form and ani other coverag form or polici cover on the same basi either excess or primari we will pay onli our share our share is the proport that the limit of insur of our coverag form bear to the total of the limit of all the coverag form and polici cover on the same basi,"when this coverage form and any other 
+ coverage form or policy cover on the 
+ same basis either excess or primary we 
+ will pay only our share our share be the 
+ proportion that the Limit of Insurance 
+ of our coverage form bear to the total 
+ of the limit of all the coverage form and 
+ policy cover on the same basis",when this coverag form and ani other coverag form or polici cover on the same basi either excess or primari we will pay onli our share our share be the proport that the limit of insur of our coverag form bear to the total of the limit of all the coverag form and polici cover on the same basi
 "Concealment Misrepresentation or Fraud
 This coverage form is void in any case of
 fraud by you at any time as it relates to this
 coverage form It is also void if you or any
-other insured at any time intentionally conceal or misrepresent a material fact concerning"
+other insured at any time intentionally conceal or misrepresent a material fact concerning",conceal misrepresent or fraud this coverag form is void in ani case of fraud by you at ani time as it relat to this coverag form it is also void if you or ani other insur at ani time intent conceal or misrepres a materi fact concern,"Concealment Misrepresentation or Fraud 
+ this coverage form be void in any case of 
+ fraud by you at any time as it relate to this 
+ coverage form it be also void if you or any 
+ other insure at any time intentionally conceal or misrepresent a material fact concern",conceal misrepresent or fraud this coverag form be void in ani case of fraud by you at ani time as it relat to this coverag form it be also void if you or ani other insur at ani time intent conceal or misrepre a materi fact concern
 "The estimated premium for this coverage
 form is based on the exposures you told
 us you would have when this policy began We will compute the final premium
@@ -550,35 +992,67 @@ billed for the balance if any The due
 date for the final premium or retrospective premium is the date shown as the
 due date on the bill If the estimated total premium exceeds the final premium
 due the first Named Insured will get a
-refund"
+refund",the estim premium for this coverag form is base on the exposur you told us you would have when this polici began we will comput the final premium due when we determin your actual exposur the estim total premium will be credit against the final premium due and the first name insur will be bill for the balanc if ani the due date for the final premium or retrospect premium is the date shown as the due date on the bill if the estim total premium exceed the final premium due the first name insur will get a refund,"the estimate premium for this coverage 
+ form be base on the exposure you tell 
+ we you would have when this policy begin we will compute the final premium 
+ due when we determine your actual exposure the estimate total premium 
+ will be credit against the final premium 
+ due and the first Named Insured will be 
+ bill for the balance if any the due 
+ date for the final premium or retrospective premium be the date show as the 
+ due date on the bill if the estimate total premium exceed the final premium 
+ due the first Named Insured will get a 
+ refund",the estim premium for this coverag form be base on the exposur you tell we you would have when this polici begin we will comput the final premium due when we determin your actual exposur the estim total premium will be credit against the final premium due and the first name insur will be bill for the balanc if ani the due date for the final premium or retrospect premium be the date show as the due date on the bill if the estim total premium exceed the final premium due the first name insur will get a refund
 "If this policy is issued for more than one
 year the premium for this coverage form
 will be computed annually based on our
-rates or premiums in effect at the beginning of each year of the policy"
+rates or premiums in effect at the beginning of each year of the policy",if this polici is issu for more than one year the premium for this coverag form will be comput annual base on our rate or premium in effect at the begin of each year of the polici,"if this policy be issue for more than one 
+ year the premium for this coverage form 
+ will be compute annually base on our 
+ rate or premium in effect at the beginning of each year of the policy",if this polici be issu for more than one year the premium for this coverag form will be comput annual base on our rate or premium in effect at the begin of each year of the polici
 "No Benefit to Bailee  Physical Damage
 Coverages
 We will not recognize any assignment or grant
 any coverage for the benefit of any person or
 organization holding storing or transporting
-property for a fee regardless of any other provision of this coverage form"
+property for a fee regardless of any other provision of this coverage form",no benefit to baile physic damag coverag we will not recogn ani assign or grant ani coverag for the benefit of ani person or organ hold store or transport properti for a fee regardless of ani other provis of this coverag form,"no Benefit to Bailee   Physical Damage 
+ coverage 
+ we will not recognize any assignment or grant 
+ any coverage for the benefit of any person or 
+ organization hold store or transport 
+ property for a fee regardless of any other provision of this coverage form",no benefit to baile physic damag coverag we will not recogn ani assign or grant ani coverag for the benefit of ani person or organ hold store or transport properti for a fee regardless of ani other provis of this coverag form
 "For any covered auto you own this
 coverage form provides primary insurance For any covered auto you don’t
 own the insurance provided by this coverage form is excess over any other collectible insurance However while a
 covered auto which is a trailer is connected to another vehicle the Liability
 Coverage this coverage form provides for
-the trailer is"
+the trailer is",for ani cover auto you own this coverag form provid primari insur for ani cover auto you don't own the insur provid by this coverag form is excess over ani other collect insur howev while a cover auto which is a trailer is connect to anoth vehicl the liabil coverag this coverag form provid for the trailer is,"for any covered auto you own this 
+ coverage form provide primary insurance for any covered auto you do not 
+ own the insurance provide by this coverage form be excess over any other collectible insurance however while a 
+ covered auto which be a trailer be connect to another vehicle the Liability 
+ Coverage this coverage form provide for 
+ the trailer be",for ani cover auto you own this coverag form provid primari insur for ani cover auto you do not own the insur provid by this coverag form be excess over ani other collect insur howev while a cover auto which be a trailer be connect to anoth vehicl the liabil coverag this coverag form provid for the trailer be
 "Policy Period Coverage Territory
 Under this coverage form we cover accidents
 and losses occurring
-Page 10 of 13"
+Page 10 of 13",polici period coverag territori under this coverag form we cover accid and loss occur page 10 of 13,"Policy Period Coverage Territory 
+ under this coverage form we cover accident 
+ and loss occur 
+ page 10 of 13",polici period coverag territori under this coverag form we cover accid and loss occur page 10 of 13
 "Any other land vehicle that is subject to a
 compulsory or financial responsibility law or
 other motor vehicle insurance law where it is
-licensed or principally garaged"
+licensed or principally garaged",ani other land vehicl that is subject to a compulsori or financi respons law or other motor vehicl insur law where it is licens or princip garag,"any other land vehicle that be subject to a 
+ compulsory or financial responsibility law or 
+ other motor vehicle insurance law where it be 
+ license or principally garage",ani other land vehicl that be subject to a compulsori or financi respon law or other motor vehicl insur law where it be licen or princip garag
 "The coverage territory is
 1 The United States of America
 2 The territories and possessions of
-the United States of America"
+the United States of America",the coverag territori is 1 the unit state of america 2 the territori and possess of the unit state of america,"the coverage territory be 
+ 1 the United States of America 
+ 2 the territory and possession of 
+ the United States of America",the coverag territori be 1 the unit state of america 2 the territori and possess of the unit state of america
 "5 Anywhere in the world if
 a A covered auto of the private
 passenger type is leased hired
@@ -594,7 +1068,22 @@ Puerto Rico or Canada or in a
 settlement we agree to
 We also cover loss to or accidents involving
 a covered auto while being transported between any of these places
-8"
+8",5 anywher in the world if a a cover auto of the privat passeng type is leas hire rent or borrow without a driver for a period of 30 day or less and b the insur respons to pay damag is determin in a suit on the merit in the unit state of america the territori and possess of the unit state of america puerto rico or canada or in a settlement we agre to we also cover loss to or accid involv a cover auto while be transport between ani of these place 8,"5 anywhere in the world if 
+ a a covered auto of the private 
+ passenger type be lease hire 
+ rent or borrow without a 
+ driver for a period of 30 day 
+ or less and 
+ b the insure ’s responsibility to 
+ pay damage be determine in a 
+ suit on the merit in the United 
+ States of America the territory and possession of the 
+ United States of America 
+ Puerto Rico or Canada or in a 
+ settlement we agree to 
+ we also cover loss to or accident involve 
+ a cover auto while be transport between any of these place 
+ 8",5 anywher in the world if a a cover auto of the privat passeng type be lea hire rent or borrow without a driver for a period of 30 day or less and b the insur respon to pay damag be determin in a suit on the merit in the unit state of america the territori and possess of the unit state of america puerto rico or canada or in a settlement we agre to we also cover loss to or accid involv a cover auto while be transport between ani of these place 8
 "Two or More Coverage Forms or Policies Issued by Us
 If this coverage form and any other coverage
 form or policy issued to you by us or any
@@ -606,33 +1095,64 @@ Limit of Insurance under any one coverage
 form or policy This condition does not apply
 to any coverage form or policy issued by us
 or an affiliated company specifically to apply
-as excess insurance over this coverage form"
+as excess insurance over this coverage form",two or more coverag form or polici issu by us if this coverag form and ani other coverag form or polici issu to you by us or ani compani affili with us appli to the same accid the aggreg maximum limit of insur under all the coverag form or polici shall not exceed the highest applic limit of insur under ani one coverag form or polici this condit doe not appli to ani coverag form or polici issu by us or an affili compani specif to appli as excess insur over this coverag form,"two or More Coverage Forms or Policies issue by Us 
+ if this coverage form and any other coverage 
+ form or policy issue to you by we or any 
+ company affiliate with we apply to the same 
+ accident   the aggregate maximum Limit of 
+ Insurance under all the coverage form or 
+ policy shall not exceed the high applicable 
+ Limit of Insurance under any one coverage 
+ form or policy this condition do not apply 
+ to any coverage form or policy issue by us 
+ or an affiliated company specifically to apply 
+ as excess insurance over this coverage form",two or more coverag form or polici issu by we if this coverag form and ani other coverag form or polici issu to you by we or ani compani affili with we appli to the same accid the aggreg maximum limit of insur under all the coverag form or polici shall not exceed the high applic limit of insur under ani one coverag form or polici this condit doe not appli to ani coverag form or polici issu by we or an affili compani specif to appli as excess insur over this coverag form
 "Any request demand order or statutory or
 regulatory requirement that any insured or
 others test for monitor clean up remove
 contain treat detoxify or neutralize or in any
-way respond to or assess the effects of pollutants  or"
+way respond to or assess the effects of pollutants  or",ani request demand order or statutori or regulatori requir that ani insur or other test for monitor clean up remov contain treat detoxifi or neutral or in ani way respond to or assess the effect of pollut or,"any request demand order or statutory or 
+ regulatory requirement that any insured or 
+ other test for monitor clean up remove 
+ contain treat detoxify or neutralize or in any 
+ way respond to or assess the effect of pollutant   or",ani request demand order or statutori or regulatori requir that ani insur or other test for monitor clean up remov contain treat detoxifi or neutral or in ani way respond to or assess the effect of pollut or
 "Any claim or suit by or on behalf of a governmental authority for damages because of
 testing for monitoring cleaning up removing containing treating detoxifying or neutralizing or in any way responding to or
-assessing the effects of pollutants "
+assessing the effects of pollutants ",ani claim or suit by or on behalf of a government author for damag becaus of test for monitor clean up remov contain treat detoxifi or neutral or in ani way respond to or assess the effect of pollut,"any claim or suit by or on behalf of a governmental authority for damage because of 
+ testing for monitor clean up remove contain treating detoxifying or neutralizing or in any way respond to or 
+ assess the effect of pollutant",ani claim or suit by or on behalf of a government author for damag becaus of test for monitor clean up remov contain treat detoxifi or neutral or in ani way respond to or assess the effect of pollut
 "any cost or expense arising out of the actual alleged or threatened discharge dispersal seepage
 migration release or escape of pollutants 
-a"
+a",ani cost or expens aris out of the actual alleg or threaten discharg dispers seepag migrat releas or escap of pollut a,"any cost or expense arise out of the actual alleged or threaten discharge dispersal seepage 
+ migration release or escape of pollutant 
+ a",ani cost or expen aris out of the actual alleg or threaten discharg disper seepag migrat relea or escap of pollut a
 "1 Being transported or towed by handled
 or handled for movement into onto or
 from the covered auto 
 2 Otherwise in the course of transit by or
 on behalf of the insured or
 3 Being stored disposed of treated or processed in or upon the covered auto 
-b"
+b",1 be transport or tow by handl or handl for movement into onto or from the cover auto 2 otherwis in the cours of transit by or on behalf of the insur or 3 be store dispos of treat or process in or upon the cover auto b,"1 be transport or tow by handle 
+ or handle for movement into onto or 
+ from the cover auto 
+ 2 otherwise in the course of transit by or 
+ on behalf of the insured or 
+ 3 be store dispose of treat or process in or upon the cover auto 
+ b",1 be transport or tow by handl or handl for movement into onto or from the cover auto 2 otherwis in the cour of transit by or on behalf of the insur or 3 be store dispo of treat or process in or upon the cover auto b
 "Before the pollutants or any property in which
 the pollutants are contained are moved from
 the place where they are accepted by the
-insured for movement into or onto the covered auto  or"
+insured for movement into or onto the covered auto  or",befor the pollut or ani properti in which the pollut are contain are move from the place where they are accept by the insur for movement into or onto the cover auto or,"before the pollutant or any property in which 
+ the pollutant be contain be move from 
+ the place where they be accept by the 
+ insure for movement into or onto the cover auto   or",befor the pollut or ani properti in which the pollut be contain be move from the place where they be accept by the insur for movement into or onto the cover auto or
 "A Accident includes continuous or repeated exposure
 to the same conditions resulting in bodily injury
 or property damage
-B"
+B",a accid includ continu or repeat exposur to the same condit result in bodili injuri or properti damag b,"a Accident include continuous or repeat exposure 
+ to the same condition result in bodily injury 
+ or property damage 
+ b",a accid includ continu or repeat exposur to the same condit result in bodili injuri or properti damag b
 "SAMPLE
 the covered auto to the place where they are
 finally delivered disposed of or abandoned by
@@ -648,25 +1168,54 @@ dispose of such pollutants  and
 covered pollution cost or expense does
 not arise out of the operation of any
 equipment listed in Paragraph 6b or 6c
-of the definition of mobile equipment"
+of the definition of mobile equipment",sampl the cover auto to the place where they are final deliv dispos of or abandon by the insur paragraph a abov doe not appli to fuel lubric fluid exhaust gase or other similar pollut that are need for or result from the normal electr hydraul or mechan function of the cover auto or it part if 1 the pollut escap seep migrat or are discharg dispers or releas direct from an auto part design by it manufactur to hold store receiv or dispos of such pollut and 2 the bodili injuri properti damag or cover pollut cost or expens doe not aris out of the oper of ani equip list in paragraph 6b or 6c of the definit of mobil equip,"SAMPLE 
+ the covered auto to the place where they be 
+ finally deliver disposed of or abandon by 
+ the insure 
+ Paragraph a above do not apply to fuel lubricant fluid exhaust gas or other similar 
+ pollutant that be need for or result from the 
+ normal electrical hydraulic or mechanical functioning of the covered auto or its part if 
+ 1 the pollutant escape seep migrate or 
+ be discharge disperse or release directly from an auto part design by its 
+ manufacturer to hold store receive or 
+ dispose of such pollutant   and 
+ 2 the bodily injury property damage or 
+ covered pollution cost or expense do 
+ not arise out of the operation of any 
+ equipment list in Paragraph 6b or 6c 
+ of the definition of mobile equipment",sampl the cover auto to the place where they be final deliv dispo of or abandon by the insur paragraph a abov doe not appli to fuel lubric fluid exhaust gase or other similar pollut that be need for or result from the normal electr hydraul or mechan function of the cover auto or it part if 1 the pollut escap seep migrat or be discharg disper or relea direct from an auto part design by it manufactur to hold store receiv or dispo of such pollut and 2 the bodili injuri properti damag or cover pollut cost or expen doe not aris out of the oper of ani equip list in paragraph 6b or 6c of the definit of mobil equip
 "Any easement or license agreement except in
 connection with construction or demolition
-operations on or within 50 feet of a railroad"
+operations on or within 50 feet of a railroad",ani easement or licens agreement except in connect with construct or demolit oper on or within 50 feet of a railroad,"any easement or license agreement except in 
+ connection with construction or demolition 
+ operation on or within 50 foot of a railroad",ani easement or licen agreement except in connect with construct or demolit oper on or within 50 foot of a railroad
 "An obligation as required by ordinance to
-indemnify a municipality except in connection with work for a municipality"
+indemnify a municipality except in connection with work for a municipality",an oblig as requir by ordin to indemnifi a municip except in connect with work for a municip,"an obligation as require by ordinance to 
+ indemnify a municipality except in connection with work for a municipality",an oblig as requir by ordin to indemnifi a municip except in connect with work for a municip
 "That part of any other contract or agreement
 pertaining to your business including an indemnification of a municipality in connection
 with work performed for a municipality under which you assume the tort liability of another to pay for bodily injury or property
 damage to a third party or organization Tort
 liability means a liability that would be imposed by law in the absence of any contract
-or agreement"
+or agreement",that part of ani other contract or agreement pertain to your busi includ an indemnif of a municip in connect with work perform for a municip under which you assum the tort liabil of anoth to pay for bodili injuri or properti damag to a third parti or organ tort liabil mean a liabil that would be impos by law in the absenc of ani contract or agreement,"that part of any other contract or agreement 
+ pertain to your business include an indemnification of a municipality in connection 
+ with work perform for a municipality under which you assume the tort liability of another to pay for bodily injury or property 
+ damage to a third party or organization tort 
+ liability mean a liability that would be impose by law in the absence of any contract 
+ or agreement",that part of ani other contract or agreement pertain to your busi includ an indemnif of a municip in connect with work perform for a municip under which you assum the tort liabil of anoth to pay for bodili injuri or properti damag to a third parti or organ tort liabil mean a liabil that would be impos by law in the absenc of ani contract or agreement
 "That part of any contract or agreement entered into as part of your business pertaining
 to the rental or lease by you or any of your
 employees  of any auto  However such contract or agreement shall not be considered an
 insured contract to the extent that it obligates
 you or any of your employees to pay for
 property damage to any auto rented or leased
-by you or any of your employees"
+by you or any of your employees",that part of ani contract or agreement enter into as part of your busi pertain to the rental or leas by you or ani of your employe of ani auto howev such contract or agreement shall not be consid an insur contract to the extent that it oblig you or ani of your employe to pay for properti damag to ani auto rent or leas by you or ani of your employe,"that part of any contract or agreement enter into as part of your business pertain 
+ to the rental or lease by you or any of your 
+ employee   of any auto   however such contract or agreement shall not be consider an 
+ insure contract to the extent that it obligate 
+ you or any of your employee to pay for 
+ property damage to any auto rent or lease 
+ by you or any of your employee",that part of ani contract or agreement enter into as part of your busi pertain to the rental or lea by you or ani of your employe of ani auto howev such contract or agreement shall not be consid an insur contract to the extent that it oblig you or ani of your employe to pay for properti damag to ani auto rent or lea by you or ani of your employe
 "Paragraphs b and c above do not apply to
 accidents that occur away from premises owned
 by or rented to an insured with respect to
@@ -675,85 +1224,154 @@ a The pollutants or any property in
 which the pollutants are contained
 are upset overturned or damaged as
 a result of the maintenance or use
-of a covered auto  and"
+of a covered auto  and",paragraph b and c abov do not appli to accid that occur away from premis own by or rent to an insur with respect to pollut not in or upon a cover auto if a the pollut or ani properti in which the pollut are contain are upset overturn or damag as a result of the mainten or use of a cover auto and,"paragraph b and c above do not apply to 
+ accident that occur away from premise own 
+ by or rent to an insure with respect to 
+ pollutant not in or upon a cover auto if 
+ a the pollutant or any property in 
+ which the pollutant be contain 
+ be upset overturn or damage as 
+ a result of the maintenance or use 
+ of a cover auto   and",paragraph b and c abov do not appli to accid that occur away from premis own by or rent to an insur with respect to pollut not in or upon a cover auto if a the pollut or ani properti in which the pollut be contain be upset overturn or damag as a result of the mainten or use of a cover auto and
 "b The discharge dispersal seepage
 migration release or escape of the
 pollutants is caused directly by such
 upset overturn or damage
-E"
+E",b the discharg dispers seepag migrat releas or escap of the pollut is caus direct by such upset overturn or damag e,"b the discharge dispersal seepage 
+ migration release or escape of the 
+ pollutant be cause directly by such 
+ upset overturn or damage 
+ e",b the discharg disper seepag migrat relea or escap of the pollut be caus direct by such upset overturn or damag e
 "That indemnifies a railroad for bodily
 injury or property damage arising out of
 construction or demolition operations
 within 50 feet of any railroad property
 and affecting any railroad bridge or trestle tracks roadbeds tunnel underpass
-or crossing"
+or crossing",that indemnifi a railroad for bodili injuri or properti damag aris out of construct or demolit oper within 50 feet of ani railroad properti and affect ani railroad bridg or trestl track roadb tunnel underpass or cross,"that indemnify a railroad for bodily 
+ injury or property damage arise out of 
+ construction or demolition operation 
+ within 50 foot of any railroad property 
+ and affect any railroad bridge or trestle track roadbed tunnel underpass 
+ or crossing",that indemnifi a railroad for bodili injuri or properti damag aris out of construct or demolit oper within 50 foot of ani railroad properti and affect ani railroad bridg or trestl track roadb tunnel underpass or cross
 "That pertains to the loan lease or rental
 of an auto to you or any of your employees if the auto is loaned leased or
-rented with a driver or"
+rented with a driver or",that pertain to the loan leas or rental of an auto to you or ani of your employe if the auto is loan leas or rent with a driver or,"that pertain to the loan lease or rental 
+ of an auto to you or any of your employee if the auto be loan lease or 
+ rent with a driver or",that pertain to the loan lea or rental of an auto to you or ani of your employe if the auto be loan lea or rent with a driver or
 "That holds a person or organization engaged in the business of transporting
 property by auto for hire harmless for
 your use of a covered auto over a route
 or territory that person or organization
-is authorized to serve by public authority"
+is authorized to serve by public authority",that hold a person or organ engag in the busi of transport properti by auto for hire harmless for your use of a cover auto over a rout or territori that person or organ is author to serv by public author,"that hold a person or organization engage in the business of transport 
+ property by auto for hire harmless for 
+ your use of a covered auto over a route 
+ or territory that person or organization 
+ be authorize to serve by public authority",that hold a person or organ engag in the busi of transport properti by auto for hire harmless for your use of a cover auto over a rout or territori that person or organ be author to serv by public author
 "G Insured means any person or organization qualifying as an insured in the Who Is An Insured
 provision of the applicable coverage Except with
 respect to the Limit of Insurance the coverage afforded applies separately to each insured who is
 seeking coverage or against whom a claim or suit
 is brought
-H Insured contract means"
+H Insured contract means",g insur mean ani person or organ qualifi as an insur in the who is an insur provis of the applic coverag except with respect to the limit of insur the coverag afford appli separ to each insur who is seek coverag or against whom a claim or suit is brought h insur contract mean,"G Insured mean any person or organization qualify as an insured in the who be an insure 
+ provision of the applicable coverage except with 
+ respect to the Limit of Insurance the coverage afford apply separately to each insure who be 
+ seek coverage or against whom a claim or suit 
+ be bring 
+ H insured contract mean",g insur mean ani person or organ qualifi as an insur in the who be an insur provis of the applic coverag except with respect to the limit of insur the coverag afford appli separ to each insur who be seek coverag or against whom a claim or suit be bring h insur contract mean
 "labor leasing firm under an agreement between you
-and the labor leasing firm to perform duties related"
+and the labor leasing firm to perform duties related",labor leas firm under an agreement between you and the labor leas firm to perform duti relat,"labor leasing firm under an agreement between you 
+ and the labor leasing firm to perform duty relate",labor lea firm under an agreement between you and the labor lea firm to perform duti relat
 "Cherry pickers and similar devices
 mounted on automobile or truck chassis
-and used to raise or lower workers and"
+and used to raise or lower workers and",cherri picker and similar devic mount on automobil or truck chassi and use to rais or lower worker and,"cherry picker and similar device 
+ mount on automobile or truck chassis 
+ and use to raise or low worker and",cherri picker and similar devic mount on automobil or truck chassi and use to rais or low worker and
 "Air compressors pumps and generators
 including spraying welding building cleaning geophysical exploration lighting
-or wellservicing equipment"
+or wellservicing equipment",air compressor pump and generat includ spray weld build clean geophys explor light or wellserv equip,"air compressor pump and generator 
+ include spray welding building clean geophysical exploration lighting 
+ or wellservicing equipment",air compressor pump and generat includ spray weld build clean geophy explor light or wellserv equip
 "K Mobile equipment means any of the following
 types of land vehicles including any attached machinery or equipment
-1"
+1",k mobil equip mean ani of the follow type of land vehicl includ ani attach machineri or equip 1,"K Mobile equipment mean any of the follow 
+ type of land vehicle include any attached machinery or equipment 
+ 1",k mobil equip mean ani of the follow type of land vehicl includ ani attach machineri or equip 1
 "Bulldozers farm machinery forklifts and
 other vehicles designed for use principally off
-public roads"
+public roads",bulldoz farm machineri forklift and other vehicl design for use princip off public road,"Bulldozers farm machinery forklift and 
+ other vehicle design for use principally off 
+ public road",bulldoz farm machineri forklift and other vehicl design for use princip off public road
 "Vehicles whether selfpropelled or not
 maintained primarily to provide mobility to
-permanently mounted"
+permanently mounted",vehicl whether selfpropel or not maintain primarili to provid mobil to perman mount,"vehicle whether selfpropelle or not 
+ maintain primarily to provide mobility to 
+ permanently mount",vehicl whether selfpropel or not maintain primarili to provid mobil to perman mount
 "Vehicles not described in Paragraph 1 2 3
 or 4 above that are not selfpropelled and are
 maintained primarily to provide mobility to
 permanently attached equipment of the following types
-a"
+a",vehicl not describ in paragraph 1 2 3 or 4 abov that are not selfpropel and are maintain primarili to provid mobil to perman attach equip of the follow type a,"vehicle not describe in Paragraph 1 2 3 
+ or 4 above that be not selfpropelle and be 
+ maintain primarily to provide mobility to 
+ permanently attach equipment of the follow type 
+ a",vehicl not describ in paragraph 1 2 3 or 4 abov that be not selfpropel and be maintain primarili to provid mobil to perman attach equip of the follow type a
 "However mobile equipment does not include land
 vehicles that are subject to a compulsory or financial responsibility law or other motor vehicle insurance law where it is licensed or principally
 garaged Land vehicles subject to a compulsory
 or financial responsibility law or other motor vehicle insurance law are considered autos 
-L"
+L",howev mobil equip doe not includ land vehicl that are subject to a compulsori or financi respons law or other motor vehicl insur law where it is licens or princip garag land vehicl subject to a compulsori or financi respons law or other motor vehicl insur law are consid auto l,"however mobile equipment do not include land 
+ vehicle that be subject to a compulsory or financial responsibility law or other motor vehicle insurance law where it be license or principally 
+ garage Land vehicle subject to a compulsory 
+ or financial responsibility law or other motor vehicle insurance law be consider auto 
+ L",howev mobil equip doe not includ land vehicl that be subject to a compulsori or financi respon law or other motor vehicl insur law where it be licen or princip garag land vehicl subject to a compulsori or financi respon law or other motor vehicl insur law be consid auto l
 "thermal irritant or contaminant including smoke
 vapor soot fumes acids alkalis chemicals and
 waste Waste includes materials to be recycled
 reconditioned or reclaimed
 M Property damage means damage to or loss of use
 of tangible property
-N Suit means a civil proceeding in which"
+N Suit means a civil proceeding in which",thermal irrit or contamin includ smoke vapor soot fume acid alkali chemic and wast wast includ materi to be recycl recondit or reclaim m properti damag mean damag to or loss of use of tangibl properti n suit mean a civil proceed in which,"thermal irritant or contaminant include smoke 
+ vapor soot fume acid alkalis chemical and 
+ waste waste include material to be recycle 
+ recondition or reclaim 
+ M property damage mean damage to or loss of use 
+ of tangible property 
+ N Suit mean a civil proceeding in which",thermal irrit or contamin includ smoke vapor soot fume acid alkali chemic and wast wast includ materi to be recycl recondit or reclaim m properti damag mean damag to or loss of use of tangibl properti n suit mean a civil proceed in which
 "Air compressors pumps and generators
 including spraying welding building cleaning geophysical exploration lighting
-and wellservicing equipment or"
+and wellservicing equipment or",air compressor pump and generat includ spray weld build clean geophys explor light and wellserv equip or,"air compressor pump and generator 
+ include spray welding building clean geophysical exploration lighting 
+ and wellservicing equipment or",air compressor pump and generat includ spray weld build clean geophy explor light and wellserv equip or
 "Vehicles not described in Paragraph 1 2 3
 or 4 above maintained primarily for purposes
 other than the transportation of persons or
 cargo However selfpropelled vehicles with
 the following types of permanently attached
 equipment are not mobile equipment but will
-be considered autos "
+be considered autos ",vehicl not describ in paragraph 1 2 3 or 4 abov maintain primarili for purpos other than the transport of person or cargo howev selfpropel vehicl with the follow type of perman attach equip are not mobil equip but will be consid auto,"vehicle not describe in Paragraph 1 2 3 
+ or 4 above maintain primarily for purpose 
+ other than the transportation of person or 
+ cargo however selfpropelle vehicle with 
+ the follow type of permanently attach 
+ equipment be not mobile equipment but will 
+ be consider auto",vehicl not describ in paragraph 1 2 3 or 4 abov maintain primarili for purpos other than the transport of person or cargo howev selfpropel vehicl with the follow type of perman attach equip be not mobil equip but will be consid auto
 "An arbitration proceeding in which such
 damages or covered pollution costs or expenses
 are claimed and to which the insured must
-submit or does submit with our consent or"
+submit or does submit with our consent or",an arbitr proceed in which such damag or cover pollut cost or expens are claim and to which the insur must submit or doe submit with our consent or,"an arbitration proceeding in which such 
+ damage or cover pollution cost or expense 
+ be claim and to which the insure must 
+ submit or do submit with our consent or",an arbitr proceed in which such damag or cover pollut cost or expen be claim and to which the insur must submit or doe submit with our consent or
 "Any other alternative dispute resolution proceeding in which such damages or covered
 pollution costs or expenses are claimed and to
-which the insured submits with our consent"
+which the insured submits with our consent",ani other altern disput resolut proceed in which such damag or cover pollut cost or expens are claim and to which the insur submit with our consent,"any other alternative dispute resolution proceeding in which such damage or cover 
+ pollution cost or expense be claim and to 
+ which the insure submit with our consent",ani other altern disput resolut proceed in which such damag or cover pollut cost or expen be claim and to which the insur submit with our consent
 "O Temporary worker means a person who is furnished to you to substitute for a permanent employee on leave or to meet seasonal or shortterm
-workload conditions"
+workload conditions",o temporari worker mean a person who is furnish to you to substitut for a perman employe on leav or to meet season or shortterm workload condit,"o temporary worker mean a person who be furnish to you to substitute for a permanent employee on leave or to meet seasonal or shortterm 
+ workload condition",o temporari worker mean a person who be furnish to you to substitut for a perman employe on leav or to meet season or shortterm workload condit
 "Equipment designed primarily for
 1 Snow removal
-2 Road maintenance but not construction or resurfacing or"
+2 Road maintenance but not construction or resurfacing or",equip design primarili for 1 snow remov 2 road mainten but not construct or resurfac or,"equipment design primarily for 
+ 1 Snow removal 
+ 2 Road maintenance but not construction or resurface or",equip design primarili for 1 snow remov 2 road mainten but not construct or resurfac or
