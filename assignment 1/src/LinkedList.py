@@ -85,5 +85,6 @@ class LinkedList:
     def print_list(self):
         curr_node = self.head
         while curr_node:
-            print(curr_node.data)
+            print(curr_node.data, end=" -> ")
             curr_node = curr_node.next
+        print("None\n")
