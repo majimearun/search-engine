@@ -11,7 +11,11 @@ class LinkedList:
         self.curr = None
 
     def __len__(self):
-        return len(list(iter(self)))
+        length = 0
+        while self.curr:
+            length += 1
+            self.curr = self.curr.next
+        return length
 
     def __str__(self):
         return " -> ".join(str(node.data) for node in self)
