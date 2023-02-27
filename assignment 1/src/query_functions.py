@@ -96,8 +96,9 @@ def multi_query(queries, inverted_list, perm_index, rev_perm_index, _and=False):
 
 def query_n_word_index(query, n_word_index):
     result = []
-    for id in n_word_index[query]:
-        result.append(id.data)
+    if query in n_word_index:
+        for id in n_word_index[query]:
+            result.append(id.data)
     return result
 
 
@@ -109,6 +110,8 @@ def phrase_query(query, n_word_index):
     result = []
     for bw in biwords:
         result.append(query_n_word_index(bw, n_word_index))
+    if len(result) == 0:
+        return []
     final = set(result[0])
     for l in result:
         final = final.intersection(set(l))
@@ -149,17 +152,17 @@ def tfidf(tf, _df, ndocs):
 
 def get_term_frequency_scores(df, queries, inverted_list, perm_index, rev_perm_index):
     scores = []
+    doc_freq = {}
+    ndocs = len(df)
+    for q in queries:
+        if q in inverted_list:
+            doc_freq[q] = len(inverted_list[q]) + 1
+        else:
+            doc_freq[q] = 1
     for row in df.iterrows():
         text = str(row[1]["tokenized"])
         text = text.split()
         score = 0
-        doc_freq = {}
-        ndocs = len(df)
-        for q in queries:
-            if q in inverted_list:
-                doc_freq[q] = len(inverted_list[q]) + 1
-            else:
-                doc_freq[q] = 1
         for q in queries:
             if q in text:
                 if "*" not in q:
@@ -186,6 +189,7 @@ def get_term_frequency_scores(df, queries, inverted_list, perm_index, rev_perm_i
                             score += tfidf(1 + text.count(word), doc_freq[word], ndocs)
 
         scores.append((row[0], score))
+    scores = [x for x in scores if x[1] > 0]
     return sorted(scores, key=lambda x: x[1], reverse=True)
 
 
@@ -197,8 +201,8 @@ def search(
     n_word_index,
     main_df,
     corpus,
-    _phrase=False,
-    stepwise=False,
+    is_phrase=False,
+    ranked=True,
 ):
     query = query.lower()
     filtered = boolean_filter(
@@ -207,29 +211,28 @@ def search(
         perm_index,
         rev_perm_index,
         n_word_index,
-        _phrase=_phrase,
+        _phrase=is_phrase,
     )
-
-    if stepwise:
-        intermediate_df = main_df.loc[filtered]
-        intermediate_inverted_list = create_inverted_list(intermediate_df, corpus)
-        intermediate_perm_index = permuterm_indexing(intermediate_inverted_list)
-        intermediate_rev_perm_index = reverse_permuterm_indexing(
-            intermediate_perm_index
+    if len(filtered) == 0:
+        print("No documents found")
+        return
+    if ranked:
+        scores = get_term_frequency_scores(
+            main_df,
+            query.split(),
+            inverted_list,
+            perm_index,
+            rev_perm_index,
         )
+        scores = [x for x in scores if x[0] in filtered]
+
     else:
-        intermediate_df = main_df
-        intermediate_inverted_list = inverted_list
-        intermediate_perm_index = perm_index
-        intermediate_rev_perm_index = rev_perm_index
-    scores = get_term_frequency_scores(
-        intermediate_df,
-        query.split(),
-        intermediate_inverted_list,
-        intermediate_perm_index,
-        intermediate_rev_perm_index,
-    )
+        scores = []
+        for id in filtered:
+            scores.append((id, None))
     print(f"Documents Retrieved: {len(scores)}")
+    if not ranked:
+        print("Unranked Search Results: Boolean Retrieval")
     print(
         "------------------------------------------------------------------------------------------"
     )
@@ -237,7 +240,7 @@ def search(
         "------------------------------------------------------------------------------------------"
     )
     for score in scores:
-        row = intermediate_df.loc[score[0]]
+        row = main_df.loc[score[0]]
         print(f"Document Name: {row.document_name}")
         print(f"Page Number: {row.page_number + 1}")
         print(f"Score: {score[1]}")
