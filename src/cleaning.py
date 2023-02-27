@@ -14,7 +14,6 @@ def clean(path: str):
         doc = fitz.open(file)
         doc_info = {}
         doc_info["text"] = [(page.get_text(), i) for i, page in enumerate(doc)]
-        doc_info["metadata"] = doc.metadata
         fh = open(file.replace("pdf", "pkl"), "wb")
         pickle.dump(doc_info, fh)
 

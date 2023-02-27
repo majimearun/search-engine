@@ -143,6 +143,7 @@ def boolean_filter(
         or_results = multi_query(or_queries, inverted_list, perm_index, rev_perm_index)
         return sorted(list(set(and_results) & set(or_results)))
     else:
+        queries = queries.replace('"', "")
         return phrase_query(queries, n_word_index)
 
 
@@ -200,7 +201,6 @@ def search(
     rev_perm_index,
     n_word_index,
     main_df,
-    corpus,
     is_phrase=False,
     ranked=True,
 ):
