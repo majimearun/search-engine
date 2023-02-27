@@ -81,10 +81,10 @@ def make_n_word_index(df):
 
 def startup_engine():
     auto_df = pd.read_csv(
-        "/home/majime/programming/github/information-retrieval-assignments/assignment 1/data/tokenized/auto.csv"
+        "/home/majime/programming/github/ir-search-engine/data/tokenized/auto.csv"
     )
     property_df = pd.read_csv(
-        "/home/majime/programming/github/information-retrieval-assignments/assignment 1/data/tokenized/property.csv"
+        "/home/majime/programming/github/ir-search-engine/data/tokenized/property.csv"
     )
 
     auto_df["posting_list"] = auto_df["tokenized"].apply(create_postings_list)

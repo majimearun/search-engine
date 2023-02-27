@@ -21,9 +21,5 @@ def clean(path: str):
 
 if __name__ == "__main__":
     # works with the absolute path only for some reason
-    clean(
-        "/home/majime/programming/github/information-retrieval-assignments/assignment 1/data/pdfs/Auto/*.pdf"
-    )
-    clean(
-        "/home/majime/programming/github/information-retrieval-assignments/assignment 1/data/pdfs/Property/*.pdf"
-    )
+    clean("/home/majime/programming/github/ir-search-engine/data/pdfs/Auto/*.pdf")
+    clean("/home/majime/programming/github/ir-search-engine/data/pdfs/Property/*.pdf")
