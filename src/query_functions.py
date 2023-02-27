@@ -104,6 +104,7 @@ def query_n_word_index(query, n_word_index):
 
 def phrase_query(query, n_word_index):
     words = query.split()
+    # TODO: List all possible biwords if wild card is used
     biwords = []
     for i in range(len(words) - 1):
         biwords.append(words[i] + " " + words[i + 1])
