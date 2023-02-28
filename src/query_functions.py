@@ -458,8 +458,8 @@ def search(
         print(f"Rank: {i + 1}")
         print(f"Document Name: {row.document_name}")
         print(f"Page Number: {row.page_number + 1}")
-        print(f"Score: {score[1]}")
         print(f"Paragraph Number: {row.paragraph_number + 1}")
+        print(f"Score: {score[1]}")
         print(
             "------------------------------------------------------------------------------------------"
         )
