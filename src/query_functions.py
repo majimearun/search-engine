@@ -79,7 +79,6 @@ def multi_query(queries, inverted_list, perm_index, rev_perm_index, _and=False):
             except:
                 continue
             docs.append(intermediate_docs)
-    # return docs
     if not _and:
         # return union of all sublists in docs
         result = []
@@ -178,49 +177,47 @@ def boolean_filter(
 
 
 def tfidf(tf, _df, ndocs):
-    return (np.log(1 + tf)) * (np.log(ndocs / _df))
+    return (np.log(1 + tf)) * (np.log(ndocs / (_df + 1)))
 
 
 def get_term_frequency_scores(df, queries, inverted_list, perm_index, rev_perm_index):
     scores = []
-    doc_freq = {}
     ndocs = len(df)
-    for q in queries:
-        if q in inverted_list:
-            doc_freq[q] = len(inverted_list[q]) + 1
-        else:
-            doc_freq[q] = 1
     for row in df.iterrows():
         text = str(row[1]["tokenized"])
         text = text.split()
         score = 0
+        # print(queries)
         for q in queries:
-            if q in text:
-                if "*" not in q:
-                    score += tfidf(1 + text.count(q), doc_freq[q], ndocs)
+            if "*" not in q:
+                if q not in inverted_list:
+                    continue
+                doc_freq = len(inverted_list[q])
+                score += tfidf(1 + text.count(q), doc_freq, ndocs)
+            else:
+                if q[-1] == "*":
+                    left_result = left_permuterm_indexing(q, perm_index)
+                    for word in left_result:
+                        doc_freq = len(inverted_list[word])
+                        score += tfidf(1 + text.count(word), doc_freq, ndocs)
+                elif q[0] == "*":
+                    right_result = right_permuterm_indexing(q, rev_perm_index)
+                    for word in right_result:
+                        doc_freq = len(inverted_list[word])
+                        score += tfidf(1 + text.count(word), doc_freq, ndocs)
                 else:
-                    if q[-1] == "*":
-                        left_result = left_permuterm_indexing(q, perm_index)
-                        for word in left_result:
-                            score += tfidf(1 + text.count(word), doc_freq[word], ndocs)
-                    elif q[0] == "*":
-                        right_result = right_permuterm_indexing(q, rev_perm_index)
-                        for word in right_result:
-                            score += tfidf(1 + text.count(word), doc_freq[word], ndocs)
-                    else:
-                        halves = q.split("*")
-                        left_result = left_permuterm_indexing(
-                            halves[0] + "*", perm_index
-                        )
-                        right_result = right_permuterm_indexing(
-                            "*" + halves[-1], rev_perm_index
-                        )
-                        result = list(set(left_result) & set(right_result))
-                        for word in result:
-                            score += tfidf(1 + text.count(word), doc_freq[word], ndocs)
+                    halves = q.split("*")
+                    left_result = left_permuterm_indexing(halves[0] + "*", perm_index)
+                    right_result = right_permuterm_indexing(
+                        "*" + halves[-1], rev_perm_index
+                    )
+                    result = list(set(left_result) & set(right_result))
+                    for word in result:
+                        doc_freq = len(inverted_list[word])
+                        score += tfidf(1 + text.count(word), doc_freq, ndocs)
 
         scores.append((row[0], score))
-    scores = [x for x in scores if x[1] > 0]
+    # scores = [x for x in scores if x[1] > 0]
     return sorted(scores, key=lambda x: x[1], reverse=True)
 
 
