@@ -38,14 +38,14 @@ def read_pickle_into_pages(files: list[str]):
 
 
 def seperate_df_into_paragraphs(
-    df: pd.DataFrame, threshold: int = 100, break_paragraph_at: int = 1000
+    df: pd.DataFrame, threshold: int = 100, break_paragraph_at: int = 3000
 ):
     """Seperate the dataframe from each row being a page to each row being a paragraph
 
     Args:
         df (pd.DataFrame): dataframe with the document name, page number and text
         threshold (int, optional): threshold for the length of the paragraph. Defaults to 100.
-        break_paragraph_at (int, optional): maximum length of a paragraph. Defaults to 1000.
+        break_paragraph_at (int, optional): maximum length of a paragraph. Defaults to 3000.
 
     Returns:
         pd.DataFrame: dataframe with the document name, page number, paragraph number and text

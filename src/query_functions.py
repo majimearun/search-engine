@@ -5,6 +5,7 @@ import spacy
 import pandas as pd
 from setup import get_all_rotations
 import pickle
+import re
 from LinkedList import LinkedList
 
 # getting the summarizer pipeline which we earlier loaded in the setup.py file
@@ -209,7 +210,7 @@ def match_all_wildcards_in_biwords(
                 )
             else:
                 # if it doesnt contain a wildcard, then it is a normal word and only possible match is itself
-                word_possibilites[words[i]] = [words[i]]
+                word_possibilites[words[i]] = [nlp(words[i])[0].lemma_.lower()]
 
     new_biwords: list[str] = []
     for bw in biwords:
@@ -358,6 +359,7 @@ def get_term_frequency_scores(
         score = 0
         for q in queries:
             if "*" not in q:
+                q = nlp(q)[0].lemma_
                 if q not in inverted_list:
                     continue
                 doc_freq = len(inverted_list[q])
@@ -366,7 +368,7 @@ def get_term_frequency_scores(
                 if q[-1] == "*":
                     left_result = left_permuterm_indexing(q, perm_index)
                     for word in left_result:
-                        doc_freq = len(inverted_list[word])
+                        doc_freq = len(inverted_list[word])                        
                         score += tfidf(1 + text.count(word), doc_freq, ndocs)
                 elif q[0] == "*":
                     right_result = right_permuterm_indexing(q, rev_perm_index)
@@ -469,7 +471,9 @@ def search(
         print(
             "------------------------------------------------------------------------------------------"
         )
-        print(f"Paragraph Text: \n{row.text}")
+        # reploace any number f spces with a single space
+        print_text = re.sub(r"\s+", " ", row.text)
+        print(f"Paragraph Text: \n{print_text}")
         print(
             "------------------------------------------------------------------------------------------"
         )
