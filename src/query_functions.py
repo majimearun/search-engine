@@ -40,7 +40,7 @@ def right_permuterm_indexing(query, rev_perm_index):
     return result
 
 
-def query_permuterm_index(query, perm_index, rev_perm_index, inv_list):
+def query_permuterm_index(query, perm_index, rev_perm_index, inv_list, ret_words=False):
     result = []
     if "*" in query:
         if query[-1] == "*":
@@ -53,7 +53,8 @@ def query_permuterm_index(query, perm_index, rev_perm_index, inv_list):
             left_result = left_permuterm_indexing(halves[0] + "*", perm_index)
             right_result = right_permuterm_indexing("*" + halves[-1], rev_perm_index)
             result = list(set(left_result) & set(right_result))
-
+    if ret_words:
+        return result
     docs = []
     for word in result:
         for id in inv_list[word]:
@@ -102,20 +103,48 @@ def query_n_word_index(query, n_word_index):
     return result
 
 
-def phrase_query(query, n_word_index):
+def match_all_wildcards_in_biwords(biwords, perm_index, rev_perm_index):
+    word_possibilites = {}
+    for bw in biwords:
+        words = bw.split()
+        for i in range(len(words)):
+            if "*" in words[i]:
+                word_possibilites[words[i]] = query_permuterm_index(
+                    words[i], perm_index, rev_perm_index, None, ret_words=True
+                )
+            else:
+                word_possibilites[words[i]] = [words[i]]
+
+    new_biwords = []
+    for bw in biwords:
+        words = bw.split()
+        possibilities = [
+            " ".join([word_possibilites[words[0]][i], word_possibilites[words[1]][j]])
+            for i in range(len(word_possibilites[words[0]]))
+            for j in range(len(word_possibilites[words[1]]))
+        ]
+        new_biwords.extend(possibilities)
+    return new_biwords
+
+
+def phrase_query(query, n_word_index, perm_index, rev_perm_index):
     words = query.split()
-    # TODO: List all possible biwords if wild card is used
     biwords = []
     for i in range(len(words) - 1):
         biwords.append(words[i] + " " + words[i + 1])
+    new_biwords = match_all_wildcards_in_biwords(biwords, perm_index, rev_perm_index)
     result = []
-    for bw in biwords:
+    for bw in new_biwords:
         result.append(query_n_word_index(bw, n_word_index))
     if len(result) == 0:
         return []
     final = set(result[0])
-    for l in result:
-        final = final.intersection(set(l))
+    if len(new_biwords) > len(biwords):
+        for l in result:
+            final = final.union(set(l))
+    else:
+        for l in result:
+            final = final.intersection(set(l))
     return sorted(list(final))
 
 
@@ -145,7 +174,7 @@ def boolean_filter(
         return sorted(list(set(and_results) & set(or_results)))
     else:
         queries = queries.replace('"', "")
-        return phrase_query(queries, n_word_index)
+        return phrase_query(queries, n_word_index, perm_index, rev_perm_index)
 
 
 def tfidf(tf, _df, ndocs):
