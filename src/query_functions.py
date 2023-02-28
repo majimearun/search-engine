@@ -2,12 +2,14 @@
 import numpy as np
 import sys
 import spacy
-from setup import (
-    create_inverted_list,
-    get_all_rotations,
-    permuterm_indexing,
-    reverse_permuterm_indexing,
-)
+from setup import get_all_rotations
+import pickle
+
+with open(
+    "/home/majime/programming/github/ir-search-engine/models/summary_pipeline.pkl", "rb"
+) as f:
+    summary_pipeline = pickle.load(f)
+
 
 nlp = spacy.load("en_core_web_sm")
 sys.setrecursionlimit(10000)
@@ -230,6 +232,8 @@ def search(
     main_df,
     is_phrase=False,
     ranked=True,
+    show_summary=False,
+    retrieve_n=None,
 ):
     query = query.lower()
     filtered = boolean_filter(
@@ -257,6 +261,8 @@ def search(
         scores = []
         for id in filtered:
             scores.append((id, None))
+    if retrieve_n is not None:
+        scores = scores[:retrieve_n]
     print(f"Documents Retrieved: {len(scores)}")
     if not ranked:
         print("Unranked Search Results: Boolean Retrieval")
@@ -266,13 +272,23 @@ def search(
     print(
         "------------------------------------------------------------------------------------------"
     )
-    for score in scores:
+    for i, score in enumerate(scores):
         row = main_df.loc[score[0]]
+        print(f"Rank: {i + 1}")
         print(f"Document Name: {row.document_name}")
         print(f"Page Number: {row.page_number + 1}")
         print(f"Score: {score[1]}")
         print(f"Paragraph Number: {row.paragraph_number + 1}")
-        print(f"Paragraph Text: {row.text}")
+        print(
+            "------------------------------------------------------------------------------------------"
+        )
+        if show_summary:
+            summary = summary_pipeline(row.text, truncation=True)
+            print(f"Summary: {summary[0]['summary_text']}")
+        print(
+            "------------------------------------------------------------------------------------------"
+        )
+        print(f"Paragraph Text: \n{row.text}")
         print(
             "------------------------------------------------------------------------------------------"
         )

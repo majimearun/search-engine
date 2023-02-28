@@ -1,7 +1,6 @@
 import pandas as pd
 import pickle
 from LinkedList import LinkedList
-import sys
 
 
 def create_postings_list(x):
@@ -107,4 +106,11 @@ def startup_engine():
     n_word_index = make_n_word_index(main_df)
     
     return inverted_list, perm_index, rev_perm_index, n_word_index, corpus, main_df
+
+if __name__ == "__main__":
+    from transformers import pipeline
+    summary_pipeline = pipeline("summarization")
+    
+    with open("/home/majime/programming/github/ir-search-engine/models/summary_pipeline.pkl", "wb") as f:
+        pickle.dump(summary_pipeline, f)
     
