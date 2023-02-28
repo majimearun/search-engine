@@ -4,12 +4,18 @@ import pickle
 
 
 def clean(path: str):
-    """_summary_
+    """Cleans the pdfs in a given folder into a pickle file (page-wise) per pdf, and saves it a folder with the same parent as the pdfs, but in a `pkl/` folder
 
     Args:
-        path (str):takes in the path to the pdfs required to be cleaned into a pickle file (page-wise)
+        path (str):takes in the path to the foler with pdfs to be cleaned
+
+    Returns:
+        None
     """
-    pdfs = glob.glob(path)
+    # Adding the wildcard to the path to match all pdfs within the folder
+    path += "*.pdf"
+    # Getting paths of all the pdfs in the folder into a list
+    pdfs: list[str] = glob.glob(path)
     for file in pdfs:
         doc = fitz.open(file)
         doc_info = {}
@@ -20,5 +26,5 @@ def clean(path: str):
 
 if __name__ == "__main__":
     # works with the absolute path only for some reason
-    clean("/home/majime/programming/github/ir-search-engine/data/pdfs/Auto/*.pdf")
-    clean("/home/majime/programming/github/ir-search-engine/data/pdfs/Property/*.pdf")
+    clean("/home/majime/programming/github/ir-search-engine/data/pdfs/Auto/")
+    clean("/home/majime/programming/github/ir-search-engine/data/pdfs/Property/")

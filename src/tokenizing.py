@@ -1,48 +1,83 @@
-# import libraries
 import pandas as pd
 import glob
 import pickle
 import spacy
 
+# model used for lemmatizing
 nlp = spacy.load("en_core_web_sm")
 
 
-def read_pickle_into_pages(files):
+def read_pickle_into_pages(files: list[str]):
+    """Takes in a path to the pickle files and returns a dataframe with the document name, page number and text.
+
+    Args:
+        files (list): list of paths to the pickle files
+
+    Returns:
+        pd.DataFrame: dataframe with the document name, page number and text
     """
-    Takes in a path to the pickle files and returns a dataframe with the document name, page number and text.
-    """
-    main_df = pd.DataFrame(columns=["document_name", "page_number", "text"])
+    main_df: pd.DataFrame = pd.DataFrame(
+        columns=["document_name", "page_number", "text"]
+    )
     for file in files:
+        # loading the pickle file from path
         fh = open(file, "rb")
         doc_info = pickle.load(fh)
         text = [page[0] for page in doc_info["text"]]
+        # 0 indexed page numbers
         page_number = [page[1] for page in doc_info["text"]]
+        # creating a dataframe with a row for each page
         df = pd.DataFrame(columns=["document_name", "page_number", "text"])
+        # The document name is the last element of the path split by `/` and removing the `.pkl` extension
         df["document_name"] = [file.split("/")[-1][:-4]] * len(text)
         df["page_number"] = page_number
         df["text"] = text
+        # concatenating the dataframe to the main dataframe
         main_df = pd.concat([main_df, df])
     return main_df
 
 
-def seperate_df_into_paragraphs(df, threshold=100):
-    """
-    Seperate the dataframe into paragraphs.
+def seperate_df_into_paragraphs(
+    df: pd.DataFrame, threshold: int = 100, break_paragraph_at: int = 1000
+):
+    """Seperate the dataframe from each row being a page to each row being a paragraph
+
+    Args:
+        df (pd.DataFrame): dataframe with the document name, page number and text
+        threshold (int, optional): threshold for the length of the paragraph. Defaults to 100.
+        break_paragraph_at (int, optional): maximum length of a paragraph. Defaults to 1000.
+
+    Returns:
+        pd.DataFrame: dataframe with the document name, page number, paragraph number and text
     """
     main_df = pd.DataFrame(
         columns=["document_name", "page_number", "paragraph_number", "text"]
     )
     for _, row in df.iterrows():
+        # split by double new line (observed a spce in between in the txt files)
         text = row["text"].split("\n \n")
-        text = (" ".join(text)).split("\n\n")
-        text = (" ".join(text)).split(".\n")
-        # remove empty strings
+        text = (" \n\n".join(text)).split("\n\n")
+        text = (" .\n".join(text)).split(".\n")
+        # break the paragraphs if its length is over the break_paragraph_at parameter
+        filtering = (" ".join(text)).split("\n")
+        filtered_text = []
+        string = ""
+        for paragraph in filtering:
+            if len(string) > break_paragraph_at:
+                filtered_text.append(string)
+                string = ""
+            string += paragraph
+        if string != "":
+            filtered_text.append(string)
+        text = filtered_text
+        # remove empty paragraphs
         text = [paragraph for paragraph in text if paragraph != ""]
-        # if only spaces, remove
+        # remove paragraphs with only spaces
         text = [paragraph for paragraph in text if paragraph != " "]
-        # if the length of the paragraph is less than threshold, remove
+        # remove paragraphs with length less than the threshold
         text = [paragraph for paragraph in text if len(paragraph) > threshold]
 
+        # creating a dataframe with a row for each paragraph (paragraph number and page number are 0 indexed)
         for paragraph_number, paragraph in enumerate(text):
             df = pd.DataFrame(
                 columns=["document_name", "page_number", "paragraph_number", "text"]
@@ -63,6 +98,19 @@ def tokenize(
     allow_stopwords=False,
     allow_numbers=False,
 ):
+    """removes stopwords, punctuations, digits and numbers and lemmatizes the text. Creates a new column called `tokenized` which contains the tokenized text. Modifies the dataframe in place.
+
+    Args:
+        df (pd.DataFrame): dataframe with the document name, page number, paragraph number and text
+        nlp (spacy.lang.en.English): spacy model used for lemmatizing
+        allow_digits (bool, optional): whether to allow digits. Defaults to False.
+        allow_punct (bool, optional): whether to allow punctuations. Defaults to False.
+        allow_stopwords (bool, optional): whether to allow stopwords. Defaults to False.
+        allow_numbers (bool, optional): whether to allow numbers. Defaults to False.
+
+    Returns:
+        None
+    """
     df["tokenized"] = df["text"].apply(
         lambda x: " ".join(
             [
@@ -78,6 +126,7 @@ def tokenize(
 
 
 if __name__ == "__main__":
+    #  setting up the tokenized dataframes and saving them for future use
     auto_pkls = glob.glob(
         "/home/majime/programming/github/ir-search-engine/data/pkls/Auto/*.pkl"
     )
