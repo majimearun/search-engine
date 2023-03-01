@@ -351,6 +351,8 @@ def get_term_frequency_scores(
     Returns:
         list[tuple[int, float]]: sorted (descending based on score) list of tuples containing document id and tf*idf score
     """
+
+    queries = [nlp(q)[0].lemma_ for q in queries if "*" not in q]
     scores = []
     ndocs = len(df)
     for row in df.iterrows():
@@ -359,7 +361,6 @@ def get_term_frequency_scores(
         score = 0
         for q in queries:
             if "*" not in q:
-                q = nlp(q)[0].lemma_
                 if q not in inverted_list:
                     continue
                 doc_freq = len(inverted_list[q])
@@ -368,7 +369,7 @@ def get_term_frequency_scores(
                 if q[-1] == "*":
                     left_result = left_permuterm_indexing(q, perm_index)
                     for word in left_result:
-                        doc_freq = len(inverted_list[word])                        
+                        doc_freq = len(inverted_list[word])
                         score += tfidf(1 + text.count(word), doc_freq, ndocs)
                 elif q[0] == "*":
                     right_result = right_permuterm_indexing(q, rev_perm_index)
