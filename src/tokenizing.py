@@ -146,10 +146,10 @@ if __name__ == "__main__":
     tokenize(property_final, nlp)
 
     auto_final.to_csv(
-        "/home/majime/programming/github/search-engine/data/tokenized/auto.csv",
+        "./data/tokenized/auto.csv",
         index=False,
     )
     property_final.to_csv(
-        "/home/majime/programming/github/search-engine/data/tokenized/property.csv",
+        "./data/tokenized/property.csv",
         index=False,
     )

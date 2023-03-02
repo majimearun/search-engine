@@ -128,26 +128,23 @@ def make_bi_word_index(df: pd.DataFrame):
         bi_word_index[key].sort()
     return bi_word_index
 
-def startup_engine():
+def startup_engine(*paths: tuple[str]):
     """Creates the inverted list, permuterm index, reverse permuterm index, bi-word index, corpus and the dataframe containing the index and text (noamral and tokenized) for each document
-
+    Args:
+        paths (tuple[str]): paths to the csv files containing the text for which the indexes are to be created
+        
     Returns:
         tuple[dict[str, LinkedList], dict[str, LinkedList], dict[str, LinkedList], dict[str, LinkedList], list[str], pd.DataFrame]: tuple containing the inverted list, permuterm index, reverse permuterm index, bi-word index, corpus and the dataframe containing the index and text (noamral and tokenized) for each document
         
     """
-    auto_df = pd.read_csv(
-        "/home/majime/programming/github/search-engine/data/tokenized/auto.csv"
-    )
-    property_df = pd.read_csv(
-        "/home/majime/programming/github/search-engine/data/tokenized/property.csv"
-    )
-
-    auto_df["posting_list"] = auto_df["tokenized"].apply(create_postings_list)
-    property_df["posting_list"] = property_df["tokenized"].apply(create_postings_list)
-
-    main_df = pd.concat([auto_df, property_df])
+    main_df = pd.read_csv(paths[0])
+    main_df["posting_list"] = main_df["tokenized"].apply(create_postings_list)
+    for path in paths[1:]:
+        temp_df = pd.read_csv(path)
+        temp_df["posting_list"] = temp_df["tokenized"].apply(create_postings_list)
+        main_df = pd.concat([main_df, temp_df])
+        
     main_df = main_df.reset_index(drop=True)
-
     corpus = set()
     for l in main_df.posting_list:
         for word in l:
@@ -168,6 +165,6 @@ if __name__ == "__main__":
     from transformers import pipeline
     summary_pipeline = pipeline("summarization")
     
-    with open("/home/majime/programming/github/search-engine/models/summary_pipeline.pkl", "wb") as f:
+    with open("./models/summary_pipeline.pkl", "wb") as f:
         pickle.dump(summary_pipeline, f)
     
