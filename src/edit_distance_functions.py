@@ -88,3 +88,37 @@ def spell_check_query(query: str, inverted_list: dict[str, LinkedList]):
                     min_word = word
             query[i] = min_word
     return " ".join(query)
+
+def autocomplete_result(query: str, inverted_list: dict[str, LinkedList], max_results: int = 10):
+    """Returns the list of words that start with the query
+
+    Args:
+        query (str): query string
+        inverted_list (dict[str, LinkedList]): inverse index for each word in the corpus
+        max_results (int, optional): maximum number of results to return. Defaults to 10.
+
+    Returns:
+        list: list of words that start with the query
+    """
+    last_word = query.split()[-1]
+    results = []
+    # inserting words in a sorted order in the results list based on their edit distance and frequency (length of linked list)
+    for word in inverted_list:
+        if word.startswith(last_word):
+            dist = levenshtein_distance(last_word, word)
+            i = 0
+            while i < len(results):
+                if (
+                    levenshtein_distance(last_word, results[i]) > dist
+                    or (
+                        levenshtein_distance(last_word, results[i]) == dist
+                        and len(inverted_list[results[i]]) < len(inverted_list[word])
+                    )
+                ):
+                    break
+                i += 1
+            results.insert(i, word)
+    including_previous = [" ".join(query.split()[:-1]) + " " + word for word in results[:max_results]]
+    return including_previous
+    
+    

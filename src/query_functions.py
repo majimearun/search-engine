@@ -7,7 +7,7 @@ import re
 from LinkedList import LinkedList
 from phrase_query_functions import phrase_query
 from scoring_functions import get_term_frequency_scores
-from spell_check_query_functions import spell_check_query
+from edit_distance_functions import spell_check_query, autocomplete_result
 from wildcard_query_functions import query_permuterm_index
 
 # getting the summarizer pipeline which we earlier loaded in the setup.py file
@@ -123,8 +123,56 @@ def boolean_filter(
         # all phrase queries are (logically) of and type, so removing all double quotes
         queries: list[str] = queries.replace('"', "")
         return phrase_query(queries, bi_word_index, perm_index, rev_perm_index)
+    
+    
+def print_results(scores: list[tuple[int, float]], df: pd.DataFrame, show_summary: bool, ranked:bool):
+    """Prints the results of the search
 
-
+    Args:
+        scores (list[tuple[int, float]]): sorted list of tuples containing document id and score
+        df (pd.DataFrame): dataframe containing the corpus
+        show_summary (bool): whether to show the summary of the document or not
+        ranked (bool): whether the search was ranked or not
+    """
+    print(f"Documents Retrieved: {len(scores)}")
+    if not ranked:
+        print("Unranked Search Results: Boolean Retrieval")
+    print(
+        "------------------------------------------------------------------------------------------"
+    )
+    print(
+        "------------------------------------------------------------------------------------------"
+    )
+    for i, score in enumerate(scores):
+        row = df.loc[score[0]]
+        print(f"Rank: {i + 1}")
+        print(f"Document Name: {row.document_name}")
+        print(f"Page Number: {row.page_number + 1}")
+        print(f"Paragraph Number: {row.paragraph_number + 1}")
+        print(f"Score: {score[1]}")
+        print(
+            "------------------------------------------------------------------------------------------"
+        )
+        if show_summary:
+            summary = summary_pipeline(row.text, truncation=True)
+            print(f"Summary: {summary[0]['summary_text']}")
+        print(
+            "------------------------------------------------------------------------------------------"
+        )
+        # replace any number f spces with a single space
+        print_text = re.sub(r"\s+", " ", row.text)
+        print(f"Paragraph Text: \n{print_text}")
+        print(
+            "------------------------------------------------------------------------------------------"
+        )
+        print(
+            "------------------------------------------------------------------------------------------"
+        )
+        print(
+            "------------------------------------------------------------------------------------------"
+        ) 
+        
+        
 def search(
     query: str,
     inverted_list: dict[str, LinkedList],
@@ -137,6 +185,8 @@ def search(
     show_summary: bool = False,
     retrieve_n: int = None,
     spell_check: bool = False,
+    autocomplete: bool = False,
+    n_auto_results: int = 5,
 ):
     """Searches the corpus for documents that match the query string
 
@@ -152,8 +202,19 @@ def search(
         show_summary (bool, optional): Whether we need to show the summary of the retieved documents. Defaults to False.
         retrieve_n (int, optional): Number of dicuments to be retrieved. Defaults to None.
         spell_check (bool, optional): Whether to perform spell check or not. Defaults to False.
+        auto_complete (bool, optional): Whether to print auto complete options isntead of search or not. Defaults to False.
+        n_auto_results (int, optional): Number of auto complete results to be printed. Defaults to 5.
     """
     query = query.lower()
+    if autocomplete:
+        results = autocomplete_result(query, inverted_list, n_auto_results)
+        print("Possible Options:")
+        print("------------------------------------------------------------------------------------------")
+        for i, result in enumerate(results):
+            print(f"{i + 1}. {result}")
+        print("------------------------------------------------------------------------------------------")
+        return 
+            
     # first we filter results using boolean retrieval
     filtered = boolean_filter(
         query,
@@ -207,40 +268,5 @@ def search(
             scores.append((id, None))
     if retrieve_n is not None:
         scores = scores[:retrieve_n]
-    print(f"Documents Retrieved: {len(scores)}")
-    if not ranked:
-        print("Unranked Search Results: Boolean Retrieval")
-    print(
-        "------------------------------------------------------------------------------------------"
-    )
-    print(
-        "------------------------------------------------------------------------------------------"
-    )
-    for i, score in enumerate(scores):
-        row = main_df.loc[score[0]]
-        print(f"Rank: {i + 1}")
-        print(f"Document Name: {row.document_name}")
-        print(f"Page Number: {row.page_number + 1}")
-        print(f"Paragraph Number: {row.paragraph_number + 1}")
-        print(f"Score: {score[1]}")
-        print(
-            "------------------------------------------------------------------------------------------"
-        )
-        if show_summary:
-            summary = summary_pipeline(row.text, truncation=True)
-            print(f"Summary: {summary[0]['summary_text']}")
-        print(
-            "------------------------------------------------------------------------------------------"
-        )
-        # reploace any number f spces with a single space
-        print_text = re.sub(r"\s+", " ", row.text)
-        print(f"Paragraph Text: \n{print_text}")
-        print(
-            "------------------------------------------------------------------------------------------"
-        )
-        print(
-            "------------------------------------------------------------------------------------------"
-        )
-        print(
-            "------------------------------------------------------------------------------------------"
-        )
+    print_results(scores, main_df, show_summary)
+    
