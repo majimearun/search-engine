@@ -318,6 +318,62 @@ def boolean_filter(
         return phrase_query(queries, bi_word_index, perm_index, rev_perm_index)
 
 
+def levenshtein_distance(s1: str, s2: str):
+    """Calculates the levenshtein distance between two strings
+
+    Args:
+        s1 (str): first string
+        s2 (str): second string
+
+    Returns:
+        int: levenshtein distance between the two strings
+    """
+    levenshtein = np.zeros((len(s1) + 1, len(s2) + 1), dtype=int)
+    for i in range(len(s1) + 1):
+        levenshtein[i, 0] = i
+    for j in range(len(s2) + 1):
+        levenshtein[0, j] = j
+    for i in range(1, len(s1) + 1):
+        for j in range(1, len(s2) + 1):
+            if s1[i - 1] == s2[j - 1]:
+                levenshtein[i, j] = levenshtein[i - 1, j - 1]
+            else:
+                levenshtein[i, j] = (
+                    min(
+                        levenshtein[i - 1, j - 1],
+                        levenshtein[i - 1, j],
+                        levenshtein[i, j - 1],
+                    )
+                    + 1
+                )
+    return levenshtein[len(s1), len(s2)]
+
+
+def spell_check_query(query: str, inverted_list: dict[str, LinkedList]):
+    """Spell checks the query and returns the corrected query
+
+    Args:
+        query (str): query string
+        inverted_list (dict[str, LinkedList]): inverse index for each word in the corpus
+
+    Returns:
+        str: corrected query string
+    """
+    query = query.replace('"', "")
+    query = query.split()
+    for i in range(len(query)):
+        if query[i] not in inverted_list:
+            min_dist = 100000
+            min_word = ""
+            for word in inverted_list:
+                dist = levenshtein_distance(query[i], word)
+                if dist < min_dist:
+                    min_dist = dist
+                    min_word = word
+            query[i] = min_word
+    return " ".join(query)
+
+
 def tfidf(tf: int, _df: int, ndocs: int):
     """Calculates the tf*idf score for a given term frequency and document frequency
 
@@ -329,7 +385,7 @@ def tfidf(tf: int, _df: int, ndocs: int):
     Returns:
         float: tf*idf score
     """
-    return (np.log(1 + tf)) * (np.log(ndocs / (_df + 1)))
+    return (np.log(1 + tf)) * (np.log((1 + ndocs) / (_df + 1)) + 1)
 
 
 def get_term_frequency_scores(
@@ -353,42 +409,42 @@ def get_term_frequency_scores(
     """
 
     queries = [nlp(q)[0].lemma_ for q in queries if "*" not in q]
-    scores = []
-    ndocs = len(df)
-    for row in df.iterrows():
-        text = str(row[1]["tokenized"])
-        text = text.split()
+    scores: dict[int, float] = {}
+    for index, row in df.iterrows():
         score = 0
-        for q in queries:
-            if "*" not in q:
-                if q not in inverted_list:
-                    continue
-                doc_freq = len(inverted_list[q])
-                score += tfidf(1 + text.count(q), doc_freq, ndocs)
+        text: str = row["tokenized"]
+        for query in queries:
+            if "*" not in query:
+                tf = text.count(query)
+                if query in inverted_list:
+                    _df = len(inverted_list[query])
+                    score += tfidf(tf, _df, len(df))
             else:
-                if q[-1] == "*":
-                    left_result = left_permuterm_indexing(q, perm_index)
-                    for word in left_result:
-                        doc_freq = len(inverted_list[word])
-                        score += tfidf(1 + text.count(word), doc_freq, ndocs)
-                elif q[0] == "*":
-                    right_result = right_permuterm_indexing(q, rev_perm_index)
-                    for word in right_result:
-                        doc_freq = len(inverted_list[word])
-                        score += tfidf(1 + text.count(word), doc_freq, ndocs)
+                if query[-1] == "*":
+                    left_matches = left_permuterm_indexing(query, perm_index)
+                    for word in left_matches:
+                        _df = len(inverted_list[word])
+                        tf = text.count(word)
+                        score += tfidf(tf, _df, len(df))
+                elif query[0] == "*":
+                    right_matches = right_permuterm_indexing(query, rev_perm_index)
+                    for word in right_matches:
+                        _df = len(inverted_list[word])
+                        tf = text.count(word)
+                        score += tfidf(tf, _df, len(df))
                 else:
-                    halves = q.split("*")
-                    left_result = left_permuterm_indexing(halves[0] + "*", perm_index)
-                    right_result = right_permuterm_indexing(
-                        "*" + halves[-1], rev_perm_index
+                    matches = query_permuterm_index(
+                        query, perm_index, rev_perm_index, inverted_list, True
                     )
-                    result = list(set(left_result) & set(right_result))
-                    for word in result:
-                        doc_freq = len(inverted_list[word])
-                        score += tfidf(1 + text.count(word), doc_freq, ndocs)
-
-        scores.append((row[0], score))
-    return sorted(scores, key=lambda x: x[1], reverse=True)
+                    for word in matches:
+                        _df = len(inverted_list[word])
+                        tf = text.count(word)
+                        score += tfidf(tf, _df, len(df))
+        scores[index] = score
+    sorted_scores: list[tuple[int, float]] = sorted(
+        scores.items(), key=lambda x: x[1], reverse=True
+    )
+    return sorted_scores
 
 
 def search(
@@ -402,6 +458,7 @@ def search(
     ranked: bool = True,
     show_summary: bool = False,
     retrieve_n: int = None,
+    spell_check: bool = False,
 ):
     """Searches the corpus for documents that match the query string
 
@@ -416,6 +473,7 @@ def search(
         ranked (bool, optional): SWhether the results should be ranked or not. Defaults to True.
         show_summary (bool, optional): Whether we need to show the summary of the retieved documents. Defaults to False.
         retrieve_n (int, optional): Number of dicuments to be retrieved. Defaults to None.
+        spell_check (bool, optional): Whether to perform spell check or not. Defaults to False.
     """
     query = query.lower()
     # first we filter results using boolean retrieval
@@ -428,8 +486,32 @@ def search(
         _phrase=is_phrase,
     )
     if len(filtered) == 0:
-        print("No documents found")
-        return
+        if spell_check:
+            print(
+                f"No documents found with direct match with {query}. Performing spell check..."
+            )
+            corrected_queries: list[str] = []
+            for q in query.split():
+                if "*" not in q:
+                    corrected_queries.append(spell_check_query(q, inverted_list))
+                else:
+                    corrected_queries.append(q)
+            query = " ".join(corrected_queries)
+            print(f"Corrected Query: {query}")
+            filtered = boolean_filter(
+                query,
+                inverted_list,
+                perm_index,
+                rev_perm_index,
+                bi_word_index,
+                _phrase=is_phrase,
+            )
+            if len(filtered) == 0:
+                print("No documents found even after spell check")
+                return
+        else:
+            print("No documents found")
+            return
     if ranked:
         scores = get_term_frequency_scores(
             main_df,
