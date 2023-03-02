@@ -136,10 +136,10 @@ def startup_engine():
         
     """
     auto_df = pd.read_csv(
-        "/home/majime/programming/github/ir-search-engine/data/tokenized/auto.csv"
+        "/home/majime/programming/github/search-engine/data/tokenized/auto.csv"
     )
     property_df = pd.read_csv(
-        "/home/majime/programming/github/ir-search-engine/data/tokenized/property.csv"
+        "/home/majime/programming/github/search-engine/data/tokenized/property.csv"
     )
 
     auto_df["posting_list"] = auto_df["tokenized"].apply(create_postings_list)
@@ -168,6 +168,6 @@ if __name__ == "__main__":
     from transformers import pipeline
     summary_pipeline = pipeline("summarization")
     
-    with open("/home/majime/programming/github/ir-search-engine/models/summary_pipeline.pkl", "wb") as f:
+    with open("/home/majime/programming/github/search-engine/models/summary_pipeline.pkl", "wb") as f:
         pickle.dump(summary_pipeline, f)
     

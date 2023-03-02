@@ -128,10 +128,10 @@ def tokenize(
 if __name__ == "__main__":
     #  setting up the tokenized dataframes and saving them for future use
     auto_pkls = glob.glob(
-        "/home/majime/programming/github/ir-search-engine/data/pkls/Auto/*.pkl"
+        "/home/majime/programming/github/search-engine/data/pkls/Auto/*.pkl"
     )
     property_pkls = glob.glob(
-        "/home/majime/programming/github/ir-search-engine/data/pkls/Property/*.pkl"
+        "/home/majime/programming/github/search-engine/data/pkls/Property/*.pkl"
     )
     auto_df = read_pickle_into_pages(auto_pkls)
     property_df = read_pickle_into_pages(property_pkls)
@@ -146,10 +146,10 @@ if __name__ == "__main__":
     tokenize(property_final, nlp)
 
     auto_final.to_csv(
-        "/home/majime/programming/github/ir-search-engine/data/tokenized/auto.csv",
+        "/home/majime/programming/github/search-engine/data/tokenized/auto.csv",
         index=False,
     )
     property_final.to_csv(
-        "/home/majime/programming/github/ir-search-engine/data/tokenized/property.csv",
+        "/home/majime/programming/github/search-engine/data/tokenized/property.csv",
         index=False,
     )
