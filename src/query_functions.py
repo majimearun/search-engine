@@ -66,6 +66,8 @@ def multi_query(
                     result.append(id)
         return sorted(result)
     else:
+        if len(docs) == 0:
+            return []
         # return intersection of all sublists in docs
         result: set[int] = set(docs[0])
         for l in docs:
@@ -268,5 +270,5 @@ def search(
             scores.append((id, None))
     if retrieve_n is not None:
         scores = scores[:retrieve_n]
-    print_results(scores, main_df, show_summary)
+    print_results(scores, main_df, show_summary, ranked)
     
