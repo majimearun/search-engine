@@ -1,19 +1,16 @@
-# IR Search Engine
+# Search Engine
 
 My first search engine built using Python, Numpy, Pandas and spaCy
 
-## Functionality
+## Functionalities
 
-1. Free queries ('and' and 'or' searches)
+### Boolean retrieval and filtering: Free and phrase queries
 
-2. Phrase queries (uses biwords)
+### Wildcard queries
 
-3. Wildcard querying for both of the above types (allowed types: 'abc\*', '\*xyz', 'abc\*xyz')
+### Ranking
 
-4. Ranking based on tf-idf scores
+### Spelling correction
 
-5. Spelling correction
-
-6. Autocomplete results
-
+### Autocomplete suggestions
 
