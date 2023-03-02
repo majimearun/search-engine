@@ -2,7 +2,11 @@
 import numpy as np
 import sys
 from LinkedList import LinkedList
+import spacy
+import lemminflect
 
+# loading the spacy model for lemmitization of queries
+nlp = spacy.load("en_core_web_sm")
 
 # setting recursion limit for functions on linked list
 sys.setrecursionlimit(10000)
@@ -118,7 +122,14 @@ def autocomplete_result(query: str, inverted_list: dict[str, LinkedList], max_re
                     break
                 i += 1
             results.insert(i, word)
-    including_previous = [" ".join(query.split()[:-1]) + " " + word for word in results[:max_results]]
+    inflected_results = []
+    for i in range(len(results)):
+       possible_inflections: dict[str, tuple[str]] = lemminflect.getAllInflections(results[i])
+       for inflection in possible_inflections:
+           for word in possible_inflections[inflection]:
+                if word not in inflected_results:
+                    inflected_results.append(word)
+    including_previous = [" ".join(query.split()[:-1]) + " " + word for word in inflected_results[:max_results]]
     return including_previous
     
     
