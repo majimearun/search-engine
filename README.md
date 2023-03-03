@@ -12,7 +12,7 @@ Additionally, if we pass any of the words in the query string in double quotes, 
 
 **TODO:** Every word that **needs** to be present in the document needs to be in double quotes separately. If we want the words `python` and `pandas`, we must pass the query string as `"python" "pandas"`. It would be better if we could pass the query string as `"python pandas"`.
 
-If the option `is_phrase` is set to `True`, we now consider the order of the words to be significant **(phrase queries)**. It is implemented using biwords. So if we pass the string `I love python`, we will get all the documents that contain the phrase `I love` **AND** `love python` wherein each of the words in the biword is present in the document but the biwords themselves might be in a different order in the docuemt.
+If the option `is_phrase` is set to `True`, we now consider the order of the words to be significant **(phrase queries)**. It is implemented using biwords. So if we pass the string `I love python`, we will get all the documents that contain the phrase `I love` **AND** `love python` wherein each of the words in the biword is present in the document but the biwords themselves might be in a different order in the document.
 
 ### Wildcard queries
 
@@ -26,11 +26,11 @@ Wildcard queries contain a wildcard character `*` which can be used to match any
 
 **Note**: Currently only one wildcard character `*` is supported per query word (though each query word in the query string can have its wildcard character), so a query like `p*yth*n` is translated to `p*n` in the backend.
 
-Additionally while using wildcard characters in a phrase query, it is retirved as on **OR** query on the biwords instead of an **AND** query.
+Additionally while using wildcard characters in a phrase query, it is retrieved as on **OR** query on the biwords instead of an **AND** query.
 
-**Wildcard queries are automtically identified** and then queried on, and don't need any extra effort on the user's part.
+**Wildcard queries are automatically identified** and then queried on, and don't need any extra effort on the user's part.
 
-**TODO:** The search functionality will now consider any `*` as a wildcard query, so I am currently building an option to turn wilcard querying off so they can search for test containing an actual `*` in them.
+**TODO:** The search functionality will now consider any `*` as a wildcard query, so I am currently building an option to turn wildcard querying off so they can search for test containing an actual `*` in them.
 
 
 ### Ranking
@@ -39,13 +39,13 @@ Ranking is done based on the `tf-idf` scores of the documents for the query. The
 
 If wildcard characters are present in the query, all the words that match the wildcard query contribute to the score. For example if we pass `dat*`, both `data` and `date`  (and any others that match) will contribute to the score.
 
-While retieving the documents, the user can choose the number of documents they want retrieved using the `retrieve_n` parameter in the engine's `search` function. 
+While retrieving the documents, the user can choose the number of documents they want retrieved using the `retrieve_n` parameter in the engine's `search` function. 
 
-**Note:** Biwords do not have a seperate ranking and each word individually counts towards ranking. The initial filter takes care that the documents do indeed contain these biwords. Though performance comparisons are yet to be done, the ranking is expected to be better if the biwords are ranked as well.
+**Note:** Biwords do not have a separate ranking and each word individually counts towards ranking. The initial filter takes care that the documents do indeed contain these biwords. Though performance comparisons are yet to be done, the ranking is expected to be better if the biwords are ranked as well.
 
 ### Spelling correction
 
-Spelling correction uses a slightly modified version of the `levenshtien edit distance` algorithm. If the `spell_check` option is set to `True` and the given query string does not match any documents, the engine will try to find the closest match to every word from the corpus and return the documents that contain those words.
+Spelling correction uses a slightly modified version of the `levenshtein edit distance` algorithm. If the `spell_check` option is set to `True` and the given query string does not match any documents, the engine will try to find the closest match to every word from the corpus and return the documents that contain those words.
 
 Additionally, to the normal edit distance algorithm, I added a check if the word has two adjacent characters swapped (i.e.. now a new operation *swapping adjacent characters* is added to the normal *replacing, inserting, and deleting* options to find the minimum distance between two words).
 
@@ -57,7 +57,7 @@ Using the same edit distance algorithm, we find words with the smallest distance
 
 To check for possible autocomplete results instead of a search, set the `autocomplete` parameter to `True` in the `search` function.
 
-The lemmatized worda are converted back to possible 'un'lemmatized words using the `lemminflect` package.
+The lemmatized words are converted back to possible 'un'lemmatized words using the `lemminflect` package.
 
 ## Usage instructions
 
@@ -73,10 +73,10 @@ conda env create -f env.yml
 conda activate search_engine
 ```
 
-3. If you want to change the pdfs being read/converted, do the needful and modify the paths wherver necessary. If not just continue with the next step.
+3. If you want to change the pdfs being read/converted, do the needful and modify the paths wherever necessary. If not just continue with the next step.
 
 4. Run the `cleaning.py`,  `tokenizing.py` and `setup.py` file in the same order.
 
-5. See all the possible usage examples in `exmaple_usage.ipynb` and fit it to use in your application.
+5. See all the possible usage examples in `example_usage.ipynb` and fit it to use in your application.
 
 
