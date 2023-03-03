@@ -10,11 +10,7 @@ By default passing a string is an **OR** query where we search for documents tha
 
 Additionally, if we pass any of the words in the query string in double quotes, we will get all the documents that contain the phrase in the double quotes. For example, if we pass the query string `"python" "pandas"` we will get all the documents that contain both words `"python"` and `"pandas"` (an **AND** query).
 
-**TODO:** Currently there are two things that are being implemented. 
-
-1. Every word that needs to be present in the document as an and query needs to be in double quotes separately. As in if we want both the words `python` and `pandas`, we would need to pass the query string as `"python" "pandas"`. It would be better if we could pass the query string as `"python pandas"`.
-
-2. Currently, even if one **AND** query is present in the string, we consider that the user wants any other words also included, otherwise they wouldn't have typed it in (i.e., we are considering a generic user base). So we are taking an intersection of all results which essentially equates to being an **AND** query of all the words. Instead if our ranking algorithm is implemented well enough, the filtering process can just focus on the **AND** queries and the rest of the words can be ignored (the ranking will take care of the the order the results are sent to the user).
+**TODO:** Every word that needs to be present in the document as an and query needs to be in double quotes separately. As in if we want both the words `python` and `pandas`, we would need to pass the query string as `"python" "pandas"`. It would be better if we could pass the query string as `"python pandas"`.
 
 If the option `is_phrase` is set to `True`, we nbow consider the order of the words to be important (phrase queries). It is implemented using biwords. So if we pass the string `I love python`, we will get all the documents that contain the phrase `I love` **AND** `love python` wherein each of the words in the biword is present in the document but the biwords themselves might be in a different order in the docuemt.
 
