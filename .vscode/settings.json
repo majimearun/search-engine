@@ -1,9 +1,12 @@
 {
 	"python.analysis.typeCheckingMode": "off",
 	"cSpell.words": [
+		"fitz",
 		"lemminflect",
+		"lemmitization",
 		"pdfs",
 		"pyth",
+		"spacy",
 		"thon"
 	]
 }

@@ -91,7 +91,7 @@ def boolean_filter(
         perm_index (dict[str, LinkedList]): permuterm index for each possible rotation of words in the corpus
         rev_perm_index (dict[str, LinkedList]): reverse permuterm index for each possible rotation of words in the corpus
         bi_word_index (dict[str, LinkedList]): biword index for each biword in the corpus
-        _phrase (bool, optional): Wheteher the query is aphrase query or not. Defaults to False.
+        _phrase (bool, optional): Whether the query is a phrase query or not. Defaults to False.
 
     Returns:
         list[int]: sorted list of documents that match the query string
@@ -165,7 +165,7 @@ def print_results(scores: list[tuple[int, float]], df: pd.DataFrame, show_summar
         print(
             "------------------------------------------------------------------------------------------"
         )
-        # replace any number f spces with a single space
+        # replace any number f spaces with a single space
         print_text = re.sub(r"\s+", " ", row.text)
         print(f"Paragraph Text: \n{print_text}")
         print(
@@ -205,10 +205,10 @@ def search(
         main_df (pd.DataFrame): dataframe containing the corpus
         is_phrase (bool, optional): Whether the query is a phrase query or not. Defaults to False.
         ranked (bool, optional): SWhether the results should be ranked or not. Defaults to True.
-        show_summary (bool, optional): Whether we need to show the summary of the retieved documents. Defaults to False.
-        retrieve_n (int, optional): Number of dicuments to be retrieved. Defaults to None.
+        show_summary (bool, optional): Whether we need to show the summary of the retrieved documents. Defaults to False.
+        retrieve_n (int, optional): Number of documents to be retrieved. Defaults to None.
         spell_check (bool, optional): Whether to perform spell check or not. Defaults to False.
-        auto_complete (bool, optional): Whether to print auto complete options isntead of search or not. Defaults to False.
+        auto_complete (bool, optional): Whether to print auto complete options instead of search or not. Defaults to False.
         n_auto_results (int, optional): Number of auto complete results to be printed. Defaults to 5.
     """
     query = query.lower()
@@ -265,7 +265,7 @@ def search(
             perm_index,
             rev_perm_index,
         )
-        # get only scores for thoise documents that are in filtered
+        # get only scores for those documents that are in filtered
         scores = [x for x in scores if x[0] in filtered]
 
     else:

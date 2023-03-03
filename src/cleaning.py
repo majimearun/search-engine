@@ -7,7 +7,7 @@ def clean(path: str):
     """Cleans the pdfs in a given folder into a pickle file (page-wise) per pdf, and saves it a folder with the same parent as the pdfs, but in a `pkl/` folder
 
     Args:
-        path (str):takes in the path to the foler with pdfs to be cleaned
+        path (str):takes in the path to the folder with pdfs to be cleaned
 
     Returns:
         None
