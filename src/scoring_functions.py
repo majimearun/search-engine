@@ -51,7 +51,9 @@ def get_term_frequency_scores(
     Returns:
         list[tuple[int, float]]: sorted (descending based on score) list of tuples containing document id and tf*idf score
     """
-
+    # removing quotes from queries
+    queries = [q.replace('"', "") for q in queries]
+    # lemmatizing queries
     queries = [nlp(q)[0].lemma_ for q in queries if "*" not in q]
     scores: dict[int, float] = {}
     for index, row in df.iterrows():

@@ -109,18 +109,22 @@ def boolean_filter(
                 or_queries.append(query)
         if len(and_queries) == 0:
             return multi_query(or_queries, inverted_list, perm_index, rev_perm_index)
-        if len(or_queries) == 0:
+        # If there are any and queries we only take care of thyem as those in OR may or may not be present
+        # Scoring takes care of the order (or queries are still part of the ranking later on)
+        else:
             return multi_query(
                 and_queries, inverted_list, perm_index, rev_perm_index, _and=True
             )
-        and_results: list[int] = multi_query(
-            and_queries, inverted_list, perm_index, rev_perm_index, _and=True
-        )
-        or_results: list[int] = multi_query(
-            or_queries, inverted_list, perm_index, rev_perm_index
-        )
+        # If you want to filter using both the AND and OR queries uncomment the following lines and change the else statement above to (elif len(or_queries) == 0):
+        
+        # and_results: list[int] = multi_query(
+        #     and_queries, inverted_list, perm_index, rev_perm_index, _and=True
+        # )
+        # or_results: list[int] = multi_query(
+        #     or_queries, inverted_list, perm_index, rev_perm_index
+        # )
         # considering if even one word contains an and all words do, otherwise there is no point of the or words
-        return sorted(list(set(and_results) & set(or_results)))
+        # return sorted(list(set(and_results) & set(or_results)))
     else:
         # all phrase queries are (logically) of and type, so removing all double quotes
         queries: list[str] = queries.replace('"', "")
