@@ -129,12 +129,12 @@ def make_bi_word_index(df: pd.DataFrame):
     return bi_word_index
 
 def startup_engine(*paths: tuple[str]):
-    """Creates the inverted list, permuterm index, reverse permuterm index, bi-word index, corpus and the dataframe containing the index and text (noamral and tokenized) for each document
+    """Creates the inverted list, permuterm index, reverse permuterm index, bi-word index, corpus and the dataframe containing the index and text (normal and tokenized) for each document
     Args:
         paths (tuple[str]): paths to the csv files containing the text for which the indexes are to be created
         
     Returns:
-        tuple[dict[str, LinkedList], dict[str, LinkedList], dict[str, LinkedList], dict[str, LinkedList], list[str], pd.DataFrame]: tuple containing the inverted list, permuterm index, reverse permuterm index, bi-word index, corpus and the dataframe containing the index and text (noamral and tokenized) for each document
+        tuple[dict[str, LinkedList], dict[str, LinkedList], dict[str, LinkedList], dict[str, LinkedList], list[str], pd.DataFrame]: tuple containing the inverted list, permuterm index, reverse permuterm index, bi-word index, corpus and the dataframe containing the index and text (normal and tokenized) for each document
         
     """
     main_df = pd.read_csv(paths[0])

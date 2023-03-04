@@ -25,6 +25,5 @@ def clean(path: str):
 
 
 if __name__ == "__main__":
-    # works with the absolute path only for some reason
     clean("./data/pdfs/Auto/")
     clean("./data/pdfs/Property/")
