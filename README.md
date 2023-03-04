@@ -42,7 +42,7 @@ conda activate search_engine
 
 4. Run the `cleaning.py`, `tokenizing.py` and `setup.py` file in the same order.
 
-5. See all the possible usage examples in `exmaple_usage.ipynb` or in the `2021A7PS0205H_Info_Retr_Assignment1_Report.pdf` and fit it to use in your application.
+5. See all the possible usage examples in `2021A7PS0205H_Info_Retr_Assignment1_Report.pdf` or in its corresponding `ipynb` file and fit it to use in your application.
 
 6. Other statistics can also be found in the `2021A7PS0205H_Info_Retr_Assignment1_Report.pdf` file.
 
