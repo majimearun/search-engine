@@ -54,7 +54,7 @@ def get_term_frequency_scores(
     # removing quotes from queries
     queries = [q.replace('"', "") for q in queries]
     # lemmatizing queries
-    queries = [nlp(q)[0].lemma_ for q in queries if "*" not in q]
+    queries = [nlp(q)[0].lemma_ if "*" not in q else q for q in queries]
     scores: dict[int, float] = {}
     for index, row in df.iterrows():
         score = 0

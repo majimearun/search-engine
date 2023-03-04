@@ -3,7 +3,7 @@
 **Problem Statement:** To build a search engine for a given corpus of documents. 
 
 - By Arunachala Amuda Murugan (2021A7PS0205H) 
-- Completed on 3rd March 2023
+- Completed on 4th March 2023
 
 ## Feature List
 
@@ -26,7 +26,7 @@
 
 ## Usage/Replication Instructions
 
-1. Clone or download the repositoryb **(assignment branch)** and setup the environment from the `env.yml` file using
+1. Clone or download the repository **(assignment branch)** and setup the environment from the `env.yml` file using
 
 ```
 conda env create -f env.yml
@@ -38,7 +38,7 @@ conda env create -f env.yml
 conda activate search_engine
 ```
 
-3. If you want to change the pdfs being read/converted, do the needful and modify the paths wherver necessary. If not just continue with the next step.
+3. If you want to change the pdfs being read/converted, do the needful and modify the paths wherever necessary. If not just continue with the next step.
 
 4. Run the `cleaning.py`, `tokenizing.py` and `setup.py` file in the same order.
 
