@@ -12,7 +12,7 @@ from wildcard_query_functions import query_permuterm_index
 
 # getting the summarizer pipeline which we earlier loaded in the setup.py file
 with open(
-    "/home/majime/programming/github/search-engine/models/summary_pipeline.pkl", "rb"
+    "../models/summary_pipeline.pkl", "rb"
 ) as f:
     summary_pipeline = pickle.load(f)
 
