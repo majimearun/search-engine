@@ -1,3 +1,6 @@
+# Copyright @ 2023, Arunachala Amuda Murugan
+# License: GNU GPL v3.0
+
 # importing libraries
 import sys
 from setup import get_all_rotations

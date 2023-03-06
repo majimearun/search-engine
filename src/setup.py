@@ -1,3 +1,6 @@
+# Copyright @ 2023, Arunachala Amuda Murugan
+# License: GNU GPL v3.0
+
 import pandas as pd
 import pickle
 from LinkedList import LinkedList

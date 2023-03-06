@@ -1,3 +1,6 @@
+# Copyright @ 2023, Arunachala Amuda Murugan
+# License: GNU GPL v3.0
+
 import fitz
 import glob
 import pickle

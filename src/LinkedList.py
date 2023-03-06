@@ -1,3 +1,6 @@
+# Copyright @ 2023, Arunachala Amuda Murugan
+# License: GNU GPL v3.0
+
 class Node:
     def __init__(self, data: int):
         """Node class for linked list
