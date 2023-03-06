@@ -1,3 +1,7 @@
+# Copyright (C) 2023 by Arunachala Amuda Murugan
+# 
+# Lisence: GNU General Public License v3.0
+
 import fitz
 import glob
 import pickle
@@ -25,5 +29,6 @@ def clean(path: str):
 
 
 if __name__ == "__main__":
+    # works with the absolute path only for some reason
     clean("./data/pdfs/Auto/")
     clean("./data/pdfs/Property/")

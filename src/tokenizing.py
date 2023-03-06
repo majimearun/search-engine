@@ -1,3 +1,7 @@
+# Copyright (C) 2023 by Arunachala Amuda Murugan
+# 
+# Lisence: GNU General Public License v3.0
+
 import pandas as pd
 import glob
 import pickle
