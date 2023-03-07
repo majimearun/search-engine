@@ -1,6 +1,6 @@
-# Copyright (C) 2023 by Arunachala Amuda Murugan
-# 
-# Lisence: GNU General Public License v3.0
+# Copyright © 2023 Arunachala Amuda Murugan (@majimearun)
+#
+# License: GNU General Public License v3.0
 
 # importing libraries
 import sys
@@ -15,9 +15,7 @@ from edit_distance_functions import spell_check_query, autocomplete_result
 from wildcard_query_functions import query_permuterm_index
 
 # getting the summarizer pipeline which we earlier loaded in the setup.py file
-with open(
-    "../models/summary_pipeline.pkl", "rb"
-) as f:
+with open("../models/summary_pipeline.pkl", "rb") as f:
     summary_pipeline = pickle.load(f)
 
 # loading the spacy model for lemmitization of queries
@@ -120,7 +118,7 @@ def boolean_filter(
                 and_queries, inverted_list, perm_index, rev_perm_index, _and=True
             )
         # If you want to filter using both the AND and OR queries uncomment the following lines and change the else statement above to (elif len(or_queries) == 0):
-        
+
         # and_results: list[int] = multi_query(
         #     and_queries, inverted_list, perm_index, rev_perm_index, _and=True
         # )
@@ -133,9 +131,11 @@ def boolean_filter(
         # all phrase queries are (logically) of and type, so removing all double quotes
         queries: list[str] = queries.replace('"', "")
         return phrase_query(queries, bi_word_index, perm_index, rev_perm_index)
-    
-    
-def print_results(scores: list[tuple[int, float]], df: pd.DataFrame, show_summary: bool, ranked:bool):
+
+
+def print_results(
+    scores: list[tuple[int, float]], df: pd.DataFrame, show_summary: bool, ranked: bool
+):
     """Prints the results of the search
 
     Args:
@@ -180,9 +180,9 @@ def print_results(scores: list[tuple[int, float]], df: pd.DataFrame, show_summar
         )
         print(
             "------------------------------------------------------------------------------------------"
-        ) 
-        
-        
+        )
+
+
 def search(
     query: str,
     inverted_list: dict[str, LinkedList],
@@ -219,12 +219,16 @@ def search(
     if autocomplete:
         results = autocomplete_result(query, inverted_list, n_auto_results)
         print("Possible Options:")
-        print("------------------------------------------------------------------------------------------")
+        print(
+            "------------------------------------------------------------------------------------------"
+        )
         for i, result in enumerate(results):
             print(f"{i + 1}. {result}")
-        print("------------------------------------------------------------------------------------------")
-        return 
-            
+        print(
+            "------------------------------------------------------------------------------------------"
+        )
+        return
+
     # first we filter results using boolean retrieval
     filtered = boolean_filter(
         query,
@@ -279,4 +283,3 @@ def search(
     if retrieve_n is not None:
         scores = scores[:retrieve_n]
     print_results(scores, main_df, show_summary, ranked)
-    

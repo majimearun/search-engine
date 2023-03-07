@@ -1,6 +1,6 @@
-# Copyright (C) 2023 by Arunachala Amuda Murugan
+# Copyright © 2023 Arunachala Amuda Murugan (@majimearun)
 #
-# Lisence: GNU General Public License v3.0
+# License: GNU General Public License v3.0
 
 # importing libraries
 import numpy as np
