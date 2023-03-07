@@ -3,7 +3,7 @@
 **Problem Statement:** To build a search engine for a given corpus of documents. 
 
 - By Arunachala Amuda Murugan (2021A7PS0205H) 
-- Completed on 4th March 2023
+- Completed on 5th March 2023
 
 ## Feature List
 
