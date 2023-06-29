@@ -2,6 +2,8 @@
 
 My first search engine built using Python, Numpy, Pandas, and spaCy
 
+Written By @majimearun (Arunachala Amuda Murugan)
+
 ## Functionalities
 
 ### Boolean retrieval and filtering: Free and phrase queries
